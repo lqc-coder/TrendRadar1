@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-07T22:59:22.743315+08:00",
-  "total_titles_processed": 1242,
+  "generated_at": "2025-12-07T23:32:31.820753+08:00",
+  "total_titles_processed": 1267,
   "failed_sources": [],
   "trends": [
     {
@@ -120,8 +120,56 @@
             13
           ],
           "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[18时25分 ~ 23时32分]"
+        },
+        {
+          "title": "特朗普获国际足联和平奖",
+          "url": "https://search.bilibili.com/all?keyword=%E7%89%B9%E6%9C%97%E6%99%AE%E8%8E%B7%E5%9B%BD%E9%99%85%E8%B6%B3%E8%81%94%E5%92%8C%E5%B9%B3%E5%A5%96",
+          "source": "bilibili 热搜",
+          "ranks": [
+            9,
+            7
+          ],
+          "is_new": false,
           "appearance_count": 2,
-          "time_info": "[18时25分 ~ 22时59分]"
+          "time_info": "[22时59分 ~ 23时32分]"
+        },
+        {
+          "title": "以色列总理内塔尼亚胡：我们即将完成特朗普加沙计划的第一阶段，我们已近在咫尺。",
+          "url": "https://flash.jin10.com/detail/20251207194238247800",
+          "source": "金十数据",
+          "ranks": [
+            16,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时59分 ~ 23时32分]"
+        },
+        {
+          "title": "以色列总理内塔尼亚胡：我们已接近特朗普加沙计划的第二阶段。",
+          "url": "https://flash.jin10.com/detail/20251207193951591800",
+          "source": "金十数据",
+          "ranks": [
+            17,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时59分 ~ 23时32分]"
+        },
+        {
+          "title": "以色列总理内塔尼亚胡：我将于本月会晤美国总统特朗普。",
+          "url": "https://flash.jin10.com/detail/20251207192532766800",
+          "source": "金十数据",
+          "ranks": [
+            25,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时59分 ~ 23时32分]"
         },
         {
           "title": "年终总结特朗普重返白宫",
@@ -133,39 +181,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "15时24分"
-        },
-        {
-          "title": "特朗普获国际足联和平奖",
-          "url": "https://search.bilibili.com/all?keyword=%E7%89%B9%E6%9C%97%E6%99%AE%E8%8E%B7%E5%9B%BD%E9%99%85%E8%B6%B3%E8%81%94%E5%92%8C%E5%B9%B3%E5%A5%96",
-          "source": "bilibili 热搜",
-          "ranks": [
-            9
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时59分"
-        },
-        {
-          "title": "以色列总理内塔尼亚胡：我们即将完成特朗普加沙计划的第一阶段，我们已近在咫尺。",
-          "url": "https://flash.jin10.com/detail/20251207194238247800",
-          "source": "金十数据",
-          "ranks": [
-            16
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时59分"
-        },
-        {
-          "title": "以色列总理内塔尼亚胡：我们已接近特朗普加沙计划的第二阶段。",
-          "url": "https://flash.jin10.com/detail/20251207193951591800",
-          "source": "金十数据",
-          "ranks": [
-            17
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时59分"
         },
         {
           "title": "特朗普或将给高市早苗放权",
@@ -188,17 +203,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "13时25分"
-        },
-        {
-          "title": "以色列总理内塔尼亚胡：我将于本月会晤美国总统特朗普。",
-          "url": "https://flash.jin10.com/detail/20251207192532766800",
-          "source": "金十数据",
-          "ranks": [
-            25
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时59分"
         },
         {
           "title": "特朗普威胁封锁委领空 马杜罗咋办",
