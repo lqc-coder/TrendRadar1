@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-09T15:14:02.230078+08:00",
-  "total_titles_processed": 1198,
+  "generated_at": "2025-12-09T15:27:48.651379+08:00",
+  "total_titles_processed": 1226,
   "failed_sources": [],
   "trends": [
     {
@@ -16,8 +16,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[11时43分 ~ 15时14分]"
+          "appearance_count": 12,
+          "time_info": "[11时43分 ~ 15时27分]"
         },
         {
           "title": "日媒更慌了，“特朗普还不说话，这下怎么搞”",
@@ -27,8 +27,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[13时41分 ~ 15时14分]"
+          "appearance_count": 8,
+          "time_info": "[13时41分 ~ 15时27分]"
         },
         {
           "title": "特朗普的国安战略：“卖台保台”“捧华反华”都是一回事",
@@ -61,8 +61,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[13时41分 ~ 15时14分]"
+          "appearance_count": 8,
+          "time_info": "[13时41分 ~ 15时27分]"
         },
         {
           "title": "美议员急了：特朗普你得拉一把日本啊",
@@ -77,6 +77,17 @@
           "time_info": "[11时43分 ~ 13时42分]"
         },
         {
+          "title": "环球网：特朗普宣布允许英伟达向中国出售H200芯片",
+          "url": "https://wallstreetcn.com/articles/3760972",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[14时59分 ~ 15时27分]"
+        },
+        {
           "title": "特朗普：限期墨西哥释放水资源 否则加征5%关税",
           "url": "https://flash.jin10.com/detail/20251209070613686800",
           "source": "金十数据",
@@ -86,17 +97,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时33分"
-        },
-        {
-          "title": "环球网：特朗普宣布允许英伟达向中国出售H200芯片",
-          "url": "https://wallstreetcn.com/articles/3760972",
-          "source": "华尔街见闻",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[14时59分 ~ 15时14分]"
         },
         {
           "title": "周一（12月8日，美联储政策利率会议开幕前一天），降息赢家指数跌1.05%，报97.78点。 “特朗普关税输家”指数跌1.50%，散户抱团概念股指数/迷因股（meme stock）指数大致持平。",
@@ -210,6 +210,17 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[04时43分 ~ 06时41分]"
+        },
+        {
+          "title": "特朗普：是否公布视频由美防长决定",
+          "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE%EF%BC%9A%E6%98%AF%E5%90%A6%E5%85%AC%E5%B8%83%E8%A7%86%E9%A2%91%E7%94%B1%E7%BE%8E%E9%98%B2%E9%95%BF%E5%86%B3%E5%AE%9A",
+          "source": "百度热搜",
+          "ranks": [
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[15时13分 ~ 15时27分]"
         },
         {
           "title": "特朗普宣布允许英伟达向中国出售 H200 芯片，如何评价这一政策转向？将带来哪些影响？",
@@ -365,17 +376,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[02时55分 ~ 03时31分]"
-        },
-        {
-          "title": "特朗普：是否公布视频由美防长决定",
-          "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE%EF%BC%9A%E6%98%AF%E5%90%A6%E5%85%AC%E5%B8%83%E8%A7%86%E9%A2%91%E7%94%B1%E7%BE%8E%E9%98%B2%E9%95%BF%E5%86%B3%E5%AE%9A",
-          "source": "百度热搜",
-          "ranks": [
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[15时13分 ~ 15时14分]"
         },
         {
           "title": "以色列总理内塔尼亚胡：我们即将完成特朗普计划的第一阶段任务，现在将集中精力解除加沙的武装并收缴哈马斯的武器。",
@@ -590,8 +590,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[07时33分 ~ 15时14分]"
+          "appearance_count": 13,
+          "time_info": "[07时33分 ~ 15时27分]"
         },
         {
           "title": "静待美联储决议，美股高开，10年期日债收益率创18年新高，铜价再创新高",
@@ -802,8 +802,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[11时43分 ~ 15时14分]"
+          "appearance_count": 12,
+          "time_info": "[11时43分 ~ 15时27分]"
         },
         {
           "title": "全球市值最高电力股同日官宣谷歌、Meta新合作",
@@ -828,8 +828,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[11时43分 ~ 15时14分]"
+          "appearance_count": 12,
+          "time_info": "[11时43分 ~ 15时27分]"
         },
         {
           "title": "谷歌(GOOG.O)最新下跌约2.4%。",
@@ -962,18 +962,19 @@
     },
     {
       "keyword_group": "金价",
-      "match_count": 4,
+      "match_count": 5,
       "titles": [
         {
           "title": "土耳其银行业人士：土耳其央行上周的净储备预计已增加55亿美元，达到近780亿美元。土耳其央行上周购买了逾30亿美元资产，其中因金价变动带来的增值超过10亿美元。",
           "url": "https://flash.jin10.com/detail/20251209144133610800",
           "source": "金十数据",
           "ranks": [
-            7
+            7,
+            26
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[14时59分 ~ 15时14分]"
+          "appearance_count": 5,
+          "time_info": "[14时59分 ~ 15时27分]"
         },
         {
           "title": "金十图示：2025年12月09日（周二）上海金早盘价为949.8元/克，较国际金价(952.4元/克)，低2.6元/克",
@@ -996,6 +997,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "11时44分"
+        },
+        {
+          "title": "金十图示：2025年12月09日（周二）上海金午盘价为946.96元/克，较国际金价(950.39元/克)，低3.43元/克",
+          "url": "https://flash.jin10.com/detail/20251209150248326800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时27分"
         },
         {
           "title": "美联储主席热门人选哈塞特隔夜意外发表“鹰派”表态，降息预期遭受打压，金价多头情绪大幅回落，后市情绪如何？欢迎前往“数据库-嘉盛市场晴雨表”查看并订阅",
@@ -1048,8 +1060,8 @@
             16
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[13时41分 ~ 15时14分]"
+          "appearance_count": 8,
+          "time_info": "[13时41分 ~ 15时27分]"
         }
       ]
     },
@@ -1064,11 +1076,12 @@
           "ranks": [
             17,
             24,
-            27
+            27,
+            30
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[14时59分 ~ 15时14分]"
+          "appearance_count": 5,
+          "time_info": "[14时59分 ~ 15时27分]"
         },
         {
           "title": "OpenAI：与欧洲最大电信运营商之一德国电信达成合作。",
@@ -1108,8 +1121,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[11时43分 ~ 15时14分]"
+          "appearance_count": 12,
+          "time_info": "[11时43分 ~ 15时27分]"
         },
         {
           "title": "美债收益率冲高回落，投资者对美联储降息预期一度降温",
