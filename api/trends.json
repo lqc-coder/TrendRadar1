@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-09T15:05:49.709265+08:00",
-  "total_titles_processed": 1183,
+  "generated_at": "2025-12-09T15:08:27.153030+08:00",
+  "total_titles_processed": 1189,
   "failed_sources": [],
   "trends": [
     {
@@ -16,8 +16,19 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[11时43分 ~ 15时05分]"
+          "appearance_count": 9,
+          "time_info": "[11时43分 ~ 15时08分]"
+        },
+        {
+          "title": "日媒更慌了，“特朗普还不说话，这下怎么搞”",
+          "url": "https://news.ifeng.com/c/8owNK695xvD",
+          "source": "凤凰网",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[13时41分 ~ 15时08分]"
         },
         {
           "title": "特朗普的国安战略：“卖台保台”“捧华反华”都是一回事",
@@ -43,17 +54,6 @@
           "time_info": "[00时56分 ~ 11时44分]"
         },
         {
-          "title": "日媒更慌了，“特朗普还不说话，这下怎么搞”",
-          "url": "https://news.ifeng.com/c/8owNK695xvD",
-          "source": "凤凰网",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[13时41分 ~ 15时05分]"
-        },
-        {
           "title": "美议员急了：特朗普你得拉一把日本啊",
           "url": "https://news.ifeng.com/c/8owI9R84r47",
           "source": "凤凰网",
@@ -66,6 +66,17 @@
           "time_info": "[11时43分 ~ 13时42分]"
         },
         {
+          "title": "特朗普女婿，“杀回来了”",
+          "url": "https://news.ifeng.com/c/8owSp96lgRc",
+          "source": "凤凰网",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[13时41分 ~ 15时08分]"
+        },
+        {
           "title": "特朗普：限期墨西哥释放水资源 否则加征5%关税",
           "url": "https://flash.jin10.com/detail/20251209070613686800",
           "source": "金十数据",
@@ -75,17 +86,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时33分"
-        },
-        {
-          "title": "特朗普女婿，“杀回来了”",
-          "url": "https://news.ifeng.com/c/8owSp96lgRc",
-          "source": "凤凰网",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[13时41分 ~ 15时05分]"
         },
         {
           "title": "周一（12月8日，美联储政策利率会议开幕前一天），降息赢家指数跌1.05%，报97.78点。 “特朗普关税输家”指数跌1.50%，散户抱团概念股指数/迷因股（meme stock）指数大致持平。",
@@ -201,6 +201,17 @@
           "time_info": "[04时43分 ~ 06时41分]"
         },
         {
+          "title": "环球网：特朗普宣布允许英伟达向中国出售H200芯片",
+          "url": "https://wallstreetcn.com/articles/3760972",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[14时59分 ~ 15时08分]"
+        },
+        {
           "title": "特朗普宣布允许英伟达向中国出售 H200 芯片，如何评价这一政策转向？将带来哪些影响？",
           "url": "https://www.zhihu.com/question/1981651554999169255",
           "source": "知乎",
@@ -246,17 +257,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时57分 ~ 01时41分]"
-        },
-        {
-          "title": "环球网：特朗普宣布允许英伟达向中国出售H200芯片",
-          "url": "https://wallstreetcn.com/articles/3760972",
-          "source": "华尔街见闻",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时59分 ~ 15时05分]"
         },
         {
           "title": "白宫高级官员表示，美国总统特朗普致力于持续停止暴力，并期望柬埔寨和泰国政府充分履行其结束这场冲突的承诺。",
@@ -579,8 +579,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[07时33分 ~ 15时05分]"
+          "appearance_count": 10,
+          "time_info": "[07时33分 ~ 15时08分]"
         },
         {
           "title": "静待美联储决议，美股高开，10年期日债收益率创18年新高，铜价再创新高",
@@ -791,8 +791,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[11时43分 ~ 15时05分]"
+          "appearance_count": 9,
+          "time_info": "[11时43分 ~ 15时08分]"
         },
         {
           "title": "全球市值最高电力股同日官宣谷歌、Meta新合作",
@@ -817,8 +817,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[11时43分 ~ 15时05分]"
+          "appearance_count": 9,
+          "time_info": "[11时43分 ~ 15时08分]"
         },
         {
           "title": "谷歌(GOOG.O)最新下跌约2.4%。",
@@ -961,8 +961,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时59分 ~ 15时05分]"
+          "appearance_count": 3,
+          "time_info": "[14时59分 ~ 15时08分]"
         },
         {
           "title": "金十图示：2025年12月09日（周二）上海金早盘价为949.8元/克，较国际金价(952.4元/克)，低2.6元/克",
@@ -1033,11 +1033,12 @@
           "source": "知乎",
           "ranks": [
             17,
-            15
+            15,
+            16
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[13时41分 ~ 15时05分]"
+          "appearance_count": 5,
+          "time_info": "[13时41分 ~ 15时08分]"
         }
       ]
     },
@@ -1054,8 +1055,19 @@
             24
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时59分 ~ 15时05分]"
+          "appearance_count": 3,
+          "time_info": "[14时59分 ~ 15时08分]"
+        },
+        {
+          "title": "OpenAI：与欧洲最大电信运营商之一德国电信达成合作。",
+          "url": "https://flash.jin10.com/detail/20251209140918642800",
+          "source": "金十数据",
+          "ranks": [
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[14时59分 ~ 15时08分]"
         },
         {
           "title": "OpenAI报告称：企业人工智能应用激增",
@@ -1068,17 +1080,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时57分 ~ 01时41分]"
-        },
-        {
-          "title": "OpenAI：与欧洲最大电信运营商之一德国电信达成合作。",
-          "url": "https://flash.jin10.com/detail/20251209140918642800",
-          "source": "金十数据",
-          "ranks": [
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时59分 ~ 15时05分]"
         }
       ]
     },
@@ -1095,8 +1096,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[11时43分 ~ 15时05分]"
+          "appearance_count": 9,
+          "time_info": "[11时43分 ~ 15时08分]"
         },
         {
           "title": "美债收益率冲高回落，投资者对美联储降息预期一度降温",
