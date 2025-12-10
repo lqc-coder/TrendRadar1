@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-12-10T17:58:13.344134+08:00",
-  "total_titles_processed": 1678,
+  "generated_at": "2025-12-10T18:53:26.996332+08:00",
+  "total_titles_processed": 1760,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 55,
+      "match_count": 59,
       "titles": [
         {
           "title": "特朗普现在很焦虑",
@@ -32,6 +32,19 @@
           "time_info": "[13时54分 ~ 16时57分]"
         },
         {
+          "title": "失去耐心？特朗普要泽连斯基签下“节前之盟”",
+          "url": "https://news.ifeng.com/c/8oyJa7lvayk",
+          "source": "凤凰网",
+          "ranks": [
+            1,
+            5,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[15时42分 ~ 18时53分]"
+        },
+        {
           "title": "胡锡进：特朗普对H200放行，显然受到了两大压力",
           "url": "https://news.ifeng.com/c/8owt7VBi7fc",
           "source": "凤凰网",
@@ -45,17 +58,21 @@
           "time_info": "[00时01分 ~ 07时57分]"
         },
         {
-          "title": "失去耐心？特朗普要泽连斯基签下“节前之盟”",
-          "url": "https://news.ifeng.com/c/8oyJa7lvayk",
-          "source": "凤凰网",
+          "title": "特朗普俄乌“和平计划”失败？泽连斯基强硬表态：不会放弃任何领土",
+          "url": "https://www.cls.cn/detail/2225037",
+          "source": "财联社热门",
           "ranks": [
-            1,
+            13,
+            8,
+            7,
             5,
-            6
+            3,
+            4,
+            2
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[15时42分 ~ 17时58分]"
+          "appearance_count": 10,
+          "time_info": "[15时42分 ~ 18时53分]"
         },
         {
           "title": "特朗普谈俄乌冲突：现在是泽连斯基“开始接受现实”的时候了",
@@ -71,22 +88,6 @@
           "time_info": "[00时01分 ~ 07时50分]"
         },
         {
-          "title": "特朗普俄乌“和平计划”失败？泽连斯基强硬表态：不会放弃任何领土",
-          "url": "https://www.cls.cn/detail/2225037",
-          "source": "财联社热门",
-          "ranks": [
-            13,
-            8,
-            7,
-            5,
-            3,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[15时42分 ~ 17时58分]"
-        },
-        {
           "title": "特朗普：降息是新美联储主席的试金石，可能通过调整关税降低部分商品价格",
           "url": "https://wallstreetcn.com/articles/3761018",
           "source": "华尔街见闻",
@@ -98,8 +99,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 57,
-          "time_info": "[00时01分 ~ 17时58分]"
+          "appearance_count": 58,
+          "time_info": "[00时01分 ~ 18时53分]"
         },
         {
           "title": "壳牌：墨西哥湾（美国总统特朗普称“美国湾”）石油平台因Hoops输油管道故障停运而关闭。",
@@ -339,6 +340,17 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[07时33分 ~ 07时57分]"
+        },
+        {
+          "title": "特朗普继续数落欧洲 德总理：要做好“欧美不同行”的准备",
+          "url": "https://wallstreetcn.com/livenews/3018408",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时53分"
         },
         {
           "title": "俄罗斯外长拉夫罗夫：俄罗斯赞赏美国总统特朗普寻求就乌克兰问题开展对话的意愿。",
@@ -600,6 +612,17 @@
           "time_info": "[11时49分 ~ 11时50分]"
         },
         {
+          "title": "特朗普继续数落欧洲，默茨：要做好“欧美不同行”的准备",
+          "url": "https://news.ifeng.com/c/8oySvvFnvcj",
+          "source": "凤凰网",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时53分"
+        },
+        {
           "title": "特朗普：泽连斯基要开始接受现实了",
           "url": "https://www.toutiao.com/trending/7581295755181424686/",
           "source": "今日头条",
@@ -609,6 +632,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时57分"
+        },
+        {
+          "title": "金十数据整理：特朗普过去24小时都忙了什么？（2025-12-10）",
+          "url": "https://flash.jin10.com/detail/20251210181323063800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时53分"
         },
         {
           "title": "特朗普发长文回击：自诩政绩空前，晒“满分”健康报告，斥责《纽约时报》为“人民公敌”",
@@ -642,6 +676,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时57分"
+        },
+        {
+          "title": "特朗普：泽连斯基是顶级推销员，他什么都能卖",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32144595",
+          "source": "澎湃新闻",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时53分"
         },
         {
           "title": "美国白宫国家经济委员会主任哈塞特：特朗普政府停摆事件对数据有太多的影响。 在正常情况下，政府关门会造成信心崩塌。 总统特朗普会陈述经济的实情。",
@@ -1117,8 +1162,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[11时49分 ~ 17时58分]"
+          "appearance_count": 18,
+          "time_info": "[11时49分 ~ 18时53分]"
         },
         {
           "title": "三大美股指跌，H200消息刺激英伟达反弹，美债收益率两个月来新高，伦铜续创新高",
@@ -1165,6 +1210,57 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时57分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "伊朗",
+      "match_count": 4,
+      "titles": [
+        {
+          "title": "据黎巴嫩国家通讯社报道，黎巴嫩外交部长建议在第三国中立国与伊朗举行会谈。",
+          "url": "https://flash.jin10.com/detail/20251210182222746800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时53分"
+        },
+        {
+          "title": "黎巴嫩外交部长表示，婉拒伊朗的访问邀请并不意味着“拒绝讨论”，而是“当前尚不具备合适条件”。",
+          "url": "https://flash.jin10.com/detail/20251210181717842800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时53分"
+        },
+        {
+          "title": "伊总统重申伊朗与委内瑞拉站在一起",
+          "url": "https://flash.jin10.com/detail/20251210151717145800",
+          "source": "金十数据",
+          "ranks": [
+            13,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[15时42分 ~ 16时01分]"
+        },
+        {
+          "title": "据黎巴嫩国家通讯社报道，鉴于“当前形势”，黎巴嫩外交部长婉拒了伊朗访问德黑兰的邀请。",
+          "url": "https://flash.jin10.com/detail/20251210181615989800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时53分"
         }
       ]
     },
@@ -1276,24 +1372,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[15时53分 ~ 16时01分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "伊朗",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "伊总统重申伊朗与委内瑞拉站在一起",
-          "url": "https://flash.jin10.com/detail/20251210151717145800",
-          "source": "金十数据",
-          "ranks": [
-            13,
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[15时42分 ~ 16时01分]"
         }
       ]
     }
