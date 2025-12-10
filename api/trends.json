@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-12-10T16:01:02.092003+08:00",
-  "total_titles_processed": 1476,
+  "generated_at": "2025-12-10T16:57:26.103000+08:00",
+  "total_titles_processed": 1573,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 53,
+      "match_count": 54,
       "titles": [
         {
           "title": "特朗普现在很焦虑",
@@ -28,8 +28,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[13时54分 ~ 16时01分]"
+          "appearance_count": 10,
+          "time_info": "[13时54分 ~ 16时57分]"
         },
         {
           "title": "胡锡进：特朗普对H200放行，显然受到了两大压力",
@@ -69,8 +69,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 53,
-          "time_info": "[00时01分 ~ 16时01分]"
+          "appearance_count": 54,
+          "time_info": "[00时01分 ~ 16时57分]"
         },
         {
           "title": "壳牌：墨西哥湾（美国总统特朗普称“美国湾”）石油平台因Hoops输油管道故障停运而关闭。",
@@ -114,6 +114,18 @@
           "time_info": "[04时35分 ~ 06时54分]"
         },
         {
+          "title": "失去耐心？特朗普要泽连斯基签下“节前之盟”",
+          "url": "https://news.ifeng.com/c/8oyJa7lvayk",
+          "source": "凤凰网",
+          "ranks": [
+            1,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[15时42分 ~ 16时57分]"
+        },
+        {
           "title": "泽连斯基回应特朗普：乌方愿举行选举",
           "url": "https://news.ifeng.com/c/8oxFNJttZN2",
           "source": "凤凰网",
@@ -154,17 +166,6 @@
           "is_new": false,
           "appearance_count": 37,
           "time_info": "[01时41分 ~ 07时50分]"
-        },
-        {
-          "title": "失去耐心？特朗普要泽连斯基签下“节前之盟”",
-          "url": "https://news.ifeng.com/c/8oyJa7lvayk",
-          "source": "凤凰网",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[15时42分 ~ 16时01分]"
         },
         {
           "title": "泰柬冲突再起或惹恼特朗普？泰国首相强硬回应",
@@ -287,6 +288,20 @@
           "time_info": "[13时43分 ~ 15时42分]"
         },
         {
+          "title": "特朗普俄乌“和平计划”失败？泽连斯基强硬表态：不会放弃任何领土",
+          "url": "https://www.cls.cn/detail/2225037",
+          "source": "财联社热门",
+          "ranks": [
+            13,
+            8,
+            7,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[15时42分 ~ 16时57分]"
+        },
+        {
           "title": "特朗普政府宣布终止拜登时代的学生贷款偿还计划",
           "url": "https://flash.jin10.com/detail/20251210070402355800",
           "source": "金十数据",
@@ -321,19 +336,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[07时33分 ~ 07时57分]"
-        },
-        {
-          "title": "特朗普俄乌“和平计划”失败？泽连斯基强硬表态：不会放弃任何领土",
-          "url": "https://www.cls.cn/detail/2225037",
-          "source": "财联社热门",
-          "ranks": [
-            13,
-            8,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[15时42分 ~ 16时01分]"
         },
         {
           "title": "俄罗斯外长拉夫罗夫：俄罗斯赞赏美国总统特朗普寻求就乌克兰问题开展对话的意愿。",
@@ -637,6 +639,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时01分"
+        },
+        {
+          "title": "特朗普谈泰柬冲突：我得打个电话",
+          "url": "https://www.toutiao.com/trending/7582060214204104755/",
+          "source": "今日头条",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时57分"
         },
         {
           "title": "“影子美联储主席”哈塞特：无论特朗普提出什么要求，我都照做",
@@ -1090,8 +1103,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[11时49分 ~ 16时01分]"
+          "appearance_count": 14,
+          "time_info": "[11时49分 ~ 16时57分]"
         },
         {
           "title": "三大美股指跌，H200消息刺激英伟达反弹，美债收益率两个月来新高，伦铜续创新高",
@@ -1143,8 +1156,19 @@
     },
     {
       "keyword_group": "金价",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
+        {
+          "title": "澳新银行：金价小幅回落，市场对美联储后续宽松步伐趋于谨慎",
+          "url": "https://flash.jin10.com/detail/20251210164920560800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时57分"
+        },
         {
           "title": "金十图示：2025年12月10日（周三）上海金早盘价为953.31元/克，较国际金价(956.52元/克)，低3.21元/克",
           "url": "https://flash.jin10.com/detail/20251210111107526800",
