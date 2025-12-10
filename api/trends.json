@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-12-11T07:01:03.411937+08:00",
-  "total_titles_processed": 778,
+  "generated_at": "2025-12-11T07:34:15.311539+08:00",
+  "total_titles_processed": 826,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 38,
+      "match_count": 42,
       "titles": [
         {
           "title": "高市早苗求见特朗普",
@@ -15,8 +15,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[03时46分 ~ 07时01分]"
+          "appearance_count": 14,
+          "time_info": "[03时46分 ~ 07时34分]"
         },
         {
           "title": "洪都拉斯现任总统：由于特朗普“干预选举”，此次大选“无效”",
@@ -26,8 +26,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 20,
-          "time_info": "[00时00分 ~ 07时01分]"
+          "appearance_count": 22,
+          "time_info": "[00时00分 ~ 07时34分]"
         },
         {
           "title": "美国总统特朗普：今天与前美联储官员凯文·沃什会面。",
@@ -41,17 +41,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[05时01分 ~ 05时59分]"
-        },
-        {
-          "title": "特朗普警告哥伦比亚总统“最好放聪明点”",
-          "url": "https://wallstreetcn.com/livenews/3018703",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            4
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "07时01分"
         },
         {
           "title": "美国副总统万斯：拜登疯狂的政策让美国家庭在自己的国家都无法过上体面的生活。 特朗普总统通过减税、提供更高薪的工作以及投资美国工业，正一步步地让美国再次成为工薪家庭能够负担得起的地方。",
@@ -102,6 +91,18 @@
           "time_info": "[05时43分 ~ 06时43分]"
         },
         {
+          "title": "特朗普警告哥伦比亚总统“最好放聪明点”",
+          "url": "https://wallstreetcn.com/livenews/3018703",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4,
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[07时01分 ~ 07时34分]"
+        },
+        {
           "title": "美国总统特朗普：我们有“很好的借口”拦截“委内瑞拉油轮”。",
           "url": "https://wallstreetcn.com/livenews/3018654",
           "source": "华尔街见闻-快讯",
@@ -128,6 +129,18 @@
           "time_info": "[05时01分 ~ 05时59分]"
         },
         {
+          "title": "特朗普百万美元金卡签证开始接受申请",
+          "url": "https://flash.jin10.com/detail/20251211060659681800",
+          "source": "金十数据",
+          "ranks": [
+            10,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[06时43分 ~ 07时34分]"
+        },
+        {
           "title": "美国总统特朗普：美国的利率应该是全世界最低的。",
           "url": "https://wallstreetcn.com/livenews/3018663",
           "source": "华尔街见闻-快讯",
@@ -140,6 +153,18 @@
           "time_info": "[05时43分 ~ 05时59分]"
         },
         {
+          "title": "华纳收购案再迎变数 特朗普称CNN必须被出售",
+          "url": "https://flash.jin10.com/detail/20251211055914043800",
+          "source": "金十数据",
+          "ranks": [
+            13,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[06时43分 ~ 07时34分]"
+        },
+        {
           "title": "KPMG首席经济学家Diane Swonk：（美国）价格水平仍然太高。 担心（特朗普政府会通过）退税形式实施财政刺激。",
           "url": "https://wallstreetcn.com/livenews/3018600",
           "source": "华尔街见闻-快讯",
@@ -149,6 +174,18 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[03时46分 ~ 03时59分]"
+        },
+        {
+          "title": "特朗普向哥伦比亚总统发出威胁：“他将是下一个”",
+          "url": "https://flash.jin10.com/detail/20251211054743918800",
+          "source": "金十数据",
+          "ranks": [
+            16,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[06时43分 ~ 07时34分]"
         },
         {
           "title": "美国总统特朗普就柬埔寨-泰国问题表示：我们正安排明天通电话。",
@@ -250,6 +287,17 @@
           "time_info": "[04时49分 ~ 05时01分]"
         },
         {
+          "title": "美联储降息后 特朗普发声",
+          "url": "https://www.baidu.com/s?wd=%E7%BE%8E%E8%81%94%E5%82%A8%E9%99%8D%E6%81%AF%E5%90%8E+%E7%89%B9%E6%9C%97%E6%99%AE%E5%8F%91%E5%A3%B0",
+          "source": "百度热搜",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[07时33分 ~ 07时34分]"
+        },
+        {
           "title": "美国总统特朗普：我们应该能够实现超过3%或4%的GDP增长。",
           "url": "https://flash.jin10.com/detail/20251211043200798800",
           "source": "金十数据",
@@ -259,17 +307,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[04时49分 ~ 05时01分]"
-        },
-        {
-          "title": "特朗普百万美元金卡签证开始接受申请",
-          "url": "https://flash.jin10.com/detail/20251211060659681800",
-          "source": "金十数据",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[06时43分 ~ 07时01分]"
         },
         {
           "title": "高通、戴尔等科技公司的CEO们出席美国总统特朗普在白宫举办的圆桌会议。",
@@ -304,17 +341,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[04时49分 ~ 05时01分]"
-        },
-        {
-          "title": "华纳收购案再迎变数 特朗普称CNN必须被出售",
-          "url": "https://flash.jin10.com/detail/20251211055914043800",
-          "source": "金十数据",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[06时43分 ~ 07时01分]"
         },
         {
           "title": "美国总统特朗普：据苹果公司CEO库克表示，招聘很难。 今天将讨论科技和人工智能（AI）。 今天与参议院讨论过AI监管问题。",
@@ -362,17 +388,6 @@
           "time_info": "[04时49分 ~ 05时01分]"
         },
         {
-          "title": "特朗普向哥伦比亚总统发出威胁：“他将是下一个”",
-          "url": "https://flash.jin10.com/detail/20251211054743918800",
-          "source": "金十数据",
-          "ranks": [
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[06时43分 ~ 07时01分]"
-        },
-        {
           "title": "特朗普继续批评鲍威尔，声称美联储降息幅度本来可以翻倍的",
           "url": "https://wallstreetcn.com/livenews/3018645",
           "source": "华尔街见闻-快讯",
@@ -407,6 +422,17 @@
           "time_info": "[04时49分 ~ 05时01分]"
         },
         {
+          "title": "“特朗普黄金卡”开始接受申请",
+          "url": "https://www.baidu.com/s?wd=%E2%80%9C%E7%89%B9%E6%9C%97%E6%99%AE%E9%BB%84%E9%87%91%E5%8D%A1%E2%80%9D%E5%BC%80%E5%A7%8B%E6%8E%A5%E5%8F%97%E7%94%B3%E8%AF%B7",
+          "source": "百度热搜",
+          "ranks": [
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[07时33分 ~ 07时34分]"
+        },
+        {
           "title": "美国总统特朗普：墨西哥必须立即解决水资源问题。",
           "url": "https://flash.jin10.com/detail/20251211004151009800",
           "source": "金十数据",
@@ -416,6 +442,28 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[01时47分 ~ 01时57分]"
+        },
+        {
+          "title": "特朗普称计划在明年初公布“加沙和平委员会”成员名单",
+          "url": "https://flash.jin10.com/detail/20251211064549059800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时34分"
+        },
+        {
+          "title": "特朗普：泽连斯基必须现实一点",
+          "url": "https://flash.jin10.com/detail/20251211064229195800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时34分"
         },
         {
           "title": "鲍威尔：如果（特朗普政府）不实施新的关税，商品通胀可能会在2026年一季度见顶。 现存关税通胀应当有十分之几。",
@@ -443,7 +491,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 14,
+      "match_count": 15,
       "titles": [
         {
           "title": "决议前夕美股期指窄幅震荡 华尔街等待鲍威尔亮出底牌 | 今夜看点",
@@ -480,6 +528,17 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[05时43分 ~ 06时43分]"
+        },
+        {
+          "title": "美联储降息，鲍威尔言论比预期温和，美股三大指数收涨，白银再创新高，原油V形反转",
+          "url": "https://wallstreetcn.com/articles/3761091",
+          "source": "华尔街见闻",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[07时33分 ~ 07时34分]"
         },
         {
           "title": "金十图示：2025年12月10日（周三）热门中概股行情一览（美股盘中）",
@@ -519,6 +578,19 @@
           "time_info": "[05时43分 ~ 06时43分]"
         },
         {
+          "title": "美股收盘：标普500逼近历史新高 市场对未来更多宽松寄予希望",
+          "url": "https://www.cls.cn/detail/2225967",
+          "source": "财联社热门",
+          "ranks": [
+            12,
+            8,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[06时43分 ~ 07时34分]"
+        },
+        {
           "title": "周三（12月10日）纽约尾盘，彭博谷物分类指数跌0.39%，报29.7937点。 CBOT玉米期货跌0.89%，CBOT小麦期货跌0.98%。 CBOT大豆期货涨0.44%，美股开盘以来持续反弹。",
           "url": "https://wallstreetcn.com/livenews/3018646",
           "source": "华尔街见闻-快讯",
@@ -530,18 +602,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[05时01分 ~ 05时59分]"
-        },
-        {
-          "title": "美股收盘：标普500逼近历史新高 市场对未来更多宽松寄予希望",
-          "url": "https://www.cls.cn/detail/2225967",
-          "source": "财联社热门",
-          "ranks": [
-            12,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[06时43分 ~ 07时01分]"
         },
         {
           "title": "金十图示：2025年12月10日（周三）美股热门股票行情一览（美股收盘）",
@@ -618,17 +678,6 @@
       "match_count": 11,
       "titles": [
         {
-          "title": "Gemini获得CFTC关键批准，公司着眼于预测市场",
-          "url": "https://wallstreetcn.com/livenews/3018705",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "07时01分"
-        },
-        {
           "title": "Gemini Space Station Inc.（GEMI）美股盘后涨15%。",
           "url": "https://wallstreetcn.com/livenews/3018677",
           "source": "华尔街见闻-快讯",
@@ -640,6 +689,30 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[05时51分 ~ 07时01分]"
+        },
+        {
+          "title": "Gemini获得CFTC关键批准，公司着眼于预测市场",
+          "url": "https://wallstreetcn.com/livenews/3018705",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[07时01分 ~ 07时34分]"
+        },
+        {
+          "title": "谷歌(GOOG.O)：宣布对我们的Gemini 2.5 Flash和Gemini 2.5 Pro文本转语音（TTS）预览模型进行重大升级。",
+          "url": "https://flash.jin10.com/detail/20251211055023100800",
+          "source": "金十数据",
+          "ranks": [
+            14,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[06时43分 ~ 07时34分]"
         },
         {
           "title": "消息人士：若谷歌不做出更多让步，将面临欧盟罚款",
@@ -662,17 +735,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[01时47分 ~ 01时57分]"
-        },
-        {
-          "title": "谷歌(GOOG.O)：宣布对我们的Gemini 2.5 Flash和Gemini 2.5 Pro文本转语音（TTS）预览模型进行重大升级。",
-          "url": "https://flash.jin10.com/detail/20251211055023100800",
-          "source": "金十数据",
-          "ranks": [
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[06时43分 ~ 07时01分]"
         },
         {
           "title": "谷歌(GOOG.O)：功能今日将在美国全境以及德国和墨西哥部分地区推出。",
@@ -799,11 +861,51 @@
           "url": "https://wallstreetcn.com/livenews/3018697",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            11
+            11,
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[07时01分 ~ 07时34分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "chatgpt openai",
+      "match_count": 3,
+      "titles": [
+        {
+          "title": "OpenAI：ChatGPT用户在安卓设备上遭遇错误率飙升。",
+          "url": "https://flash.jin10.com/detail/20251211064706062800",
+          "source": "金十数据",
+          "ranks": [
+            9
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "07时01分"
+          "time_info": "07时34分"
+        },
+        {
+          "title": "OpenAI：为网络安全防范工作组巩固多个模型。 正准备为AI模型提供安全防范措施。 将成立“前沿风险委员会”。 训练模型来安全地响应那些有害的（用户/网络）请求。",
+          "url": "https://wallstreetcn.com/livenews/3018628",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "04时49分"
+        },
+        {
+          "title": "OpenAI未来的那些模型可能会构成“较高的”网络（安全）风险。（Axios）",
+          "url": "https://wallstreetcn.com/livenews/3018627",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "04时49分"
         }
       ]
     },
@@ -848,34 +950,6 @@
       ]
     },
     {
-      "keyword_group": "chatgpt openai",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "OpenAI：为网络安全防范工作组巩固多个模型。 正准备为AI模型提供安全防范措施。 将成立“前沿风险委员会”。 训练模型来安全地响应那些有害的（用户/网络）请求。",
-          "url": "https://wallstreetcn.com/livenews/3018628",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "04时49分"
-        },
-        {
-          "title": "OpenAI未来的那些模型可能会构成“较高的”网络（安全）风险。（Axios）",
-          "url": "https://wallstreetcn.com/livenews/3018627",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "04时49分"
-        }
-      ]
-    },
-    {
       "keyword_group": "美元",
       "match_count": 2,
       "titles": [
@@ -912,11 +986,12 @@
           "url": "https://flash.jin10.com/detail/20251211060423048800",
           "source": "金十数据",
           "ranks": [
-            11
+            11,
+            23
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[06时43分 ~ 07时01分]"
+          "appearance_count": 3,
+          "time_info": "[06时43分 ~ 07时34分]"
         }
       ]
     }
