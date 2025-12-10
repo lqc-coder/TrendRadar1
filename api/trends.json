@@ -1,5 +1,5 @@
 {
-  "generated_at": "2025-12-11T01:47:07.330968+08:00",
+  "generated_at": "2025-12-11T01:57:19.484685+08:00",
   "total_titles_processed": 453,
   "failed_sources": [],
   "trends": [
@@ -14,9 +14,9 @@
           "ranks": [
             7
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "01时47分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时47分 ~ 01时57分]"
         },
         {
           "title": "谷歌(GOOG.O)：将把Gemini 3引入Stitch——我们的实验性AI驱动设计工具。",
@@ -25,9 +25,9 @@
           "ranks": [
             8
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "01时47分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时47分 ~ 01时57分]"
         },
         {
           "title": "谷歌(GOOG.O)：功能今日将在美国全境以及德国和墨西哥部分地区推出。",
@@ -36,9 +36,9 @@
           "ranks": [
             17
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "01时47分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时47分 ~ 01时57分]"
         },
         {
           "title": "谷歌(GOOG.O)：即日起，我们将在安卓平台上推出紧急实时视频功能。",
@@ -47,9 +47,9 @@
           "ranks": [
             18
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "01时47分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时47分 ~ 01时57分]"
         },
         {
           "title": "消息人士：谷歌(GOOG.O)还可做出更多调整以避免罚款。",
@@ -58,9 +58,31 @@
           "ranks": [
             24
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "01时47分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时47分 ~ 01时57分]"
+        },
+        {
+          "title": "消息人士：Google Play正调整政策，旨在让应用开发者更便捷地将用户引导至其他渠道并自主选择收费模式，但据悉这些调整效果未达预期。",
+          "url": "https://flash.jin10.com/detail/20251211005231907800",
+          "source": "金十数据",
+          "ranks": [
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时47分 ~ 01时57分]"
+        },
+        {
+          "title": "消息人士：谷歌(GOOG.O)或将因Google Play违反欧盟规则而被欧盟处以罚款；罚款措施或将于2026年第一季度出台。",
+          "url": "https://flash.jin10.com/detail/20251211005056346800",
+          "source": "金十数据",
+          "ranks": [
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时47分 ~ 01时57分]"
         },
         {
           "title": "谷歌(GOOG.O)：推出适用于移动网页的YouTube Shorts广告服务。",
@@ -72,28 +94,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时58分"
-        },
-        {
-          "title": "消息人士：Google Play正调整政策，旨在让应用开发者更便捷地将用户引导至其他渠道并自主选择收费模式，但据悉这些调整效果未达预期。",
-          "url": "https://flash.jin10.com/detail/20251211005231907800",
-          "source": "金十数据",
-          "ranks": [
-            25
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "01时47分"
-        },
-        {
-          "title": "消息人士：谷歌(GOOG.O)或将因Google Play违反欧盟规则而被欧盟处以罚款；罚款措施或将于2026年第一季度出台。",
-          "url": "https://flash.jin10.com/detail/20251211005056346800",
-          "source": "金十数据",
-          "ranks": [
-            26
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "01时47分"
         }
       ]
     },
@@ -120,8 +120,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时00分 ~ 01时47分]"
+          "appearance_count": 5,
+          "time_info": "[00时00分 ~ 01时57分]"
         },
         {
           "title": "美国总统特朗普：墨西哥的水资源和污水问题是“对得克萨斯州、加利福尼亚州及美国的真正威胁”。",
@@ -130,9 +130,20 @@
           "ranks": [
             23
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "01时47分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时47分 ~ 01时57分]"
+        },
+        {
+          "title": "美国总统特朗普：墨西哥必须立即解决水资源问题。",
+          "url": "https://flash.jin10.com/detail/20251211004151009800",
+          "source": "金十数据",
+          "ranks": [
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时47分 ~ 01时57分]"
         },
         {
           "title": "消息人士：英国首相斯塔默、德国总理默茨、法国总统马克龙周三与美国总统特朗普通话。",
@@ -144,17 +155,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时00分"
-        },
-        {
-          "title": "美国总统特朗普：墨西哥必须立即解决水资源问题。",
-          "url": "https://flash.jin10.com/detail/20251211004151009800",
-          "source": "金十数据",
-          "ranks": [
-            29
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "01时47分"
         }
       ]
     },
@@ -169,9 +169,9 @@
           "ranks": [
             1
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "01时47分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时47分 ~ 01时57分]"
         },
         {
           "title": "金十图示：2025年12月10日（周三）热门中概股行情一览（美股盘中）",
@@ -180,9 +180,9 @@
           "ranks": [
             5
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "01时47分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时47分 ~ 01时57分]"
         },
         {
           "title": "决议前夕美股期指窄幅震荡 华尔街等待鲍威尔亮出底牌 | 今夜看点",
@@ -192,8 +192,8 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时46分 ~ 01时47分]"
+          "appearance_count": 3,
+          "time_info": "[01时46分 ~ 01时57分]"
         }
       ]
     },
@@ -208,9 +208,9 @@
           "ranks": [
             14
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "01时47分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时47分 ~ 01时57分]"
         },
         {
           "title": "高盛认为，对2026年底金价为4900美元的预测存在显著上行空间。",
@@ -238,8 +238,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时00分 ~ 01时47分]"
+          "appearance_count": 5,
+          "time_info": "[00时00分 ~ 01时57分]"
         }
       ]
     },
@@ -254,9 +254,9 @@
           "ranks": [
             20
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "01时47分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时47分 ~ 01时57分]"
         }
       ]
     }
