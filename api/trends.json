@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-12-10T20:01:32.638491+08:00",
-  "total_titles_processed": 1882,
+  "generated_at": "2025-12-10T21:53:29.298743+08:00",
+  "total_titles_processed": 2020,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 66,
+      "match_count": 71,
       "titles": [
         {
           "title": "特朗普现在很焦虑",
@@ -100,8 +100,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 64,
-          "time_info": "[00时01分 ~ 20时01分]"
+          "appearance_count": 65,
+          "time_info": "[00时01分 ~ 21时53分]"
         },
         {
           "title": "壳牌：墨西哥湾（美国总统特朗普称“美国湾”）石油平台因Hoops输油管道故障停运而关闭。",
@@ -294,6 +294,18 @@
           "time_info": "[06时37分 ~ 07时57分]"
         },
         {
+          "title": "特朗普：泽连斯基是顶级推销员，他什么都能卖",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32144595",
+          "source": "澎湃新闻",
+          "ranks": [
+            20,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[18时53分 ~ 21时53分]"
+        },
+        {
           "title": "特朗普继续数落欧洲 德总理：要做好“欧美不同行”的准备",
           "url": "https://wallstreetcn.com/livenews/3018408",
           "source": "华尔街见闻-快讯",
@@ -320,18 +332,6 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[13时43分 ~ 15时42分]"
-        },
-        {
-          "title": "特朗普：泽连斯基是顶级推销员，他什么都能卖",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32144595",
-          "source": "澎湃新闻",
-          "ranks": [
-            20,
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[18时53分 ~ 20时01分]"
         },
         {
           "title": "特朗普继续数落欧洲，默茨：要做好“欧美不同行”的准备",
@@ -634,6 +634,17 @@
           "time_info": "[15时53分 ~ 16时01分]"
         },
         {
+          "title": "洪都拉斯现任总统：由于特朗普“干预选举”，此次大选“无效”",
+          "url": "https://news.ifeng.com/c/8oyaoHd0S2N",
+          "source": "凤凰网",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时01分 ~ 21时53分]"
+        },
+        {
           "title": "据福克斯新闻：以为知情人士透露，美国总统特朗普尚未与司法部反垄断部门会面，就派拉蒙天舞、奈飞(NFLX.O)和华纳兄弟探索公司(WBD.O)之间的交易问题表达其意见。",
           "url": "https://flash.jin10.com/detail/20251210020446643800",
           "source": "金十数据",
@@ -711,24 +722,13 @@
           "time_info": "18时53分"
         },
         {
-          "title": "洪都拉斯现任总统：由于特朗普“干预选举”，此次大选“无效”",
-          "url": "https://news.ifeng.com/c/8oyaoHd0S2N",
-          "source": "凤凰网",
-          "ranks": [
-            9
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时01分"
-        },
-        {
           "title": "瑞士选举帕尔梅兰为2026年总统 将主持达沃斯论坛再迎特朗普",
           "url": "https://flash.jin10.com/detail/20251210193900379800",
           "source": "金十数据",
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时01分"
         },
@@ -755,6 +755,17 @@
           "time_info": "11时50分"
         },
         {
+          "title": "雪佛龙首席执行官沃斯：雪佛龙在委内瑞拉拥有“重要”的业务。正与美国总统特朗普政府就委内瑞拉问题进行磋商。",
+          "url": "https://flash.jin10.com/detail/20251210212542950800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时53分"
+        },
+        {
           "title": "市场消息：美国总统特朗普关于食品供应链的行政令已在《联邦公报》上发布。",
           "url": "https://flash.jin10.com/detail/20251210002300479800",
           "source": "金十数据",
@@ -777,6 +788,17 @@
           "time_info": "00时01分"
         },
         {
+          "title": "德国总理默茨：我们希望美国未来成为我们的伙伴，这一点我已向美国总统特朗普表明。",
+          "url": "https://flash.jin10.com/detail/20251210211820992800",
+          "source": "金十数据",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时53分"
+        },
+        {
           "title": "特朗普谈泰柬冲突：我得打个电话",
           "url": "https://www.toutiao.com/trending/7582060214204104755/",
           "source": "今日头条",
@@ -786,6 +808,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "16时57分"
+        },
+        {
+          "title": "德国总理默茨：我下次见到美国总统特朗普时，会告诉他，我们在移民政策上取得了成功。",
+          "url": "https://flash.jin10.com/detail/20251210211806034800",
+          "source": "金十数据",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时53分"
         },
         {
           "title": "“影子美联储主席”哈塞特：无论特朗普提出什么要求，我都照做",
@@ -810,6 +843,28 @@
           "time_info": "00时01分"
         },
         {
+          "title": "特朗普夸白宫发言人漂亮",
+          "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE%E5%A4%B8%E7%99%BD%E5%AE%AB%E5%8F%91%E8%A8%80%E4%BA%BA%E6%BC%82%E4%BA%AE",
+          "source": "百度热搜",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时53分"
+        },
+        {
+          "title": "特朗普演讲中低俗调侃议员老婆",
+          "url": "https://www.toutiao.com/trending/7581732466420973574/",
+          "source": "今日头条",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时53分"
+        },
+        {
           "title": "特朗普在厕所门前接受采访",
           "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE%E5%9C%A8%E5%8E%95%E6%89%80%E9%97%A8%E5%89%8D%E6%8E%A5%E5%8F%97%E9%87%87%E8%AE%BF",
           "source": "百度热搜",
@@ -824,7 +879,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 17,
+      "match_count": 19,
       "titles": [
         {
           "title": "美利率决议前市场谨慎，劳动力数据提振美股上涨，现货白银突破60美元创新高，加密货币转涨",
@@ -931,6 +986,17 @@
           "time_info": "[05时34分 ~ 05时58分]"
         },
         {
+          "title": "金十数据整理：每日美股市场要闻速递（2025-12-10）",
+          "url": "https://flash.jin10.com/detail/20251210214414427800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时53分"
+        },
+        {
           "title": "美股七巨头收盘播报｜周二（12月9日），美国科技股七巨头（Magnificent 7）指数涨0.11%，报208.56点。 “超大”市值科技股指数涨0.37%，报406.51点，低开后美股早盘持续收复失地并转涨，日内大部分时间高位窄幅震荡。",
           "url": "https://wallstreetcn.com/livenews/3017889",
           "source": "华尔街见闻-快讯",
@@ -1022,6 +1088,17 @@
           "time_info": "00时01分"
         },
         {
+          "title": "光掩模供应商Photronics美股盘前大涨15%，公司第一季度营收预期超出预期。",
+          "url": "https://wallstreetcn.com/livenews/3018453",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时53分"
+        },
+        {
           "title": "行业ETF美股盘初涨跌各异，半导体ETF跌约0.7%，网络股指数ETF跌约0.5%，全球科技股指数ETF跌次%，银行业ETF、能源业ETF涨0.7%。",
           "url": "https://wallstreetcn.com/livenews/3017763",
           "source": "华尔街见闻-快讯",
@@ -1036,7 +1113,7 @@
     },
     {
       "keyword_group": "chatgpt openai",
-      "match_count": 11,
+      "match_count": 12,
       "titles": [
         {
           "title": "OpenAI和Block参与创立Linux基金会旗下的“Agentic AI基金会（AAIF）”。 Anthropic称，将模型内容协议捐赠给AAIF。",
@@ -1157,6 +1234,17 @@
           "time_info": "01时42分"
         },
         {
+          "title": "Adobe：将Adobe Photoshop、Adobe Express、Adobe Acrobat直接引入ChatGPT。 将在接下来的几周内，继续为ChatGPT中的Adobe应用添加新功能。",
+          "url": "https://wallstreetcn.com/livenews/3018469",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时53分"
+        },
+        {
           "title": "据The Information：ChatGPT周活跃用户接近9亿。",
           "url": "https://flash.jin10.com/detail/20251209230341120800",
           "source": "金十数据",
@@ -1261,8 +1349,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 24,
-          "time_info": "[11时49分 ~ 20时01分]"
+          "appearance_count": 25,
+          "time_info": "[11时49分 ~ 21时53分]"
         },
         {
           "title": "三大美股指跌，H200消息刺激英伟达反弹，美债收益率两个月来新高，伦铜续创新高",
@@ -1306,7 +1394,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时01分"
         },
