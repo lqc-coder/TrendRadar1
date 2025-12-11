@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-11T11:51:45.445668+08:00",
-  "total_titles_processed": 1072,
+  "generated_at": "2025-12-11T12:58:53.423885+08:00",
+  "total_titles_processed": 1172,
   "failed_sources": [],
   "trends": [
     {
@@ -41,6 +41,17 @@
           "time_info": "[07时52分 ~ 07时57分]"
         },
         {
+          "title": "特朗普威胁哥伦比亚总统：马杜罗之后，就是你",
+          "url": "https://news.ifeng.com/c/8ozeTrd98oe",
+          "source": "凤凰网",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时51分 ~ 12时58分]"
+        },
+        {
           "title": "特朗普警告哥伦比亚总统“最好放聪明点”",
           "url": "https://wallstreetcn.com/livenews/3018703",
           "source": "华尔街见闻-快讯",
@@ -78,17 +89,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[05时01分 ~ 05时59分]"
-        },
-        {
-          "title": "特朗普威胁哥伦比亚总统：马杜罗之后，就是你",
-          "url": "https://news.ifeng.com/c/8ozeTrd98oe",
-          "source": "凤凰网",
-          "ranks": [
-            4
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "11时51分"
         },
         {
           "title": "美国副总统万斯：拜登疯狂的政策让美国家庭在自己的国家都无法过上体面的生活。 特朗普总统通过减税、提供更高薪的工作以及投资美国工业，正一步步地让美国再次成为工薪家庭能够负担得起的地方。",
@@ -164,6 +164,18 @@
           "time_info": "[05时01分 ~ 05时59分]"
         },
         {
+          "title": "特朗普炮轰美联储决议：降息幅度太小，本应至少翻倍！",
+          "url": "https://www.cls.cn/detail/2225986",
+          "source": "财联社热门",
+          "ranks": [
+            13,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[07时52分 ~ 12时58分]"
+        },
+        {
           "title": "IBM的CEO要求美国总统特朗普降低对特定国家的管控力度。",
           "url": "https://wallstreetcn.com/livenews/3018652",
           "source": "华尔街见闻-快讯",
@@ -221,18 +233,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[07时33分 ~ 07时45分]"
-        },
-        {
-          "title": "特朗普炮轰美联储决议：降息幅度太小，本应至少翻倍！",
-          "url": "https://www.cls.cn/detail/2225986",
-          "source": "财联社热门",
-          "ranks": [
-            13,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[07时52分 ~ 11时51分]"
         },
         {
           "title": "美国总统特朗普：美国的利率应该是全世界最低的。",
@@ -577,8 +577,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[06时43分 ~ 11时51分]"
+          "appearance_count": 10,
+          "time_info": "[06时43分 ~ 12时58分]"
         },
         {
           "title": "美联储降息，鲍威尔言论比预期温和，美股三大指数收涨，白银再创新高，原油V形反转",
@@ -589,8 +589,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[07时33分 ~ 11时51分]"
+          "appearance_count": 7,
+          "time_info": "[07时33分 ~ 12时58分]"
         },
         {
           "title": "决议前夕美股期指窄幅震荡 华尔街等待鲍威尔亮出底牌 | 今夜看点",
@@ -723,6 +723,18 @@
           "time_info": "[03时28分 ~ 03时32分]"
         },
         {
+          "title": "美股期货跌幅扩大，标普500指数期货跌1%，纳指期货跌1.5%。",
+          "url": "https://wallstreetcn.com/livenews/3018895",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时51分 ~ 12时58分]"
+        },
+        {
           "title": "美股收盘：标普500逼近历史新高",
           "url": "https://www.baidu.com/s?wd=%E7%BE%8E%E8%82%A1%E6%94%B6%E7%9B%98%EF%BC%9A%E6%A0%87%E6%99%AE500%E9%80%BC%E8%BF%91%E5%8E%86%E5%8F%B2%E6%96%B0%E9%AB%98",
           "source": "百度热搜",
@@ -758,24 +770,13 @@
           "time_info": "[06时43分 ~ 07时01分]"
         },
         {
-          "title": "美股期货跌幅扩大，标普500指数期货跌1%，纳指期货跌1.5%。",
-          "url": "https://wallstreetcn.com/livenews/3018895",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            9
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "11时51分"
-        },
-        {
           "title": "纳斯达克100指数期货跌1%，此前甲骨文美股盘后发布财报，股价大跌。",
           "url": "https://wallstreetcn.com/livenews/3018880",
           "source": "华尔街见闻-快讯",
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时51分"
         },
@@ -786,7 +787,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时51分"
         }
@@ -1074,11 +1075,12 @@
           "url": "https://s.weibo.com/weibo?q=%E9%87%91%E4%BB%B7&t=31&band_rank=22&Refer=top",
           "source": "微博",
           "ranks": [
-            22
+            22,
+            28
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "11时51分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时51分 ~ 12时58分]"
         },
         {
           "title": "高盛认为，对2026年底金价为4900美元的预测存在显著上行空间。",
@@ -1142,11 +1144,12 @@
           "url": "https://wallstreetcn.com/livenews/3018897",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            7
+            7,
+            27
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "11时51分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时51分 ~ 12时58分]"
         }
       ]
     }
