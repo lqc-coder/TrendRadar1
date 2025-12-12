@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-12-12T13:44:57.912652+08:00",
-  "total_titles_processed": 1231,
+  "generated_at": "2025-12-12T13:55:53.462860+08:00",
+  "total_titles_processed": 1251,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 65,
+      "match_count": 66,
       "titles": [
         {
           "title": "美英法德领导人就乌克兰问题通话，特朗普：言辞相当激烈",
@@ -91,6 +91,17 @@
           "is_new": false,
           "appearance_count": 8,
           "time_info": "[02时59分 ~ 04时59分]"
+        },
+        {
+          "title": "白宫：特朗普对俄乌都很失望",
+          "url": "https://news.ifeng.com/c/8p1LpVJOOIe",
+          "source": "凤凰网",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[12时56分 ~ 13时55分]"
         },
         {
           "title": "美媒：特朗普计划制裁马杜罗的侄子及多个运送委内瑞拉石油的公司",
@@ -226,17 +237,6 @@
           "time_info": "[02时59分 ~ 04时42分]"
         },
         {
-          "title": "白宫：特朗普对俄乌都很失望",
-          "url": "https://news.ifeng.com/c/8p1LpVJOOIe",
-          "source": "凤凰网",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时56分 ~ 13时44分]"
-        },
-        {
           "title": "美国白宫：美国总统特朗普今天稍晚时候将签署法案和行政令。",
           "url": "https://flash.jin10.com/detail/20251212025601886800",
           "source": "金十数据",
@@ -289,6 +289,17 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[07时35分 ~ 08时01分]"
+        },
+        {
+          "title": "特朗普拉小群,想拿C5替代G7",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28347914&amp;topic_name=%E7%89%B9%E6%9C%97%E6%99%AE%E6%8B%89%E5%B0%8F%E7%BE%A4%2C%E6%83%B3%E6%8B%BFC5%E6%9B%BF%E4%BB%A3G7",
+          "source": "贴吧",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时44分 ~ 13时55分]"
         },
         {
           "title": "美国总统特朗普：但现在，情况完全不同了，能源、石油和汽油的价格正在快速下跌，跌至五年来的最低点，而股票市场今天刚刚创下历史新高。",
@@ -487,17 +498,6 @@
           "time_info": "[04时42分 ~ 05时40分]"
         },
         {
-          "title": "特朗普拉小群,想拿C5替代G7",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28347914&amp;topic_name=%E7%89%B9%E6%9C%97%E6%99%AE%E6%8B%89%E5%B0%8F%E7%BE%A4%2C%E6%83%B3%E6%8B%BFC5%E6%9B%BF%E4%BB%A3G7",
-          "source": "贴吧",
-          "ranks": [
-            4
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时44分"
-        },
-        {
           "title": "美国白宫：自会面以来，特朗普已经与日本首相高市早苗有过几次交谈。",
           "url": "https://flash.jin10.com/detail/20251212024525907800",
           "source": "金十数据",
@@ -509,6 +509,19 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[03时35分 ~ 04时42分]"
+        },
+        {
+          "title": "特朗普废除拜登政府在阿拉斯加及其他州土地保护政策",
+          "url": "https://flash.jin10.com/detail/20251212124015260800",
+          "source": "金十数据",
+          "ranks": [
+            5,
+            10,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[12时56分 ~ 13时55分]"
         },
         {
           "title": "特朗普：我们希望人工智能领域只有一个中央审批机构。",
@@ -547,18 +560,6 @@
           "time_info": "[07时35分 ~ 08时01分]"
         },
         {
-          "title": "特朗普废除拜登政府在阿拉斯加及其他州土地保护政策",
-          "url": "https://flash.jin10.com/detail/20251212124015260800",
-          "source": "金十数据",
-          "ranks": [
-            5,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时56分 ~ 13时44分]"
-        },
-        {
           "title": "特朗普政府计划在周五签署（与稳定供应链有关的）Pax Silica宣言后启动合作伙伴联盟，将新加坡、澳大利亚、日本、韩国和以色列联合起来，旨在解决关键矿产资源获取方面的不足。",
           "url": "https://flash.jin10.com/detail/20251212070419799800",
           "source": "金十数据",
@@ -569,6 +570,28 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[07时35分 ~ 08时01分]"
+        },
+        {
+          "title": "高市早苗在日本众院预算委员会会议上示意，希望尽早与特朗普会面，此举释放了什么信号？",
+          "url": "https://www.zhihu.com/question/1982382027627073644",
+          "source": "知乎",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[11时52分 ~ 13时55分]"
+        },
+        {
+          "title": "特朗普破大妨：美国AI电力遥遥领先，都归功于我",
+          "url": "https://news.ifeng.com/c/8p1EpDusf8A",
+          "source": "凤凰网",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[11时52分 ~ 13时55分]"
         },
         {
           "title": "据熟悉竞标过程的消息人士透露，派拉蒙在竞标华纳兄弟探索频道的过程中不得不做出一个关键改变——明确承诺其外国合作伙伴和特朗普的女婿库什纳的基金将没有任何投票权或管理权。",
@@ -592,28 +615,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[03时47分 ~ 04时02分]"
-        },
-        {
-          "title": "高市早苗在日本众院预算委员会会议上示意，希望尽早与特朗普会面，此举释放了什么信号？",
-          "url": "https://www.zhihu.com/question/1982382027627073644",
-          "source": "知乎",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[11时52分 ~ 13时44分]"
-        },
-        {
-          "title": "特朗普破大妨：美国AI电力遥遥领先，都归功于我",
-          "url": "https://news.ifeng.com/c/8p1EpDusf8A",
-          "source": "凤凰网",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[11时52分 ~ 13时44分]"
         },
         {
           "title": "泰国总理给特朗普“泼冷水”",
@@ -676,6 +677,18 @@
           "time_info": "[02时59分 ~ 03时35分]"
         },
         {
+          "title": "白宫：特朗普跟中日都能搞好关系",
+          "url": "https://www.toutiao.com/trending/7582430336525828123/",
+          "source": "今日头条",
+          "ranks": [
+            20,
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时44分 ~ 13时55分]"
+        },
+        {
           "title": "特朗普称美对委行动很快将延伸至陆地",
           "url": "https://www.toutiao.com/trending/7582515717653315611/",
           "source": "今日头条",
@@ -730,6 +743,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "08时01分"
+        },
+        {
+          "title": "泰国外交部：与美国国务卿鲁比奥的通话为美国总统特朗普与泰国总理通话做准备。",
+          "url": "https://flash.jin10.com/detail/20251212132635026800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时55分"
         },
         {
           "title": "特朗普签署一项关于人工智能的行政命令，称美国需要一个中央层面的AI审批机制。",
@@ -787,17 +811,6 @@
           "time_info": "08时01分"
         },
         {
-          "title": "白宫：特朗普跟中日都能搞好关系",
-          "url": "https://www.toutiao.com/trending/7582430336525828123/",
-          "source": "今日头条",
-          "ranks": [
-            20
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时44分"
-        },
-        {
           "title": "据AXIOS网站：特朗普政府周四对委内瑞拉总统马杜罗的三名侄子、一名亲近该政权的商人以及六家运输其石油的公司实施了新的制裁。",
           "url": "https://flash.jin10.com/detail/20251212021813893800",
           "source": "金十数据",
@@ -836,8 +849,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[06时54分 ~ 13时44分]"
+          "appearance_count": 12,
+          "time_info": "[06时54分 ~ 13时55分]"
         },
         {
           "title": "AI泡沫担忧重燃，甲骨文跌16%，美股涨跌不一，金油承压，比特币跌超2%",
@@ -1047,8 +1060,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[11时52分 ~ 13时44分]"
+          "appearance_count": 4,
+          "time_info": "[11时52分 ~ 13时55分]"
         },
         {
           "title": "OpenAI总裁兼联合创始人Greg Brockman发布GPT5.2思维能力测评结果，并表示，模型的基准测试表现非常出色。",
@@ -1124,6 +1137,19 @@
           "time_info": "00时02分"
         },
         {
+          "title": "美联储重新任命11位地区联储主席 OpenAI发布更先进模型GPT-5.2 | 环球市场",
+          "url": "https://www.cls.cn/detail/2227268",
+          "source": "财联社热门",
+          "ranks": [
+            13,
+            10,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[11时52分 ~ 13时55分]"
+        },
+        {
           "title": "市场消息：博通(AVGO.O)不预计OpenAI会在2026年带来太多的营收。",
           "url": "https://flash.jin10.com/detail/20251212065338671800",
           "source": "金十数据",
@@ -1136,19 +1162,6 @@
           "time_info": "[07时35分 ~ 08时01分]"
         },
         {
-          "title": "美联储重新任命11位地区联储主席 OpenAI发布更先进模型GPT-5.2 | 环球市场",
-          "url": "https://www.cls.cn/detail/2227268",
-          "source": "财联社热门",
-          "ranks": [
-            13,
-            10,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[11时52分 ~ 13时44分]"
-        },
-        {
           "title": "ChatGPT5.2有哪些新升级",
           "url": "https://search.bilibili.com/all?keyword=ChatGPT5.2%E6%9C%89%E5%93%AA%E4%BA%9B%E6%96%B0%E5%8D%87%E7%BA%A7",
           "source": "bilibili 热搜",
@@ -1156,8 +1169,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时56分 ~ 13时44分]"
+          "appearance_count": 3,
+          "time_info": "[12时56分 ~ 13时55分]"
         },
         {
           "title": "全面解析ChatGPT5.2",
@@ -1305,8 +1318,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[11时52分 ~ 13时44分]"
+          "appearance_count": 4,
+          "time_info": "[11时52分 ~ 13时55分]"
         },
         {
           "title": "标普500指数初步收涨0.2%，原材料板块涨2.1%，金融板块涨1.8%，科技板块跌0.7%，电信板块跌1.1%。 纳斯达克100指数初步收跌0.3%，成分股中，Trade Desk初步收跌5.3%，Arm控股跌3.8%，迈威尔科技跌3.5%，英特尔跌3.3%，谷歌A跌2.5%，美光科技跌2.2%，Adobe则收涨2.1%，再生元制药涨2.7%，Linde Plc.涨2.7%，万豪国际涨3.3%，核电股Constellation Energy涨4.3%。 Visa初步收涨6.3%，领跑道指成分股，耐克涨2.9%，高盛涨2.8%，美国运通涨2.7%，Salesforce则跌0.8%表现倒数第五，亚马逊跌0.9%，思科跌1.2%，可口可乐跌1.5%，英伟达跌1.6%。",
