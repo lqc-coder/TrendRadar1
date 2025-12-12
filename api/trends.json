@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-12-12T15:58:52.063202+08:00",
-  "total_titles_processed": 1505,
+  "generated_at": "2025-12-12T16:58:42.970400+08:00",
+  "total_titles_processed": 1599,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 70,
+      "match_count": 71,
       "titles": [
         {
           "title": "美英法德领导人就乌克兰问题通话，特朗普：言辞相当激烈",
@@ -41,11 +41,12 @@
           "source": "贴吧",
           "ranks": [
             4,
-            5
+            5,
+            6
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[13时44分 ~ 15时58分]"
+          "appearance_count": 7,
+          "time_info": "[13时44分 ~ 16时58分]"
         },
         {
           "title": "盘点｜从研究机构到艺术中心，这是特朗普的“冠名全家桶”",
@@ -75,6 +76,18 @@
           "is_new": false,
           "appearance_count": 8,
           "time_info": "[03时35分 ~ 05时40分]"
+        },
+        {
+          "title": "高市早苗在日本众院预算委员会会议上示意，希望尽早与特朗普会面，此举释放了什么信号？",
+          "url": "https://www.zhihu.com/question/1982382027627073644",
+          "source": "知乎",
+          "ranks": [
+            11,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[11时52分 ~ 16时58分]"
         },
         {
           "title": "大陪审团拒绝起诉纽约州总检察长，特朗普再遭挫折",
@@ -117,18 +130,6 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[03时35分 ~ 04时59分]"
-        },
-        {
-          "title": "高市早苗在日本众院预算委员会会议上示意，希望尽早与特朗普会面，此举释放了什么信号？",
-          "url": "https://www.zhihu.com/question/1982382027627073644",
-          "source": "知乎",
-          "ranks": [
-            11,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[11时52分 ~ 15时58分]"
         },
         {
           "title": "周四（12月11日，美联储降息次日），降息赢家指数涨0.91%，报101.10点。 “特朗普关税输家”指数涨1.72%。 散户抱团概念股指数/迷因股（meme stock）指数涨0.11%。",
@@ -462,6 +463,19 @@
           "time_info": "11时52分"
         },
         {
+          "title": "特朗普：只有泽连斯基不喜欢和平计划",
+          "url": "https://news.ifeng.com/c/8p1VFhun2fI",
+          "source": "凤凰网",
+          "ranks": [
+            7,
+            4,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[15时41分 ~ 16时58分]"
+        },
+        {
           "title": "据AXIOS网站：特朗普政府计划任命一名美国少将指挥驻加沙国际稳定部队（ISF）。",
           "url": "https://flash.jin10.com/detail/20251212040044595800",
           "source": "金十数据",
@@ -510,18 +524,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[04时42分 ~ 05时40分]"
-        },
-        {
-          "title": "特朗普：只有泽连斯基不喜欢和平计划",
-          "url": "https://news.ifeng.com/c/8p1VFhun2fI",
-          "source": "凤凰网",
-          "ranks": [
-            7,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[15时41分 ~ 15时58分]"
         },
         {
           "title": "特朗普破大妨：美国AI电力遥遥领先，都归功于我",
@@ -632,6 +634,28 @@
           "time_info": "[03时47分 ~ 04时02分]"
         },
         {
+          "title": "C5替换G7？梅德韦杰夫：特朗普公然羞辱欧洲",
+          "url": "https://news.ifeng.com/c/8p1L6GS7kXE",
+          "source": "凤凰网",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[15时52分 ~ 16时58分]"
+        },
+        {
+          "title": "胡锡进：即使特朗普正式提出C5，中国会否加入也是值得怀疑的",
+          "url": "https://news.ifeng.com/c/8p1ctCRfRRQ",
+          "source": "凤凰网",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[15时52分 ~ 16时58分]"
+        },
+        {
           "title": "学者：特朗普想在中日博弈中两头渔利",
           "url": "https://www.toutiao.com/trending/7582834886818401855/",
           "source": "今日头条",
@@ -667,28 +691,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[07时53分 ~ 08时01分]"
-        },
-        {
-          "title": "C5替换G7？梅德韦杰夫：特朗普公然羞辱欧洲",
-          "url": "https://news.ifeng.com/c/8p1L6GS7kXE",
-          "source": "凤凰网",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[15时52分 ~ 15时58分]"
-        },
-        {
-          "title": "胡锡进：即使特朗普正式提出C5，中国会否加入也是值得怀疑的",
-          "url": "https://news.ifeng.com/c/8p1ctCRfRRQ",
-          "source": "凤凰网",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[15时52分 ~ 15时58分]"
         },
         {
           "title": "美国白宫就美联储的行动表态称，总统特朗普认为还应采取更多措施。",
@@ -859,6 +861,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "08时01分"
+        },
+        {
+          "title": "面对特朗普施压 泽连斯基最新表态：领土问题应由乌人民决定",
+          "url": "https://www.cls.cn/detail/2227581",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时58分"
         },
         {
           "title": "据AXIOS网站：特朗普政府周四对委内瑞拉总统马杜罗的三名侄子、一名亲近该政权的商人以及六家运输其石油的公司实施了新的制裁。",
@@ -1128,6 +1141,17 @@
           "time_info": "[11时52分 ~ 15时58分]"
         },
         {
+          "title": "ChatGPT5.2有哪些新升级",
+          "url": "https://search.bilibili.com/all?keyword=ChatGPT5.2%E6%9C%89%E5%93%AA%E4%BA%9B%E6%96%B0%E5%8D%87%E7%BA%A7",
+          "source": "bilibili 热搜",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[12时56分 ~ 16时58分]"
+        },
+        {
           "title": "OpenAI总裁兼联合创始人Greg Brockman发布GPT5.2思维能力测评结果，并表示，模型的基准测试表现非常出色。",
           "url": "https://flash.jin10.com/detail/20251212025521319800",
           "source": "金十数据",
@@ -1140,17 +1164,6 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[03时35分 ~ 04时59分]"
-        },
-        {
-          "title": "ChatGPT5.2有哪些新升级",
-          "url": "https://search.bilibili.com/all?keyword=ChatGPT5.2%E6%9C%89%E5%93%AA%E4%BA%9B%E6%96%B0%E5%8D%87%E7%BA%A7",
-          "source": "bilibili 热搜",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[12时56分 ~ 15时58分]"
         },
         {
           "title": "博通：公司并不预计OpenAI会在2026年带来太多的营收。",
@@ -1301,11 +1314,12 @@
           "source": "华尔街见闻",
           "ranks": [
             7,
-            6
+            6,
+            5
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[11时52分 ~ 15时58分]"
+          "appearance_count": 9,
+          "time_info": "[11时52分 ~ 16时58分]"
         },
         {
           "title": "谷歌母公司Alphabet跌幅扩大至3.5%。 微软涨1.2%，刷新日高。",
@@ -1453,7 +1467,7 @@
     },
     {
       "keyword_group": "美债",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
         {
           "title": "美国纽约联储披露短期美债购买情况：美联储周五将购买82亿美元国库券。",
@@ -1495,6 +1509,17 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[02时59分 ~ 04时02分]"
+        },
+        {
+          "title": "花旗：美债仍属可控，投资者仍具信心",
+          "url": "https://flash.jin10.com/detail/20251212164856635800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时58分"
         }
       ]
     },
@@ -1596,7 +1621,7 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时58分"
         }
