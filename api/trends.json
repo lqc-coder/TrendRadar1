@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-12-12T18:50:50.640231+08:00",
-  "total_titles_processed": 1804,
+  "generated_at": "2025-12-12T18:59:07.755148+08:00",
+  "total_titles_processed": 1830,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 74,
+      "match_count": 75,
       "titles": [
         {
           "title": "美英法德领导人就乌克兰问题通话，特朗普：言辞相当激烈",
@@ -32,8 +32,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[13时44分 ~ 18时50分]"
+          "appearance_count": 13,
+          "time_info": "[13时44分 ~ 18时59分]"
         },
         {
           "title": "美国财政部计划增加特朗普时期对企业的税收优惠",
@@ -61,8 +61,8 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[11时52分 ~ 18时50分]"
+          "appearance_count": 15,
+          "time_info": "[11时52分 ~ 18时59分]"
         },
         {
           "title": "盘点｜从研究机构到艺术中心，这是特朗普的“冠名全家桶”",
@@ -77,6 +77,30 @@
           "is_new": false,
           "appearance_count": 32,
           "time_info": "[00时02分 ~ 08时01分]"
+        },
+        {
+          "title": "C5替换G7？梅德韦杰夫：特朗普公然羞辱欧洲",
+          "url": "https://news.ifeng.com/c/8p1L6GS7kXE",
+          "source": "凤凰网",
+          "ranks": [
+            6,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[15时52分 ~ 18时59分]"
+        },
+        {
+          "title": "胡锡进：即使特朗普正式提出C5，中国会否加入也是值得怀疑的",
+          "url": "https://news.ifeng.com/c/8p1ctCRfRRQ",
+          "source": "凤凰网",
+          "ranks": [
+            7,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[15时52分 ~ 18时59分]"
         },
         {
           "title": "白宫新闻秘书Leavitt：美国总统特朗普今天稍晚将签署法案和行政命令。",
@@ -174,18 +198,6 @@
           "time_info": "[05时48分 ~ 07时01分]"
         },
         {
-          "title": "C5替换G7？梅德韦杰夫：特朗普公然羞辱欧洲",
-          "url": "https://news.ifeng.com/c/8p1L6GS7kXE",
-          "source": "凤凰网",
-          "ranks": [
-            6,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[15时52分 ~ 18时50分]"
-        },
-        {
           "title": "欧盟委员会主席冯德莱恩表示，特朗普不应该干涉欧洲的民主制度。",
           "url": "https://flash.jin10.com/detail/20251212042709736800",
           "source": "金十数据",
@@ -221,18 +233,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[07时53分 ~ 08时01分]"
-        },
-        {
-          "title": "胡锡进：即使特朗普正式提出C5，中国会否加入也是值得怀疑的",
-          "url": "https://news.ifeng.com/c/8p1ctCRfRRQ",
-          "source": "凤凰网",
-          "ranks": [
-            7,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[15时52分 ~ 18时50分]"
         },
         {
           "title": "莫迪同特朗普就贸易和能源等问题通电话",
@@ -331,6 +331,18 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[03时35分 ~ 04时59分]"
+        },
+        {
+          "title": "面对特朗普施压 泽连斯基最新表态：领土问题应由乌人民决定",
+          "url": "https://www.cls.cn/detail/2227581",
+          "source": "财联社热门",
+          "ranks": [
+            13,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[16时58分 ~ 18时59分]"
         },
         {
           "title": "美国总统特朗普：周六有个会议，我们看看要不要参加。如果我们认为有很好的机会（达成乌克兰和平协议），我们会参加。",
@@ -554,18 +566,6 @@
           "time_info": "[04时42分 ~ 05时40分]"
         },
         {
-          "title": "面对特朗普施压 泽连斯基最新表态：领土问题应由乌人民决定",
-          "url": "https://www.cls.cn/detail/2227581",
-          "source": "财联社热门",
-          "ranks": [
-            13,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[16时58分 ~ 18时50分]"
-        },
-        {
           "title": "特朗普破大妨：美国AI电力遥遥领先，都归功于我",
           "url": "https://news.ifeng.com/c/8p1EpDusf8A",
           "source": "凤凰网",
@@ -782,6 +782,17 @@
           "time_info": "[11时52分 ~ 12时56分]"
         },
         {
+          "title": "火速任命地方联储主席，特朗普不能随心所欲了？丨Hi，今天怎么看？",
+          "url": "https://flash.jin10.com/detail/20251212184015295800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时59分"
+        },
+        {
           "title": "加州州长再批特朗普：最具破坏性总统",
           "url": "https://news.ifeng.com/c/8p18mDHMrQq",
           "source": "凤凰网",
@@ -865,7 +876,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时50分"
         },
@@ -909,7 +920,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时50分"
         },
@@ -1165,8 +1176,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[11时52分 ~ 18时50分]"
+          "appearance_count": 15,
+          "time_info": "[11时52分 ~ 18时59分]"
         },
         {
           "title": "谷歌母公司Alphabet跌幅扩大至3.5%。 微软涨1.2%，刷新日高。",
@@ -1267,6 +1278,17 @@
           "time_info": "[07时35分 ~ 08时01分]"
         },
         {
+          "title": "UP主解读OpenAI和谷歌的AI大战",
+          "url": "https://search.bilibili.com/all?keyword=UP%E4%B8%BB%E8%A7%A3%E8%AF%BBOpenAI%E5%92%8C%E8%B0%B7%E6%AD%8C%E7%9A%84AI%E5%A4%A7%E6%88%98",
+          "source": "bilibili 热搜",
+          "ranks": [
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[18时50分 ~ 18时59分]"
+        },
+        {
           "title": "谷歌(GOOG.O)：宣布与英国国家量子计算中心开展全新合作。",
           "url": "https://flash.jin10.com/detail/20251212150720006800",
           "source": "金十数据",
@@ -1311,17 +1333,6 @@
           "time_info": "01时58分"
         },
         {
-          "title": "UP主解读OpenAI和谷歌的AI大战",
-          "url": "https://search.bilibili.com/all?keyword=UP%E4%B8%BB%E8%A7%A3%E8%AF%BBOpenAI%E5%92%8C%E8%B0%B7%E6%AD%8C%E7%9A%84AI%E5%A4%A7%E6%88%98",
-          "source": "bilibili 热搜",
-          "ranks": [
-            15
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时50分"
-        },
-        {
           "title": "谷歌(GOOG.O)：开源一个新的网络研究代理基准，DEEPSEARCHQA，旨在测试代理在网络研究任务上的全面性。",
           "url": "https://flash.jin10.com/detail/20251212010455282800",
           "source": "金十数据",
@@ -1357,8 +1368,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[12时56分 ~ 18时50分]"
+          "appearance_count": 14,
+          "time_info": "[12时56分 ~ 18时59分]"
         },
         {
           "title": "GPT-5.2来了！OpenAI称其为“最强专业知识工作大模型”",
