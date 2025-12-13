@@ -1,5 +1,5 @@
 {
-  "generated_at": "2025-12-13T13:52:55.072992+08:00",
+  "generated_at": "2025-12-13T13:59:25.676411+08:00",
   "total_titles_processed": 971,
   "failed_sources": [],
   "trends": [
@@ -47,6 +47,17 @@
           "is_new": false,
           "appearance_count": 11,
           "time_info": "[00时58分 ~ 04时56分]"
+        },
+        {
+          "title": "特朗普称泰柬已同意停火，泰方否认",
+          "url": "https://news.ifeng.com/c/8p2to1Pzvac",
+          "source": "凤凰网",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[11时42分 ~ 13时59分]"
         },
         {
           "title": "泽连斯基：特朗普让我们撤离乌东，他要建“自由经济区”",
@@ -105,8 +116,8 @@
             19
           ],
           "is_new": false,
-          "appearance_count": 32,
-          "time_info": "[00时49分 ~ 13时52分]"
+          "appearance_count": 33,
+          "time_info": "[00时49分 ~ 13时59分]"
         },
         {
           "title": "美国总统特朗普在办公室表示：倾向于让沃什或哈塞特担任美联储主席。 沃什现在处于美联储主席候选人清单的顶端。 下一任美联储主席应该就利率问题征求我的意见。 今后一年，利率应当在1%或更低。（华尔街日报）",
@@ -166,17 +177,6 @@
           "time_info": "[00时58分 ~ 03时56分]"
         },
         {
-          "title": "特朗普称泰柬已同意停火，泰方否认",
-          "url": "https://news.ifeng.com/c/8p2to1Pzvac",
-          "source": "凤凰网",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[11时42分 ~ 13时52分]"
-        },
-        {
           "title": "特朗普称泰柬同意全面停火",
           "url": "https://wallstreetcn.com/livenews/3020102",
           "source": "华尔街见闻-快讯",
@@ -216,6 +216,30 @@
           "time_info": "[07时34分 ~ 07时59分]"
         },
         {
+          "title": "特朗普说倾向选择沃什或哈西特接任美联储主席",
+          "url": "https://flash.jin10.com/detail/20251213131305142800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[13时42分 ~ 13时59分]"
+        },
+        {
+          "title": "法院文件显示，加利福尼亚州起诉特朗普政府，因其撤销超3300万美元联邦拨款，这些拨款原用于针对非美国居民的卡车司机英语能力要求规定。",
+          "url": "https://flash.jin10.com/detail/20251213102355663800",
+          "source": "金十数据",
+          "ranks": [
+            3,
+            7,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[11时42分 ~ 13时59分]"
+        },
+        {
           "title": "美国总统特朗普谈论所谓的“顿巴斯自由经济区”构想，称：现在还不想要这个。 这不会起作用。",
           "url": "https://wallstreetcn.com/livenews/3020166",
           "source": "华尔街见闻-快讯",
@@ -226,6 +250,19 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[07时34分 ~ 11时42分]"
+        },
+        {
+          "title": "特朗普称泰柬已同意停火 泰方否认",
+          "url": "https://flash.jin10.com/detail/20251213092752773800",
+          "source": "金十数据",
+          "ranks": [
+            5,
+            9,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[11时42分 ~ 13时59分]"
         },
         {
           "title": "特朗普：我应当在与美联储讨论利率方面发挥作用",
@@ -240,6 +277,18 @@
           "time_info": "[07时34分 ~ 11时42分]"
         },
         {
+          "title": "美国文物保护组织就白宫宴会厅项目起诉特朗普",
+          "url": "https://flash.jin10.com/detail/20251213111612295800",
+          "source": "金十数据",
+          "ranks": [
+            4,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[12时45分 ~ 13时59分]"
+        },
+        {
           "title": "美国总统特朗普：在俄罗斯与乌克兰问题上取得了许多“进展”。",
           "url": "https://wallstreetcn.com/livenews/3020161",
           "source": "华尔街见闻-快讯",
@@ -250,30 +299,6 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[07时34分 ~ 11时42分]"
-        },
-        {
-          "title": "特朗普说倾向选择沃什或哈西特接任美联储主席",
-          "url": "https://flash.jin10.com/detail/20251213131305142800",
-          "source": "金十数据",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时42分 ~ 13时52分]"
-        },
-        {
-          "title": "法院文件显示，加利福尼亚州起诉特朗普政府，因其撤销超3300万美元联邦拨款，这些拨款原用于针对非美国居民的卡车司机英语能力要求规定。",
-          "url": "https://flash.jin10.com/detail/20251213102355663800",
-          "source": "金十数据",
-          "ranks": [
-            3,
-            7,
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[11时42分 ~ 13时52分]"
         },
         {
           "title": "特朗普：泰国和柬埔寨已同意今晚起停止交火",
@@ -287,31 +312,6 @@
           "time_info": "[01时53分 ~ 02时01分]"
         },
         {
-          "title": "特朗普称泰柬已同意停火 泰方否认",
-          "url": "https://flash.jin10.com/detail/20251213092752773800",
-          "source": "金十数据",
-          "ranks": [
-            5,
-            9,
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[11时42分 ~ 13时52分]"
-        },
-        {
-          "title": "美国文物保护组织就白宫宴会厅项目起诉特朗普",
-          "url": "https://flash.jin10.com/detail/20251213111612295800",
-          "source": "金十数据",
-          "ranks": [
-            4,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[12时45分 ~ 13时52分]"
-        },
-        {
           "title": "美国总统特朗普：泰国和柬埔寨均已同意重返他们此前与我达成的原始和平协议。",
           "url": "https://flash.jin10.com/detail/20251213014019397800",
           "source": "金十数据",
@@ -321,6 +321,54 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[01时53分 ~ 02时01分]"
+        },
+        {
+          "title": "柬埔寨首相：已与美国总统特朗普和马来西亚领导人安瓦尔就停火问题进行了通话。柬埔寨坚持其立场，寻求和平解决争端。",
+          "url": "https://flash.jin10.com/detail/20251213092310404800",
+          "source": "金十数据",
+          "ranks": [
+            7,
+            11,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[11时42分 ~ 13时59分]"
+        },
+        {
+          "title": "白宫：特朗普对俄乌都很失望",
+          "url": "https://www.douyin.com/hot/2334474",
+          "source": "抖音",
+          "ranks": [
+            15,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[11时42分 ~ 13时59分]"
+        },
+        {
+          "title": "“鲍威尔继任者”逐渐明朗？特朗普：目前最青睐沃什，利率决议应与我商议！",
+          "url": "https://www.cls.cn/detail/2228592",
+          "source": "财联社热门",
+          "ranks": [
+            13,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[11时42分 ~ 13时59分]"
+        },
+        {
+          "title": "爱泼斯坦案新影像曝光，有特朗普照片",
+          "url": "https://news.ifeng.com/c/8p315VNzI20",
+          "source": "凤凰网",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[12时45分 ~ 13时59分]"
         },
         {
           "title": "美国白宫官员：美国总统特朗普与泰国和柬埔寨领导人进行了通话。",
@@ -333,43 +381,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[01时42分 ~ 02时01分]"
-        },
-        {
-          "title": "柬埔寨首相：已与美国总统特朗普和马来西亚领导人安瓦尔就停火问题进行了通话。柬埔寨坚持其立场，寻求和平解决争端。",
-          "url": "https://flash.jin10.com/detail/20251213092310404800",
-          "source": "金十数据",
-          "ranks": [
-            7,
-            11,
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[11时42分 ~ 13时52分]"
-        },
-        {
-          "title": "白宫：特朗普对俄乌都很失望",
-          "url": "https://www.douyin.com/hot/2334474",
-          "source": "抖音",
-          "ranks": [
-            15,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[11时42分 ~ 13时52分]"
-        },
-        {
-          "title": "“鲍威尔继任者”逐渐明朗？特朗普：目前最青睐沃什，利率决议应与我商议！",
-          "url": "https://www.cls.cn/detail/2228592",
-          "source": "财联社热门",
-          "ranks": [
-            13,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[11时42分 ~ 13时52分]"
         },
         {
           "title": "市场消息：美国一些州将就10万美元H-1B签证申请费起诉特朗普。",
@@ -385,17 +396,6 @@
           "time_info": "[02时58分 ~ 03时56分]"
         },
         {
-          "title": "爱泼斯坦案新影像曝光，有特朗普照片",
-          "url": "https://news.ifeng.com/c/8p315VNzI20",
-          "source": "凤凰网",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[12时45分 ~ 13时52分]"
-        },
-        {
           "title": "特朗普称泰柬双方同意停火",
           "url": "https://www.toutiao.com/trending/7582909402869452342/",
           "source": "今日头条",
@@ -407,6 +407,17 @@
           "time_info": "[07时34分 ~ 07时59分]"
         },
         {
+          "title": "特朗普回应与爱泼斯坦同框照片被公布",
+          "url": "https://www.toutiao.com/trending/7582957093125636122/",
+          "source": "今日头条",
+          "ranks": [
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[13时42分 ~ 13时59分]"
+        },
+        {
           "title": "美国总统特朗普：泰国和柬埔寨已经同意从今晚起停止一切交火行动。",
           "url": "https://flash.jin10.com/detail/20251213013909297800",
           "source": "金十数据",
@@ -416,17 +427,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[01时53分 ~ 02时01分]"
-        },
-        {
-          "title": "特朗普回应与爱泼斯坦同框照片被公布",
-          "url": "https://www.toutiao.com/trending/7582957093125636122/",
-          "source": "今日头条",
-          "ranks": [
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时42分 ~ 13时52分]"
         },
         {
           "title": "据CNBC：美国总统特朗普预计将于周一签署重新分类大麻的行政令。",
@@ -523,8 +523,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[06时40分 ~ 13时52分]"
+          "appearance_count": 13,
+          "time_info": "[06时40分 ~ 13时59分]"
         },
         {
           "title": "半导体ETF收跌超4.5%，领跌美股行业ETF",
@@ -671,11 +671,12 @@
             11,
             10,
             6,
-            7
+            7,
+            8
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[06时52分 ~ 13时52分]"
+          "appearance_count": 12,
+          "time_info": "[06时52分 ~ 13时59分]"
         },
         {
           "title": "ChatGPT5.2有哪些新升级",
