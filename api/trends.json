@@ -1,5 +1,5 @@
 {
-  "generated_at": "2025-12-13T23:46:09.807255+08:00",
+  "generated_at": "2025-12-13T23:52:50.958998+08:00",
   "total_titles_processed": 1599,
   "failed_sources": [],
   "trends": [
@@ -97,8 +97,8 @@
             21
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[21时21分 ~ 23时46分]"
+          "appearance_count": 11,
+          "time_info": "[21时21分 ~ 23时52分]"
         },
         {
           "title": "美国文物保护组织就白宫宴会厅项目起诉特朗普",
@@ -147,8 +147,8 @@
             30
           ],
           "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[18时50分 ~ 23时46分]"
+          "appearance_count": 18,
+          "time_info": "[18时50分 ~ 23时52分]"
         },
         {
           "title": "泽连斯基：特朗普让我们撤离乌东，他要建“自由经济区”",
@@ -182,8 +182,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[21时20分 ~ 23时46分]"
+          "appearance_count": 15,
+          "time_info": "[21时20分 ~ 23时52分]"
         },
         {
           "title": "胡锡进：即使特朗普正式提出C5，中国会否加入也是值得怀疑的",
@@ -207,8 +207,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 47,
-          "time_info": "[11时42分 ~ 23时46分]"
+          "appearance_count": 48,
+          "time_info": "[11时42分 ~ 23时52分]"
         },
         {
           "title": "一图看懂｜泰国拒绝特朗普停火要求，泰柬军力对比如何？",
@@ -224,8 +224,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 39,
-          "time_info": "[15时35分 ~ 23时46分]"
+          "appearance_count": 40,
+          "time_info": "[15时35分 ~ 23时52分]"
         },
         {
           "title": "外媒：欧洲视特朗普乌克兰计划为俄罗斯的“特洛伊木马”",
@@ -268,8 +268,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 33,
-          "time_info": "[16时47分 ~ 23时46分]"
+          "appearance_count": 34,
+          "time_info": "[16时47分 ~ 23时52分]"
         },
         {
           "title": "特朗普拉小群,想拿C5替代G7",
@@ -289,8 +289,8 @@
             29
           ],
           "is_new": false,
-          "appearance_count": 74,
-          "time_info": "[00时49分 ~ 23时46分]"
+          "appearance_count": 75,
+          "time_info": "[00时49分 ~ 23时52分]"
         },
         {
           "title": "特朗普称泰柬已同意停火，泰方否认：答案是不",
@@ -304,8 +304,8 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 29,
-          "time_info": "[17时34分 ~ 23时46分]"
+          "appearance_count": 30,
+          "time_info": "[17时34分 ~ 23时52分]"
         },
         {
           "title": "美国总统特朗普在办公室表示：倾向于让沃什或哈塞特担任美联储主席。 沃什现在处于美联储主席候选人清单的顶端。 下一任美联储主席应该就利率问题征求我的意见。 今后一年，利率应当在1%或更低。（华尔街日报）",
@@ -429,6 +429,18 @@
           "time_info": "[07时34分 ~ 07时59分]"
         },
         {
+          "title": "据AXIOS网站：以色列官员称，以色列未就试图暗杀加沙地带哈马斯领导人拉埃德·萨阿德一事事先通知特朗普政府。",
+          "url": "https://flash.jin10.com/detail/20251213222804614800",
+          "source": "金十数据",
+          "ranks": [
+            5,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[22时48分 ~ 23时52分]"
+        },
+        {
           "title": "土耳其总统埃尔多安：希望在与俄罗斯总统普京会晤后，与美国总统特朗普讨论乌克兰—俄罗斯和平方案。",
           "url": "https://flash.jin10.com/detail/20251213180106229800",
           "source": "金十数据",
@@ -517,18 +529,6 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[07时34分 ~ 11时42分]"
-        },
-        {
-          "title": "据AXIOS网站：以色列官员称，以色列未就试图暗杀加沙地带哈马斯领导人拉埃德·萨阿德一事事先通知特朗普政府。",
-          "url": "https://flash.jin10.com/detail/20251213222804614800",
-          "source": "金十数据",
-          "ranks": [
-            5,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[22时48分 ~ 23时46分]"
         },
         {
           "title": "特朗普：泰国和柬埔寨已同意今晚起停止交火",
@@ -747,8 +747,8 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 53,
-          "time_info": "[06时52分 ~ 23时46分]"
+          "appearance_count": 54,
+          "time_info": "[06时52分 ~ 23时52分]"
         },
         {
           "title": "ChatGPT5.2有哪些新升级",
@@ -781,8 +781,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[23时35分 ~ 23时46分]"
+          "appearance_count": 3,
+          "time_info": "[23时35分 ~ 23时52分]"
         },
         {
           "title": "AI基础设施概念股普遍下跌，报道称甲骨文与OpenAI相关的某些数据中心完工时间被延后一年。 博通跌12%，甲骨文跌6.5%，英伟达跌2.4%。 费城半导体指数跌4.56%，Astera Labs跌13%，相干公司Coherent跌10%，Rambus跌8.5%，美光科技跌7%。",
@@ -876,8 +876,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 54,
-          "time_info": "[06时40分 ~ 23时46分]"
+          "appearance_count": 55,
+          "time_info": "[06时40分 ~ 23时52分]"
         },
         {
           "title": "半导体ETF收跌超4.5%，领跌美股行业ETF",
