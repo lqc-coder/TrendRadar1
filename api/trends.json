@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-13T21:45:52.805887+08:00",
-  "total_titles_processed": 1470,
+  "generated_at": "2025-12-13T21:52:43.666803+08:00",
+  "total_titles_processed": 1478,
   "failed_sources": [],
   "trends": [
     {
@@ -117,6 +117,22 @@
           "time_info": "[00时58分 ~ 04时56分]"
         },
         {
+          "title": "泰国外长：对特朗普关于泰柬冲突的言论感到失望",
+          "url": "https://wallstreetcn.com/livenews/3020226",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5,
+            7,
+            12,
+            16,
+            22,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[18时50分 ~ 21时52分]"
+        },
+        {
           "title": "泽连斯基：特朗普让我们撤离乌东，他要建“自由经济区”",
           "url": "https://news.ifeng.com/c/8p1vHCZebHh",
           "source": "凤凰网",
@@ -161,8 +177,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 36,
-          "time_info": "[11时42分 ~ 21时45分]"
+          "appearance_count": 37,
+          "time_info": "[11时42分 ~ 21时52分]"
         },
         {
           "title": "外媒：欧洲视特朗普乌克兰计划为俄罗斯的“特洛伊木马”",
@@ -204,8 +220,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 28,
-          "time_info": "[15时35分 ~ 21时45分]"
+          "appearance_count": 29,
+          "time_info": "[15时35分 ~ 21时52分]"
         },
         {
           "title": "观察｜特朗普磨刀霍霍，马杜罗歌舞“公关”：别担心，要快乐",
@@ -219,8 +235,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 22,
-          "time_info": "[16时47分 ~ 21时45分]"
+          "appearance_count": 23,
+          "time_info": "[16时47分 ~ 21时52分]"
         },
         {
           "title": "特朗普拉小群,想拿C5替代G7",
@@ -238,8 +254,8 @@
             27
           ],
           "is_new": false,
-          "appearance_count": 63,
-          "time_info": "[00时49分 ~ 21时45分]"
+          "appearance_count": 64,
+          "time_info": "[00时49分 ~ 21时52分]"
         },
         {
           "title": "美国总统特朗普在办公室表示：倾向于让沃什或哈塞特担任美联储主席。 沃什现在处于美联储主席候选人清单的顶端。 下一任美联储主席应该就利率问题征求我的意见。 今后一年，利率应当在1%或更低。（华尔街日报）",
@@ -265,8 +281,8 @@
             15
           ],
           "is_new": false,
-          "appearance_count": 18,
-          "time_info": "[17时34分 ~ 21时45分]"
+          "appearance_count": 19,
+          "time_info": "[17时34分 ~ 21时52分]"
         },
         {
           "title": "美国部分州宣布起诉特朗普H-1B签证申请费用问题",
@@ -311,22 +327,6 @@
           "is_new": false,
           "appearance_count": 9,
           "time_info": "[00时58分 ~ 03时56分]"
-        },
-        {
-          "title": "泰国外长：对特朗普关于泰柬冲突的言论感到失望",
-          "url": "https://wallstreetcn.com/livenews/3020226",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            5,
-            7,
-            12,
-            16,
-            22,
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[18时50分 ~ 21时45分]"
         },
         {
           "title": "法院文件显示，加利福尼亚州起诉特朗普政府，因其撤销超3300万美元联邦拨款，这些拨款原用于针对非美国居民的卡车司机英语能力要求规定。",
@@ -483,17 +483,6 @@
           "time_info": "[07时34分 ~ 11时42分]"
         },
         {
-          "title": "美国国务卿卢比奥：卢旺达在刚果（金）东部的行动明显违反了特朗普总统签署的《华盛顿协议》。",
-          "url": "https://flash.jin10.com/detail/20251213211438744800",
-          "source": "金十数据",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[21时21分 ~ 21时45分]"
-        },
-        {
           "title": "特朗普：泰国和柬埔寨已同意今晚起停止交火",
           "url": "https://flash.jin10.com/detail/20251213014451343800",
           "source": "金十数据",
@@ -540,6 +529,18 @@
           "time_info": "[12时45分 ~ 13时59分]"
         },
         {
+          "title": "美国国务卿卢比奥：卢旺达在刚果（金）东部的行动明显违反了特朗普总统签署的《华盛顿协议》。",
+          "url": "https://flash.jin10.com/detail/20251213211438744800",
+          "source": "金十数据",
+          "ranks": [
+            1,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[21时21分 ~ 21时52分]"
+        },
+        {
           "title": "美国白宫官员：美国总统特朗普与泰国和柬埔寨领导人进行了通话。",
           "url": "https://flash.jin10.com/detail/20251213011411174800",
           "source": "金十数据",
@@ -565,6 +566,17 @@
           "time_info": "[02时58分 ~ 03时56分]"
         },
         {
+          "title": "特朗普倾向于让沃什或哈塞特担任美联储主席，希望一年后利率1%或更低",
+          "url": "https://wallstreetcn.com/articles/3761314",
+          "source": "华尔街见闻",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[21时20分 ~ 21时52分]"
+        },
+        {
           "title": "特朗普称泰柬双方同意停火",
           "url": "https://www.toutiao.com/trending/7582909402869452342/",
           "source": "今日头条",
@@ -574,17 +586,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[07时34分 ~ 07时59分]"
-        },
-        {
-          "title": "特朗普倾向于让沃什或哈塞特担任美联储主席，希望一年后利率1%或更低",
-          "url": "https://wallstreetcn.com/articles/3761314",
-          "source": "华尔街见闻",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[21时20分 ~ 21时45分]"
         },
         {
           "title": "特朗普回应与爱泼斯坦同框照片被公布",
@@ -704,8 +705,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 43,
-          "time_info": "[06时40分 ~ 21时45分]"
+          "appearance_count": 44,
+          "time_info": "[06时40分 ~ 21时52分]"
         },
         {
           "title": "半导体ETF收跌超4.5%，领跌美股行业ETF",
@@ -857,8 +858,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 42,
-          "time_info": "[06时52分 ~ 21时45分]"
+          "appearance_count": 43,
+          "time_info": "[06时52分 ~ 21时52分]"
         },
         {
           "title": "ChatGPT5.2有哪些新升级",
