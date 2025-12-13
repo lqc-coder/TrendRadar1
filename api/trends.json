@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-13T21:52:43.666803+08:00",
-  "total_titles_processed": 1478,
+  "generated_at": "2025-12-13T21:58:47.980739+08:00",
+  "total_titles_processed": 1489,
   "failed_sources": [],
   "trends": [
     {
@@ -126,11 +126,12 @@
             12,
             16,
             22,
-            23
+            23,
+            26
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[18时50分 ~ 21时52分]"
+          "appearance_count": 11,
+          "time_info": "[18时50分 ~ 21时58分]"
         },
         {
           "title": "泽连斯基：特朗普让我们撤离乌东，他要建“自由经济区”",
@@ -177,8 +178,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 37,
-          "time_info": "[11时42分 ~ 21时52分]"
+          "appearance_count": 38,
+          "time_info": "[11时42分 ~ 21时58分]"
         },
         {
           "title": "外媒：欧洲视特朗普乌克兰计划为俄罗斯的“特洛伊木马”",
@@ -220,8 +221,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 29,
-          "time_info": "[15时35分 ~ 21时52分]"
+          "appearance_count": 30,
+          "time_info": "[15时35分 ~ 21时58分]"
         },
         {
           "title": "观察｜特朗普磨刀霍霍，马杜罗歌舞“公关”：别担心，要快乐",
@@ -235,8 +236,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 23,
-          "time_info": "[16时47分 ~ 21时52分]"
+          "appearance_count": 24,
+          "time_info": "[16时47分 ~ 21时58分]"
         },
         {
           "title": "特朗普拉小群,想拿C5替代G7",
@@ -254,8 +255,8 @@
             27
           ],
           "is_new": false,
-          "appearance_count": 64,
-          "time_info": "[00时49分 ~ 21时52分]"
+          "appearance_count": 65,
+          "time_info": "[00时49分 ~ 21时58分]"
         },
         {
           "title": "美国总统特朗普在办公室表示：倾向于让沃什或哈塞特担任美联储主席。 沃什现在处于美联储主席候选人清单的顶端。 下一任美联储主席应该就利率问题征求我的意见。 今后一年，利率应当在1%或更低。（华尔街日报）",
@@ -281,8 +282,8 @@
             15
           ],
           "is_new": false,
-          "appearance_count": 19,
-          "time_info": "[17时34分 ~ 21时52分]"
+          "appearance_count": 20,
+          "time_info": "[17时34分 ~ 21时58分]"
         },
         {
           "title": "美国部分州宣布起诉特朗普H-1B签证申请费用问题",
@@ -483,6 +484,18 @@
           "time_info": "[07时34分 ~ 11时42分]"
         },
         {
+          "title": "美国国务卿卢比奥：卢旺达在刚果（金）东部的行动明显违反了特朗普总统签署的《华盛顿协议》。",
+          "url": "https://flash.jin10.com/detail/20251213211438744800",
+          "source": "金十数据",
+          "ranks": [
+            1,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[21时21分 ~ 21时58分]"
+        },
+        {
           "title": "特朗普：泰国和柬埔寨已同意今晚起停止交火",
           "url": "https://flash.jin10.com/detail/20251213014451343800",
           "source": "金十数据",
@@ -529,18 +542,6 @@
           "time_info": "[12时45分 ~ 13时59分]"
         },
         {
-          "title": "美国国务卿卢比奥：卢旺达在刚果（金）东部的行动明显违反了特朗普总统签署的《华盛顿协议》。",
-          "url": "https://flash.jin10.com/detail/20251213211438744800",
-          "source": "金十数据",
-          "ranks": [
-            1,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[21时21分 ~ 21时52分]"
-        },
-        {
           "title": "美国白宫官员：美国总统特朗普与泰国和柬埔寨领导人进行了通话。",
           "url": "https://flash.jin10.com/detail/20251213011411174800",
           "source": "金十数据",
@@ -551,6 +552,17 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[01时42分 ~ 02时01分]"
+        },
+        {
+          "title": "特朗普倾向于让沃什或哈塞特担任美联储主席，希望一年后利率1%或更低",
+          "url": "https://wallstreetcn.com/articles/3761314",
+          "source": "华尔街见闻",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[21时20分 ~ 21时58分]"
         },
         {
           "title": "市场消息：美国一些州将就10万美元H-1B签证申请费起诉特朗普。",
@@ -564,17 +576,6 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[02时58分 ~ 03时56分]"
-        },
-        {
-          "title": "特朗普倾向于让沃什或哈塞特担任美联储主席，希望一年后利率1%或更低",
-          "url": "https://wallstreetcn.com/articles/3761314",
-          "source": "华尔街见闻",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[21时20分 ~ 21时52分]"
         },
         {
           "title": "特朗普称泰柬双方同意停火",
@@ -705,8 +706,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 44,
-          "time_info": "[06时40分 ~ 21时52分]"
+          "appearance_count": 45,
+          "time_info": "[06时40分 ~ 21时58分]"
         },
         {
           "title": "半导体ETF收跌超4.5%，领跌美股行业ETF",
@@ -858,8 +859,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 43,
-          "time_info": "[06时52分 ~ 21时52分]"
+          "appearance_count": 44,
+          "time_info": "[06时52分 ~ 21时58分]"
         },
         {
           "title": "ChatGPT5.2有哪些新升级",
