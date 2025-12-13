@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-12-13T17:35:00.021148+08:00",
-  "total_titles_processed": 1179,
+  "generated_at": "2025-12-13T17:46:33.024287+08:00",
+  "total_titles_processed": 1216,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 46,
+      "match_count": 47,
       "titles": [
         {
           "title": "分析人士：特朗普的人工智能行政令可能无法阻止各州立法",
@@ -39,11 +39,12 @@
             6,
             7,
             15,
-            17
+            17,
+            23
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[13时42分 ~ 17时34分]"
+          "appearance_count": 13,
+          "time_info": "[13时42分 ~ 17时46分]"
         },
         {
           "title": "美国多个州将起诉总统特朗普的10万美元H-1B签证申请费政策。",
@@ -149,8 +150,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 19,
-          "time_info": "[11时42分 ~ 17时34分]"
+          "appearance_count": 20,
+          "time_info": "[11时42分 ~ 17时46分]"
         },
         {
           "title": "特朗普称泰柬同意全面停火",
@@ -176,8 +177,8 @@
             20
           ],
           "is_new": false,
-          "appearance_count": 46,
-          "time_info": "[00时49分 ~ 17时34分]"
+          "appearance_count": 47,
+          "time_info": "[00时49分 ~ 17时46分]"
         },
         {
           "title": "一图看懂｜泰国拒绝特朗普停火要求，泰柬军力对比如何？",
@@ -189,8 +190,8 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[15时35分 ~ 17时34分]"
+          "appearance_count": 12,
+          "time_info": "[15时35分 ~ 17时46分]"
         },
         {
           "title": "美国总统特朗普在办公室表示：倾向于让沃什或哈塞特担任美联储主席。 沃什现在处于美联储主席候选人清单的顶端。 下一任美联储主席应该就利率问题征求我的意见。 今后一年，利率应当在1%或更低。（华尔街日报）",
@@ -411,15 +412,16 @@
           "time_info": "[11时42分 ~ 13时59分]"
         },
         {
-          "title": "外媒：欧洲视特朗普乌克兰计划为俄罗斯的“特洛伊木马”",
-          "url": "https://flash.jin10.com/detail/20251213164027529800",
-          "source": "金十数据",
+          "title": "观察｜特朗普磨刀霍霍，马杜罗歌舞“公关”：别担心，要快乐",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32162318",
+          "source": "澎湃新闻",
           "ranks": [
-            2
+            17,
+            15
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时34分"
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[16时47分 ~ 17时46分]"
         },
         {
           "title": "爱泼斯坦案新影像曝光，有特朗普照片",
@@ -445,16 +447,15 @@
           "time_info": "[01时42分 ~ 02时01分]"
         },
         {
-          "title": "观察｜特朗普磨刀霍霍，马杜罗歌舞“公关”：别担心，要快乐",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32162318",
-          "source": "澎湃新闻",
+          "title": "特朗普提议中美俄印日联盟",
+          "url": "https://search.bilibili.com/all?keyword=%E7%89%B9%E6%9C%97%E6%99%AE%E6%8F%90%E8%AE%AE%E4%B8%AD%E7%BE%8E%E4%BF%84%E5%8D%B0%E6%97%A5%E8%81%94%E7%9B%9F",
+          "source": "bilibili 热搜",
           "ranks": [
-            17,
-            15
+            4
           ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[16时47分 ~ 17时34分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时46分"
         },
         {
           "title": "市场消息：美国一些州将就10万美元H-1B签证申请费起诉特朗普。",
@@ -468,6 +469,18 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[02时58分 ~ 03时56分]"
+        },
+        {
+          "title": "外媒：欧洲视特朗普乌克兰计划为俄罗斯的“特洛伊木马”",
+          "url": "https://flash.jin10.com/detail/20251213164027529800",
+          "source": "金十数据",
+          "ranks": [
+            2,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时34分 ~ 17时46分]"
         },
         {
           "title": "特朗普称泰柬双方同意停火",
@@ -501,6 +514,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[01时53分 ~ 02时01分]"
+        },
+        {
+          "title": "特朗普称泰柬已同意停火，泰方否认：答案是不",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32169891",
+          "source": "澎湃新闻",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时34分 ~ 17时46分]"
         },
         {
           "title": "据CNBC：美国总统特朗普预计将于周一签署重新分类大麻的行政令。",
@@ -545,17 +569,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时42分"
-        },
-        {
-          "title": "特朗普称泰柬已同意停火，泰方否认：答案是不",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32169891",
-          "source": "澎湃新闻",
-          "ranks": [
-            20
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时34分"
         },
         {
           "title": "泰国总理：美国总统特朗普在通话中承诺，会达成“更好的”贸易协议。",
@@ -608,8 +621,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 26,
-          "time_info": "[06时40分 ~ 17时34分]"
+          "appearance_count": 27,
+          "time_info": "[06时40分 ~ 17时46分]"
         },
         {
           "title": "半导体ETF收跌超4.5%，领跌美股行业ETF",
@@ -761,8 +774,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 25,
-          "time_info": "[06时52分 ~ 17时34分]"
+          "appearance_count": 26,
+          "time_info": "[06时52分 ~ 17时46分]"
         },
         {
           "title": "ChatGPT5.2有哪些新升级",
@@ -852,6 +865,83 @@
       ]
     },
     {
+      "keyword_group": "伊朗",
+      "match_count": 6,
+      "titles": [
+        {
+          "title": "据伊朗国家媒体报道，伊朗在阿曼湾查获一艘载有600万升走私柴油的外国油轮。",
+          "url": "https://flash.jin10.com/detail/20251213035649501800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 13,
+          "time_info": "[04时42分 ~ 07时59分]"
+        },
+        {
+          "title": "伊朗媒体称，在阿曼湾被扣押的外国油轮的18名船员因涉嫌运输“走私燃料”而被拘留。",
+          "url": "https://flash.jin10.com/detail/20251213151317078800",
+          "source": "金十数据",
+          "ranks": [
+            1,
+            2,
+            10,
+            12,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[15时36分 ~ 17时46分]"
+        },
+        {
+          "title": "美军被曝突袭从中国驶往伊朗货轮",
+          "url": "https://news.ifeng.com/c/8p3AEA1kMQ6",
+          "source": "凤凰网",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[16时47分 ~ 17时46分]"
+        },
+        {
+          "title": "伊朗在阿曼湾扣押涉嫌走私油轮，地区水域紧张局势持续",
+          "url": "https://flash.jin10.com/detail/20251213173551399800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时46分"
+        },
+        {
+          "title": "据伊朗伊斯兰共和国通讯社（IRNA）：伊朗与巴基斯坦表态致力于深化双边关系，加速推进各项合作协议。",
+          "url": "https://flash.jin10.com/detail/20251213165710609800",
+          "source": "金十数据",
+          "ranks": [
+            1,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时34分 ~ 17时46分]"
+        },
+        {
+          "title": "美军被曝突袭从中国驶往伊朗货轮",
+          "url": "https://www.baidu.com/s?wd=%E7%BE%8E%E5%86%9B%E8%A2%AB%E6%9B%9D%E7%AA%81%E8%A2%AD%E4%BB%8E%E4%B8%AD%E5%9B%BD%E9%A9%B6%E5%BE%80%E4%BC%8A%E6%9C%97%E8%B4%A7%E8%BD%AE",
+          "source": "百度热搜",
+          "ranks": [
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "14时55分"
+        }
+      ]
+    },
+    {
       "keyword_group": "谷歌 google gemini",
       "match_count": 5,
       "titles": [
@@ -914,70 +1004,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[01时42分 ~ 02时01分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "伊朗",
-      "match_count": 5,
-      "titles": [
-        {
-          "title": "据伊朗国家媒体报道，伊朗在阿曼湾查获一艘载有600万升走私柴油的外国油轮。",
-          "url": "https://flash.jin10.com/detail/20251213035649501800",
-          "source": "金十数据",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[04时42分 ~ 07时59分]"
-        },
-        {
-          "title": "伊朗媒体称，在阿曼湾被扣押的外国油轮的18名船员因涉嫌运输“走私燃料”而被拘留。",
-          "url": "https://flash.jin10.com/detail/20251213151317078800",
-          "source": "金十数据",
-          "ranks": [
-            1,
-            2,
-            10,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[15时36分 ~ 17时34分]"
-        },
-        {
-          "title": "据伊朗伊斯兰共和国通讯社（IRNA）：伊朗与巴基斯坦表态致力于深化双边关系，加速推进各项合作协议。",
-          "url": "https://flash.jin10.com/detail/20251213165710609800",
-          "source": "金十数据",
-          "ranks": [
-            1
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时34分"
-        },
-        {
-          "title": "美军被曝突袭从中国驶往伊朗货轮",
-          "url": "https://news.ifeng.com/c/8p3AEA1kMQ6",
-          "source": "凤凰网",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[16时47分 ~ 17时34分]"
-        },
-        {
-          "title": "美军被曝突袭从中国驶往伊朗货轮",
-          "url": "https://www.baidu.com/s?wd=%E7%BE%8E%E5%86%9B%E8%A2%AB%E6%9B%9D%E7%AA%81%E8%A2%AD%E4%BB%8E%E4%B8%AD%E5%9B%BD%E9%A9%B6%E5%BE%80%E4%BC%8A%E6%9C%97%E8%B4%A7%E8%BD%AE",
-          "source": "百度热搜",
-          "ranks": [
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "14时55分"
         }
       ]
     },
