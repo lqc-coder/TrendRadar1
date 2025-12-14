@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-14T19:48:37.972670+08:00",
-  "total_titles_processed": 1227,
+  "generated_at": "2025-12-14T19:55:14.219215+08:00",
+  "total_titles_processed": 1258,
   "failed_sources": [],
   "trends": [
     {
@@ -141,8 +141,8 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 20,
-          "time_info": "[11时54分 ~ 19时48分]"
+          "appearance_count": 22,
+          "time_info": "[11时54分 ~ 19时55分]"
         },
         {
           "title": "“鲍威尔继任者”逐渐明朗？特朗普：目前最青睐沃什，利率决议应与我商议！",
@@ -219,6 +219,17 @@
           "time_info": "[00时47分 ~ 03时57分]"
         },
         {
+          "title": "3名美国人在叙遇袭身亡，特朗普：将严厉报复",
+          "url": "https://news.ifeng.com/c/8p51GzC9IVg",
+          "source": "凤凰网",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[19时29分 ~ 19时55分]"
+        },
+        {
           "title": "3名美国人在叙遇袭身亡，特朗普称将“严厉报复”",
           "url": "https://news.ifeng.com/c/8p51GzC9IVg",
           "source": "凤凰网",
@@ -228,17 +239,6 @@
           "is_new": false,
           "appearance_count": 8,
           "time_info": "[17时35分 ~ 18时59分]"
-        },
-        {
-          "title": "3名美国人在叙遇袭身亡，特朗普：将严厉报复",
-          "url": "https://news.ifeng.com/c/8p51GzC9IVg",
-          "source": "凤凰网",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[19时29分 ~ 19时48分]"
         },
         {
           "title": "详解特朗普金卡白金卡签证",
@@ -529,8 +529,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 24,
-          "time_info": "[12时57分 ~ 19时48分]"
+          "appearance_count": 26,
+          "time_info": "[12时57分 ~ 19时55分]"
         }
       ]
     }
