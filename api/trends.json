@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-14T19:42:37.647640+08:00",
-  "total_titles_processed": 1224,
+  "generated_at": "2025-12-14T19:48:37.972670+08:00",
+  "total_titles_processed": 1227,
   "failed_sources": [],
   "trends": [
     {
@@ -141,8 +141,8 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 19,
-          "time_info": "[11时54分 ~ 18时01分]"
+          "appearance_count": 20,
+          "time_info": "[11时54分 ~ 19时48分]"
         },
         {
           "title": "“鲍威尔继任者”逐渐明朗？特朗普：目前最青睐沃什，利率决议应与我商议！",
@@ -230,6 +230,17 @@
           "time_info": "[17时35分 ~ 18时59分]"
         },
         {
+          "title": "3名美国人在叙遇袭身亡，特朗普：将严厉报复",
+          "url": "https://news.ifeng.com/c/8p51GzC9IVg",
+          "source": "凤凰网",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[19时29分 ~ 19时48分]"
+        },
+        {
           "title": "详解特朗普金卡白金卡签证",
           "url": "https://search.bilibili.com/all?keyword=%E8%AF%A6%E8%A7%A3%E7%89%B9%E6%9C%97%E6%99%AE%E9%87%91%E5%8D%A1%E7%99%BD%E9%87%91%E5%8D%A1%E7%AD%BE%E8%AF%81",
           "source": "bilibili 热搜",
@@ -240,17 +251,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[11时54分 ~ 12时57分]"
-        },
-        {
-          "title": "3名美国人在叙遇袭身亡，特朗普：将严厉报复",
-          "url": "https://news.ifeng.com/c/8p51GzC9IVg",
-          "source": "凤凰网",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时29分 ~ 19时42分]"
         },
         {
           "title": "特朗普或因说漏嘴致间谍曝光",
@@ -529,8 +529,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 23,
-          "time_info": "[12时57分 ~ 19时42分]"
+          "appearance_count": 24,
+          "time_info": "[12时57分 ~ 19时48分]"
         }
       ]
     }
