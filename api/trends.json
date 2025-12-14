@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-14T22:37:09.267062+08:00",
-  "total_titles_processed": 1426,
+  "generated_at": "2025-12-14T22:47:49.761481+08:00",
+  "total_titles_processed": 1439,
   "failed_sources": [],
   "trends": [
     {
@@ -39,8 +39,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[19时29分 ~ 22时37分]"
+          "appearance_count": 12,
+          "time_info": "[19时29分 ~ 22时47分]"
         },
         {
           "title": "美方特使：按照美国总统特朗普的指示，美将解除对白俄罗斯钾肥的制裁",
@@ -152,8 +152,8 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 28,
-          "time_info": "[11时54分 ~ 22时37分]"
+          "appearance_count": 29,
+          "time_info": "[11时54分 ~ 22时47分]"
         },
         {
           "title": "“鲍威尔继任者”逐渐明朗？特朗普：目前最青睐沃什，利率决议应与我商议！",
@@ -296,11 +296,12 @@
           "source": "金十数据",
           "ranks": [
             5,
-            8
+            8,
+            14
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[21时55分 ~ 22时37分]"
+          "appearance_count": 3,
+          "time_info": "[21时55分 ~ 22时47分]"
         },
         {
           "title": "金十数据整理：特朗普过去24小时都忙了什么？（2025-12-14）",
@@ -347,8 +348,8 @@
             23
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[22时36分 ~ 22时37分]"
+          "appearance_count": 3,
+          "time_info": "[22时36分 ~ 22时47分]"
         },
         {
           "title": "“特朗普避孕套”特写照片惹争议",
@@ -561,8 +562,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[21时35分 ~ 22时37分]"
+          "appearance_count": 6,
+          "time_info": "[21时35分 ~ 22时47分]"
         }
       ]
     },
@@ -581,8 +582,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 32,
-          "time_info": "[12时57分 ~ 22时37分]"
+          "appearance_count": 33,
+          "time_info": "[12时57分 ~ 22时47分]"
         }
       ]
     }
