@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-14T14:55:00.087665+08:00",
-  "total_titles_processed": 846,
+  "generated_at": "2025-12-14T15:01:31.300065+08:00",
+  "total_titles_processed": 859,
   "failed_sources": [],
   "trends": [
     {
@@ -19,6 +19,17 @@
           "is_new": false,
           "appearance_count": 14,
           "time_info": "[04时55分 ~ 07时58分]"
+        },
+        {
+          "title": "泰外长：特朗普的言论令人失望，伤害了泰国人民的感情",
+          "url": "https://news.ifeng.com/c/8p4UvIdlABH",
+          "source": "凤凰网",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[11时54分 ~ 15时01分]"
         },
         {
           "title": "美方特使：按照美国总统特朗普的指示，美将解除对白俄罗斯钾肥的制裁",
@@ -44,17 +55,6 @@
           "is_new": false,
           "appearance_count": 24,
           "time_info": "[00时47分 ~ 05时02分]"
-        },
-        {
-          "title": "泰外长：特朗普的言论令人失望，伤害了泰国人民的感情",
-          "url": "https://news.ifeng.com/c/8p4UvIdlABH",
-          "source": "凤凰网",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[11时54分 ~ 14时54分]"
         },
         {
           "title": "一图看懂｜泰国拒绝特朗普停火要求，泰柬军力对比如何？",
@@ -169,18 +169,6 @@
           "time_info": "[00时47分 ~ 03时57分]"
         },
         {
-          "title": "详解特朗普金卡白金卡签证",
-          "url": "https://search.bilibili.com/all?keyword=%E8%AF%A6%E8%A7%A3%E7%89%B9%E6%9C%97%E6%99%AE%E9%87%91%E5%8D%A1%E7%99%BD%E9%87%91%E5%8D%A1%E7%AD%BE%E8%AF%81",
-          "source": "bilibili 热搜",
-          "ranks": [
-            2,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时54分 ~ 12时57分]"
-        },
-        {
           "title": "3名美方人员遇袭身亡，特朗普：我们会报复",
           "url": "https://news.ifeng.com/c/8p4BJFCiQzZ",
           "source": "凤凰网",
@@ -188,8 +176,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[11时54分 ~ 14时54分]"
+          "appearance_count": 7,
+          "time_info": "[11时54分 ~ 15时01分]"
         },
         {
           "title": "特朗普对其经济政策能否助力中期选举存疑",
@@ -200,8 +188,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[11时54分 ~ 14时54分]"
+          "appearance_count": 7,
+          "time_info": "[11时54分 ~ 15时01分]"
         },
         {
           "title": "美三名人员在叙利亚丧生 特朗普表示将采取报复行动",
@@ -212,8 +200,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[11时54分 ~ 14时54分]"
+          "appearance_count": 7,
+          "time_info": "[11时54分 ~ 15时01分]"
         },
         {
           "title": "3名美方人员遇袭死亡，特朗普誓言报复",
@@ -224,8 +212,20 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[11时54分 ~ 14时54分]"
+          "appearance_count": 7,
+          "time_info": "[11时54分 ~ 15时01分]"
+        },
+        {
+          "title": "详解特朗普金卡白金卡签证",
+          "url": "https://search.bilibili.com/all?keyword=%E8%AF%A6%E8%A7%A3%E7%89%B9%E6%9C%97%E6%99%AE%E9%87%91%E5%8D%A1%E7%99%BD%E9%87%91%E5%8D%A1%E7%AD%BE%E8%AF%81",
+          "source": "bilibili 热搜",
+          "ranks": [
+            2,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时54分 ~ 12时57分]"
         },
         {
           "title": "美士兵在叙遇袭身亡 特朗普：将报复",
@@ -257,11 +257,12 @@
           "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE%E6%88%96%E5%9B%A0%E8%AF%B4%E6%BC%8F%E5%98%B4%E8%87%B4%E9%97%B4%E8%B0%8D%E6%9B%9D%E5%85%89",
           "source": "百度热搜",
           "ranks": [
-            28
+            28,
+            29
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时51分 ~ 13时57分]"
+          "appearance_count": 3,
+          "time_info": "[13时51分 ~ 15时01分]"
         },
         {
           "title": "“特朗普避孕套”特写照片惹争议",
@@ -312,8 +313,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[11时54分 ~ 14时54分]"
+          "appearance_count": 7,
+          "time_info": "[11时54分 ~ 15时01分]"
         },
         {
           "title": "AI交易再遭重挫！甲骨文据悉将部分OpenAI数据中心项目推迟至2028年",
@@ -342,8 +343,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 46,
-          "time_info": "[00时47分 ~ 14时54分]"
+          "appearance_count": 47,
+          "time_info": "[00时47分 ~ 15时01分]"
         },
         {
           "title": "宋雪涛2026美股展望：AI泡沫的内部熔点与外部拐点",
@@ -391,8 +392,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[12时57分 ~ 14时54分]"
+          "appearance_count": 6,
+          "time_info": "[12时57分 ~ 15时01分]"
         }
       ]
     }
