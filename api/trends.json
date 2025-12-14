@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-12-14T20:01:41.204484+08:00",
-  "total_titles_processed": 1258,
+  "generated_at": "2025-12-14T21:35:59.663104+08:00",
+  "total_titles_processed": 1362,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 28,
+      "match_count": 29,
       "titles": [
         {
           "title": "美国与墨西哥达成供水协议，此前特朗普威胁要加征5%的关税",
@@ -30,6 +30,17 @@
           "is_new": false,
           "appearance_count": 14,
           "time_info": "[11时54分 ~ 16时58分]"
+        },
+        {
+          "title": "3名美国人在叙遇袭身亡，特朗普：将严厉报复",
+          "url": "https://news.ifeng.com/c/8p51GzC9IVg",
+          "source": "凤凰网",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[19时29分 ~ 21时35分]"
         },
         {
           "title": "美方特使：按照美国总统特朗普的指示，美将解除对白俄罗斯钾肥的制裁",
@@ -66,17 +77,6 @@
           "is_new": false,
           "appearance_count": 24,
           "time_info": "[00时47分 ~ 05时02分]"
-        },
-        {
-          "title": "3名美国人在叙遇袭身亡，特朗普：将严厉报复",
-          "url": "https://news.ifeng.com/c/8p51GzC9IVg",
-          "source": "凤凰网",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[19时29分 ~ 20时01分]"
         },
         {
           "title": "特朗普对其经济政策能否助力中期选举存疑",
@@ -152,8 +152,8 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 23,
-          "time_info": "[11时54分 ~ 20时01分]"
+          "appearance_count": 24,
+          "time_info": "[11时54分 ~ 21时35分]"
         },
         {
           "title": "“鲍威尔继任者”逐渐明朗？特朗普：目前最青睐沃什，利率决议应与我商议！",
@@ -339,6 +339,17 @@
           "time_info": "12时57分"
         },
         {
+          "title": "特朗普回应美士兵在叙遇袭身亡",
+          "url": "https://www.douyin.com/hot/2335907",
+          "source": "抖音",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时35分"
+        },
+        {
           "title": "特朗普回应布朗大学枪击案",
           "url": "https://www.toutiao.com/trending/7583527675243806730/",
           "source": "今日头条",
@@ -515,6 +526,23 @@
       ]
     },
     {
+      "keyword_group": "金价",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "10月净买入49吨！央行购金依然强劲，高盛：“代币化黄金”目前还非金价主力",
+          "url": "https://wallstreetcn.com/articles/3761367",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时35分"
+        }
+      ]
+    },
+    {
       "keyword_group": "美债",
       "match_count": 1,
       "titles": [
@@ -529,8 +557,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 27,
-          "time_info": "[12时57分 ~ 20时01分]"
+          "appearance_count": 28,
+          "time_info": "[12时57分 ~ 21时35分]"
         }
       ]
     }
