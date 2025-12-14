@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-12-14T18:59:24.680832+08:00",
-  "total_titles_processed": 1156,
+  "generated_at": "2025-12-14T19:29:34.852290+08:00",
+  "total_titles_processed": 1201,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 27,
+      "match_count": 28,
       "titles": [
         {
           "title": "美国与墨西哥达成供水协议，此前特朗普威胁要加征5%的关税",
@@ -255,6 +255,17 @@
           "time_info": "[13时51分 ~ 15时51分]"
         },
         {
+          "title": "3名美国人在叙遇袭身亡，特朗普：将严厉报复",
+          "url": "https://news.ifeng.com/c/8p51GzC9IVg",
+          "source": "凤凰网",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时29分"
+        },
+        {
           "title": "特朗普的和平梦要在东南亚碎了吗",
           "url": "https://www.toutiao.com/trending/7583581680191933971/",
           "source": "今日头条",
@@ -284,11 +295,12 @@
           "url": "https://flash.jin10.com/detail/20251214181038164800",
           "source": "金十数据",
           "ranks": [
-            8
+            8,
+            17
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[18时42分 ~ 18时59分]"
+          "appearance_count": 4,
+          "time_info": "[18时42分 ~ 19时29分]"
         },
         {
           "title": "柬埔寨称泰军向柬境内投掷数枚炸弹，泰方暂无回应，此前特朗普称双方已同意停火，双方局势将如何发展？",
@@ -513,11 +525,12 @@
           "ranks": [
             8,
             6,
-            7
+            7,
+            9
           ],
           "is_new": false,
-          "appearance_count": 21,
-          "time_info": "[12时57分 ~ 18时59分]"
+          "appearance_count": 22,
+          "time_info": "[12时57分 ~ 19时29分]"
         }
       ]
     }
