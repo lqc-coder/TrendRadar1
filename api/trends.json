@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-14T13:57:47.730348+08:00",
-  "total_titles_processed": 811,
+  "generated_at": "2025-12-14T14:55:00.087665+08:00",
+  "total_titles_processed": 846,
   "failed_sources": [],
   "trends": [
     {
@@ -44,6 +44,17 @@
           "is_new": false,
           "appearance_count": 24,
           "time_info": "[00时47分 ~ 05时02分]"
+        },
+        {
+          "title": "泰外长：特朗普的言论令人失望，伤害了泰国人民的感情",
+          "url": "https://news.ifeng.com/c/8p4UvIdlABH",
+          "source": "凤凰网",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[11时54分 ~ 14时54分]"
         },
         {
           "title": "一图看懂｜泰国拒绝特朗普停火要求，泰柬军力对比如何？",
@@ -158,17 +169,6 @@
           "time_info": "[00时47分 ~ 03时57分]"
         },
         {
-          "title": "泰外长：特朗普的言论令人失望，伤害了泰国人民的感情",
-          "url": "https://news.ifeng.com/c/8p4UvIdlABH",
-          "source": "凤凰网",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[11时54分 ~ 13时57分]"
-        },
-        {
           "title": "详解特朗普金卡白金卡签证",
           "url": "https://search.bilibili.com/all?keyword=%E8%AF%A6%E8%A7%A3%E7%89%B9%E6%9C%97%E6%99%AE%E9%87%91%E5%8D%A1%E7%99%BD%E9%87%91%E5%8D%A1%E7%AD%BE%E8%AF%81",
           "source": "bilibili 热搜",
@@ -188,41 +188,44 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[11时54分 ~ 13时57分]"
+          "appearance_count": 6,
+          "time_info": "[11时54分 ~ 14时54分]"
         },
         {
           "title": "特朗普对其经济政策能否助力中期选举存疑",
           "url": "https://flash.jin10.com/detail/20251214101831272800",
           "source": "金十数据",
           "ranks": [
-            7
+            7,
+            8
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[11时54分 ~ 13时57分]"
+          "appearance_count": 6,
+          "time_info": "[11时54分 ~ 14时54分]"
         },
         {
           "title": "美三名人员在叙利亚丧生 特朗普表示将采取报复行动",
           "url": "https://flash.jin10.com/detail/20251214100231761800",
           "source": "金十数据",
           "ranks": [
-            8
+            8,
+            9
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[11时54分 ~ 13时57分]"
+          "appearance_count": 6,
+          "time_info": "[11时54分 ~ 14时54分]"
         },
         {
           "title": "3名美方人员遇袭死亡，特朗普誓言报复",
           "url": "https://www.cls.cn/detail/2228813",
           "source": "财联社热门",
           "ranks": [
-            10
+            10,
+            11
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[11时54分 ~ 13时57分]"
+          "appearance_count": 6,
+          "time_info": "[11时54分 ~ 14时54分]"
         },
         {
           "title": "美士兵在叙遇袭身亡 特朗普：将报复",
@@ -301,6 +304,18 @@
           "time_info": "[00时47分 ~ 13时57分]"
         },
         {
+          "title": "华尔街日报：OpenAI将取消员工股权归属期",
+          "url": "https://flash.jin10.com/detail/20251214105538781800",
+          "source": "金十数据",
+          "ranks": [
+            3,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[11时54分 ~ 14时54分]"
+        },
+        {
           "title": "AI交易再遭重挫！甲骨文据悉将部分OpenAI数据中心项目推迟至2028年",
           "url": "https://www.cls.cn/detail/2228537",
           "source": "财联社热门",
@@ -310,17 +325,6 @@
           "is_new": false,
           "appearance_count": 40,
           "time_info": "[00时47分 ~ 07时58分]"
-        },
-        {
-          "title": "华尔街日报：OpenAI将取消员工股权归属期",
-          "url": "https://flash.jin10.com/detail/20251214105538781800",
-          "source": "金十数据",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[11时54分 ~ 13时57分]"
         }
       ]
     },
@@ -334,11 +338,12 @@
           "source": "财联社热门",
           "ranks": [
             3,
-            4
+            4,
+            5
           ],
           "is_new": false,
-          "appearance_count": 45,
-          "time_info": "[00时47分 ~ 13时57分]"
+          "appearance_count": 46,
+          "time_info": "[00时47分 ~ 14时54分]"
         },
         {
           "title": "宋雪涛2026美股展望：AI泡沫的内部熔点与外部拐点",
@@ -382,11 +387,12 @@
           "url": "https://wallstreetcn.com/premium/articles/3761351?layout=wscn-layout",
           "source": "华尔街见闻",
           "ranks": [
-            8
+            8,
+            6
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[12时57分 ~ 13时57分]"
+          "appearance_count": 5,
+          "time_info": "[12时57分 ~ 14时54分]"
         }
       ]
     }
