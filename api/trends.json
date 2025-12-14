@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-12-15T07:46:02.939970+08:00",
-  "total_titles_processed": 496,
+  "generated_at": "2025-12-15T07:52:48.845591+08:00",
+  "total_titles_processed": 511,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 7,
+      "match_count": 8,
       "titles": [
         {
           "title": "3名美国人在叙遇袭身亡，特朗普：将严厉报复",
@@ -15,8 +15,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 37,
-          "time_info": "[00时47分 ~ 07时46分]"
+          "appearance_count": 38,
+          "time_info": "[00时47分 ~ 07时52分]"
         },
         {
           "title": "美国总统特朗普：很快就会选择新的美联储主席。 新任美联储主席想要看到利率下降。 虽然（现在还是）是鲍威尔担任美联储主席，但利率正在下降。",
@@ -95,11 +95,12 @@
             6,
             10,
             15,
-            23
+            23,
+            26
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[05时32分 ~ 07时46分]"
+          "appearance_count": 11,
+          "time_info": "[05时32分 ~ 07时52分]"
         },
         {
           "title": "据AXIOS网站：乌克兰总统泽连斯基将在柏林会见美国中东问题特使威特科夫及特朗普女婿库什纳。之后他将分别会见来自法国、德国和英国的国家安全顾问。",
@@ -114,6 +115,17 @@
           "is_new": false,
           "appearance_count": 18,
           "time_info": "[00时47分 ~ 05时43分]"
+        },
+        {
+          "title": "3名美方人员遇袭死亡，特朗普誓言报复",
+          "url": "https://www.cls.cn/detail/2228813",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时52分"
         }
       ]
     },
@@ -130,11 +142,12 @@
             7,
             11,
             16,
-            24
+            24,
+            27
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[05时32分 ~ 07时46分]"
+          "appearance_count": 11,
+          "time_info": "[05时32分 ~ 07时52分]"
         },
         {
           "title": "付鹏：前瞻2026市场核心主线——关注美债利率曲线与AI应用落地的三种可能【付鹏说13】",
@@ -145,8 +158,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 37,
-          "time_info": "[00时47分 ~ 07时46分]"
+          "appearance_count": 38,
+          "time_info": "[00时47分 ~ 07时52分]"
         }
       ]
     },
@@ -163,8 +176,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 37,
-          "time_info": "[00时47分 ~ 07时46分]"
+          "appearance_count": 38,
+          "time_info": "[00时47分 ~ 07时52分]"
         }
       ]
     }
