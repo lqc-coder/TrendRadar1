@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-14T21:35:59.663104+08:00",
-  "total_titles_processed": 1362,
+  "generated_at": "2025-12-14T21:49:25.961321+08:00",
+  "total_titles_processed": 1380,
   "failed_sources": [],
   "trends": [
     {
@@ -39,8 +39,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[19时29分 ~ 21时35分]"
+          "appearance_count": 8,
+          "time_info": "[19时29分 ~ 21时49分]"
         },
         {
           "title": "美方特使：按照美国总统特朗普的指示，美将解除对白俄罗斯钾肥的制裁",
@@ -152,8 +152,8 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 24,
-          "time_info": "[11时54分 ~ 21时35分]"
+          "appearance_count": 25,
+          "time_info": "[11时54分 ~ 21时49分]"
         },
         {
           "title": "“鲍威尔继任者”逐渐明朗？特朗普：目前最青睐沃什，利率决议应与我商议！",
@@ -345,7 +345,7 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时35分"
         },
@@ -536,9 +536,9 @@
           "ranks": [
             10
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时35分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时35分 ~ 21时49分]"
         }
       ]
     },
@@ -557,8 +557,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 28,
-          "time_info": "[12时57分 ~ 21时35分]"
+          "appearance_count": 29,
+          "time_info": "[12时57分 ~ 21时49分]"
         }
       ]
     }
