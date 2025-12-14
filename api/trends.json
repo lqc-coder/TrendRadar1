@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-14T17:35:47.193927+08:00",
-  "total_titles_processed": 1054,
+  "generated_at": "2025-12-14T17:47:41.058648+08:00",
+  "total_titles_processed": 1079,
   "failed_sources": [],
   "trends": [
     {
@@ -141,8 +141,8 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[11时54分 ~ 17时35分]"
+          "appearance_count": 16,
+          "time_info": "[11时54分 ~ 17时47分]"
         },
         {
           "title": "“鲍威尔继任者”逐渐明朗？特朗普：目前最青睐沃什，利率决议应与我商议！",
@@ -294,6 +294,17 @@
           "time_info": "[11时54分 ~ 13时40分]"
         },
         {
+          "title": "3名美国人在叙遇袭身亡，特朗普称将“严厉报复”",
+          "url": "https://news.ifeng.com/c/8p51GzC9IVg",
+          "source": "凤凰网",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时35分 ~ 17时47分]"
+        },
+        {
           "title": "“特朗普避孕套”特写照片惹争议",
           "url": "https://www.toutiao.com/trending/7583258915845619753/",
           "source": "今日头条",
@@ -303,17 +314,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "12时57分"
-        },
-        {
-          "title": "3名美国人在叙遇袭身亡，特朗普称将“严厉报复”",
-          "url": "https://news.ifeng.com/c/8p51GzC9IVg",
-          "source": "凤凰网",
-          "ranks": [
-            6
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时35分"
         },
         {
           "title": "特朗普回应布朗大学枪击案",
@@ -364,11 +364,12 @@
           "source": "金十数据",
           "ranks": [
             9,
-            17
+            17,
+            25
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[16时48分 ~ 17时35分]"
+          "appearance_count": 4,
+          "time_info": "[16时48分 ~ 17时47分]"
         },
         {
           "title": "伊朗外交部：有关任命伊朗新任驻黎巴嫩大使的程序正在进行中，我们希望这些程序能够正常进行。",
@@ -376,11 +377,12 @@
           "source": "金十数据",
           "ranks": [
             10,
-            18
+            18,
+            26
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[16时48分 ~ 17时35分]"
+          "appearance_count": 4,
+          "time_info": "[16时48分 ~ 17时47分]"
         },
         {
           "title": "伊朗外交部：我们呼吁黎巴嫩朋友们注重黎巴嫩社会各阶层之间的理解和对话。",
@@ -388,11 +390,12 @@
           "source": "金十数据",
           "ranks": [
             11,
-            19
+            19,
+            27
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[16时48分 ~ 17时35分]"
+          "appearance_count": 4,
+          "time_info": "[16时48分 ~ 17时47分]"
         }
       ]
     },
@@ -452,8 +455,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 55,
-          "time_info": "[00时47分 ~ 17时35分]"
+          "appearance_count": 56,
+          "time_info": "[00时47分 ~ 17时47分]"
         },
         {
           "title": "宋雪涛2026美股展望：AI泡沫的内部熔点与外部拐点",
@@ -498,11 +501,12 @@
           "source": "华尔街见闻",
           "ranks": [
             8,
-            6
+            6,
+            7
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[12时57分 ~ 17时35分]"
+          "appearance_count": 15,
+          "time_info": "[12时57分 ~ 17时47分]"
         }
       ]
     }
