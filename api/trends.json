@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-16T03:53:03.032524+08:00",
-  "total_titles_processed": 479,
+  "generated_at": "2025-12-16T03:59:41.911632+08:00",
+  "total_titles_processed": 480,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[01时01分 ~ 03时53分]"
+          "appearance_count": 11,
+          "time_info": "[01时01分 ~ 03时59分]"
         },
         {
           "title": "不确定经济政策能否赢中选，特朗普质疑“现在有好消息股市反而下跌，消息特别好股市就会崩盘”，这都是美联储的错！",
@@ -26,8 +26,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[01时01分 ~ 03时53分]"
+          "appearance_count": 11,
+          "time_info": "[01时01分 ~ 03时59分]"
         },
         {
           "title": "日媒爆特朗普警告高市早苗别添乱",
@@ -41,8 +41,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[01时01分 ~ 03时53分]"
+          "appearance_count": 11,
+          "time_info": "[01时01分 ~ 03时59分]"
         },
         {
           "title": "曝特朗普曾警告高市早苗别来添乱",
@@ -51,11 +51,12 @@
           "ranks": [
             24,
             26,
-            30
+            30,
+            29
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[01时01分 ~ 03时53分]"
+          "appearance_count": 11,
+          "time_info": "[01时01分 ~ 03时59分]"
         },
         {
           "title": "声明显示：俄罗斯现在必须展现出致力于实现持久和平的意愿，同意特朗普的和平计划，并通过同意停火来表明其结束战斗的承诺。",
@@ -66,8 +67,20 @@
             14
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[03时10分 ~ 03时53分]"
+          "appearance_count": 5,
+          "time_info": "[03时10分 ~ 03时59分]"
+        },
+        {
+          "title": "德国政府分享的声明显示：欧洲领导人对美国总统特朗普在乌克兰和平努力方面取得的“重大进展”表示欢迎。",
+          "url": "https://flash.jin10.com/detail/20251216024550326800",
+          "source": "金十数据",
+          "ranks": [
+            21,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[03时10分 ~ 03时59分]"
         },
         {
           "title": "美联储理事米兰：可能会继续留在美联储，直至（美国总统特朗普）新的提名人获得国会山确认。",
@@ -80,18 +93,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[01时50分 ~ 03时34分]"
-        },
-        {
-          "title": "德国政府分享的声明显示：欧洲领导人对美国总统特朗普在乌克兰和平努力方面取得的“重大进展”表示欢迎。",
-          "url": "https://flash.jin10.com/detail/20251216024550326800",
-          "source": "金十数据",
-          "ranks": [
-            21,
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[03时10分 ~ 03时53分]"
         },
         {
           "title": "美国纽约联储主席威廉姆斯：企业在一定程度上消耗掉（总统特朗普挑起）关税之前的库存。",
@@ -186,8 +187,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[01时01分 ~ 03时53分]"
+          "appearance_count": 11,
+          "time_info": "[01时01分 ~ 03时59分]"
         },
         {
           "title": "现货黄金、白银逼近历史高位 美股三大期指温和走高 | 今夜看点",
@@ -198,8 +199,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[01时01分 ~ 03时53分]"
+          "appearance_count": 11,
+          "time_info": "[01时01分 ~ 03时59分]"
         },
         {
           "title": "金十图示：2025年12月15日（周一）热门中概股行情一览（美股盘中）",
@@ -239,8 +240,8 @@
             30
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时50分 ~ 03时53分]"
+          "appearance_count": 7,
+          "time_info": "[01时50分 ~ 03时59分]"
         },
         {
           "title": "据The Information：OpenAI聘请谷歌高管负责并购事务，任命Albert Lee担任企业发展负责人。",
