@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-16T07:01:19.165487+08:00",
-  "total_titles_processed": 656,
+  "generated_at": "2025-12-16T07:38:03.018234+08:00",
+  "total_titles_processed": 710,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 20,
-          "time_info": "[01时01分 ~ 07时01分]"
+          "appearance_count": 22,
+          "time_info": "[01时01分 ~ 07时38分]"
         },
         {
           "title": "不确定经济政策能否赢中选，特朗普质疑“现在有好消息股市反而下跌，消息特别好股市就会崩盘”，这都是美联储的错！",
@@ -27,8 +27,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 20,
-          "time_info": "[01时01分 ~ 07时01分]"
+          "appearance_count": 22,
+          "time_info": "[01时01分 ~ 07时38分]"
         },
         {
           "title": "日媒爆特朗普警告高市早苗别添乱",
@@ -45,8 +45,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 20,
-          "time_info": "[01时01分 ~ 07时01分]"
+          "appearance_count": 22,
+          "time_info": "[01时01分 ~ 07时38分]"
         },
         {
           "title": "曝特朗普曾警告高市早苗别来添乱",
@@ -69,11 +69,12 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             1,
-            17
+            17,
+            30
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[05时39分 ~ 07时01分]"
+          "appearance_count": 7,
+          "time_info": "[05时39分 ~ 07时38分]"
         },
         {
           "title": "周一（12月15日），降息赢家指数跌0.38%，“特朗普关税输家”指数涨0.29%，散户抱团概念股指数/迷因股（meme stock）指数跌3.63%。",
@@ -101,17 +102,6 @@
           "time_info": "[05时07分 ~ 07时01分]"
         },
         {
-          "title": "乌克兰总统泽连斯基：希望在最终和平框架准备好之后与特朗普会面。",
-          "url": "https://flash.jin10.com/detail/20251216063112110800",
-          "source": "金十数据",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[06时42分 ~ 07时01分]"
-        },
-        {
           "title": "美国总统特朗普：一个小时之前与欧洲领导人对话。 与乌克兰总统泽连斯基谈论了很长时间。 今天对话之后，乌克兰战事将比任何时候都更加接近结束。",
           "url": "https://wallstreetcn.com/livenews/3021155",
           "source": "华尔街见闻-快讯",
@@ -135,6 +125,18 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[05时39分 ~ 07时01分]"
+        },
+        {
+          "title": "乌克兰总统泽连斯基：希望在最终和平框架准备好之后与特朗普会面。",
+          "url": "https://flash.jin10.com/detail/20251216063112110800",
+          "source": "金十数据",
+          "ranks": [
+            3,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[06时42分 ~ 07时38分]"
         },
         {
           "title": "声明显示：俄罗斯现在必须展现出致力于实现持久和平的意愿，同意特朗普的和平计划，并通过同意停火来表明其结束战斗的承诺。",
@@ -233,6 +235,18 @@
           "time_info": "[05时07分 ~ 05时58分]"
         },
         {
+          "title": "特朗普：正调查以军杀死哈马斯领导人是否违反停火协议",
+          "url": "https://wallstreetcn.com/livenews/3021194",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[06时42分 ~ 07时38分]"
+        },
+        {
           "title": "美联储理事米兰：可能会继续留在美联储，直至（美国总统特朗普）新的提名人获得国会山确认。",
           "url": "https://wallstreetcn.com/livenews/3021113",
           "source": "华尔街见闻-快讯",
@@ -303,17 +317,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[01时02分 ~ 01时59分]"
-        },
-        {
-          "title": "特朗普：正调查以军杀死哈马斯领导人是否违反停火协议",
-          "url": "https://wallstreetcn.com/livenews/3021194",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[06时42分 ~ 07时01分]"
         },
         {
           "title": "特朗普：现在比以往任何时候都更接近达成“和平协议”",
@@ -543,8 +546,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 20,
-          "time_info": "[01时01分 ~ 07时01分]"
+          "appearance_count": 22,
+          "time_info": "[01时01分 ~ 07时38分]"
         },
         {
           "title": "金十图示：2025年12月15日（周一）热门中概股行情一览（美股收盘）",
@@ -558,6 +561,19 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[05时07分 ~ 07时01分]"
+        },
+        {
+          "title": "美股收盘：AI概念股继续承压 三大指数集体收跌 特斯拉涨超3%",
+          "url": "https://www.cls.cn/detail/2230375",
+          "source": "财联社热门",
+          "ranks": [
+            11,
+            5,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[06时42分 ~ 07时38分]"
         },
         {
           "title": "科技行业ETF收跌将近1%，领跌美股行业ETF",
@@ -584,18 +600,6 @@
           "time_info": "[05时39分 ~ 07时01分]"
         },
         {
-          "title": "美股收盘：AI概念股继续承压 三大指数集体收跌 特斯拉涨超3%",
-          "url": "https://www.cls.cn/detail/2230375",
-          "source": "财联社热门",
-          "ranks": [
-            11,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[06时42分 ~ 07时01分]"
-        },
-        {
           "title": "美股收盘：三大股指收跌 特斯拉涨3.5%",
           "url": "https://flash.jin10.com/detail/20251216050109624800",
           "source": "金十数据",
@@ -612,11 +616,12 @@
           "url": "https://wallstreetcn.com/livenews/3021185",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            15
+            15,
+            28
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[06时42分 ~ 07时01分]"
+          "appearance_count": 4,
+          "time_info": "[06时42分 ~ 07时38分]"
         },
         {
           "title": "美股七巨头收盘播报｜特斯拉收涨超3.5%，苹果、亚马逊至少跌1.5%",
@@ -716,11 +721,12 @@
           "url": "https://flash.jin10.com/detail/20251216060244493800",
           "source": "金十数据",
           "ranks": [
-            9
+            9,
+            24
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[06时42分 ~ 07时01分]"
+          "appearance_count": 4,
+          "time_info": "[06时42分 ~ 07时38分]"
         }
       ]
     },
