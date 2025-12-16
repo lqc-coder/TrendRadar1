@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-16T07:55:05.277667+08:00",
-  "total_titles_processed": 728,
+  "generated_at": "2025-12-16T08:01:38.661625+08:00",
+  "total_titles_processed": 733,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 24,
-          "time_info": "[01时01分 ~ 07时55分]"
+          "appearance_count": 25,
+          "time_info": "[01时01分 ~ 08时01分]"
         },
         {
           "title": "不确定经济政策能否赢中选，特朗普质疑“现在有好消息股市反而下跌，消息特别好股市就会崩盘”，这都是美联储的错！",
@@ -27,8 +27,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 24,
-          "time_info": "[01时01分 ~ 07时55分]"
+          "appearance_count": 25,
+          "time_info": "[01时01分 ~ 08时01分]"
         },
         {
           "title": "日媒爆特朗普警告高市早苗别添乱",
@@ -46,8 +46,21 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 24,
-          "time_info": "[01时01分 ~ 07时55分]"
+          "appearance_count": 25,
+          "time_info": "[01时01分 ~ 08时01分]"
+        },
+        {
+          "title": "美国总统特朗普：“强烈”考虑通过行政命令重新归类大麻。",
+          "url": "https://wallstreetcn.com/livenews/3021183",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1,
+            17,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[05时39分 ~ 08时01分]"
         },
         {
           "title": "曝特朗普曾警告高市早苗别来添乱",
@@ -63,19 +76,6 @@
           "is_new": false,
           "appearance_count": 15,
           "time_info": "[01时01分 ~ 05时51分]"
-        },
-        {
-          "title": "美国总统特朗普：“强烈”考虑通过行政命令重新归类大麻。",
-          "url": "https://wallstreetcn.com/livenews/3021183",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1,
-            17,
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[05时39分 ~ 07时55分]"
         },
         {
           "title": "周一（12月15日），降息赢家指数跌0.38%，“特朗普关税输家”指数涨0.29%，散户抱团概念股指数/迷因股（meme stock）指数跌3.63%。",
@@ -111,8 +111,8 @@
             18
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[06时42分 ~ 07时55分]"
+          "appearance_count": 6,
+          "time_info": "[06时42分 ~ 08时01分]"
         },
         {
           "title": "美国总统特朗普：一个小时之前与欧洲领导人对话。 与乌克兰总统泽连斯基谈论了很长时间。 今天对话之后，乌克兰战事将比任何时候都更加接近结束。",
@@ -140,6 +140,18 @@
           "time_info": "[05时39分 ~ 07时01分]"
         },
         {
+          "title": "特朗普：正调查以军杀死哈马斯领导人是否违反停火协议",
+          "url": "https://wallstreetcn.com/livenews/3021194",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[06时42分 ~ 08时01分]"
+        },
+        {
           "title": "声明显示：俄罗斯现在必须展现出致力于实现持久和平的意愿，同意特朗普的和平计划，并通过同意停火来表明其结束战斗的承诺。",
           "url": "https://flash.jin10.com/detail/20251216025403582800",
           "source": "金十数据",
@@ -150,18 +162,6 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[03时10分 ~ 03时59分]"
-        },
-        {
-          "title": "特朗普：正调查以军杀死哈马斯领导人是否违反停火协议",
-          "url": "https://wallstreetcn.com/livenews/3021194",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            12,
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[06时42分 ~ 07时55分]"
         },
         {
           "title": "德国政府分享的声明显示：欧洲领导人对美国总统特朗普在乌克兰和平努力方面取得的“重大进展”表示欢迎。",
@@ -547,8 +547,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 24,
-          "time_info": "[01时01分 ~ 07时55分]"
+          "appearance_count": 25,
+          "time_info": "[01时01分 ~ 08时01分]"
         },
         {
           "title": "美股收盘：AI概念股继续承压 三大指数集体收跌 特斯拉涨超3%",
@@ -561,8 +561,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[06时42分 ~ 07时55分]"
+          "appearance_count": 8,
+          "time_info": "[06时42分 ~ 08时01分]"
         },
         {
           "title": "金十图示：2025年12月15日（周一）热门中概股行情一览（美股收盘）",
@@ -610,8 +610,8 @@
             28
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[06时42分 ~ 07时55分]"
+          "appearance_count": 6,
+          "time_info": "[06时42分 ~ 08时01分]"
         },
         {
           "title": "美股收盘：三大股指收跌 特斯拉涨3.5%",
@@ -727,8 +727,8 @@
             24
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[06时42分 ~ 07时55分]"
+          "appearance_count": 6,
+          "time_info": "[06时42分 ~ 08时01分]"
         }
       ]
     },
