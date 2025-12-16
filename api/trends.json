@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-16T15:52:58.463915+08:00",
-  "total_titles_processed": 1351,
+  "generated_at": "2025-12-16T15:59:22.854195+08:00",
+  "total_titles_processed": 1360,
   "failed_sources": [],
   "trends": [
     {
@@ -39,8 +39,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[11时53分 ~ 15时52分]"
+          "appearance_count": 9,
+          "time_info": "[11时53分 ~ 15时59分]"
         },
         {
           "title": "特朗普签署行政命令，将芬太尼列为大规模杀伤性武器",
@@ -102,6 +102,20 @@
           "time_info": "[01时01分 ~ 05时51分]"
         },
         {
+          "title": "释新闻｜泰国否认对柬埔寨停火，为什么特朗普的电话不管用？",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32180845",
+          "source": "澎湃新闻",
+          "ranks": [
+            13,
+            14,
+            12,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[11时53分 ~ 15时59分]"
+        },
+        {
           "title": "泰国否认对柬埔寨停火，为什么特朗普的电话不管用？",
           "url": "https://news.ifeng.com/c/8p7htngCHQD",
           "source": "凤凰网",
@@ -150,20 +164,6 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[06时42分 ~ 08时01分]"
-        },
-        {
-          "title": "释新闻｜泰国否认对柬埔寨停火，为什么特朗普的电话不管用？",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32180845",
-          "source": "澎湃新闻",
-          "ranks": [
-            13,
-            14,
-            12,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[11时53分 ~ 15时52分]"
         },
         {
           "title": "特朗普正式起诉BBC 共索赔100亿美元",
@@ -419,6 +419,17 @@
           "time_info": "[06时42分 ~ 07时01分]"
         },
         {
+          "title": "英国工党大臣金诺克：我认为BBC在特朗普诉讼案上坚持立场是正确的。",
+          "url": "https://flash.jin10.com/detail/20251216152842242800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时52分 ~ 15时59分]"
+        },
+        {
           "title": "美特使和特朗普女婿疑似没认出德总理",
           "url": "https://www.toutiao.com/trending/7584270560197099539/",
           "source": "今日头条",
@@ -484,17 +495,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时48分"
-        },
-        {
-          "title": "英国工党大臣金诺克：我认为BBC在特朗普诉讼案上坚持立场是正确的。",
-          "url": "https://flash.jin10.com/detail/20251216152842242800",
-          "source": "金十数据",
-          "ranks": [
-            11
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "15时52分"
         },
         {
           "title": "美国总统特朗普：我认为我们现在比以往任何时候都更接近目标（达成俄乌停火）。",
@@ -785,8 +785,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[15时01分 ~ 15时52分]"
+          "appearance_count": 4,
+          "time_info": "[15时01分 ~ 15时59分]"
         },
         {
           "title": "据The Information：OpenAI聘请谷歌高管负责并购事务，任命Albert Lee担任企业发展负责人。",
@@ -837,8 +837,8 @@
             20
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[15时41分 ~ 15时52分]"
+          "appearance_count": 3,
+          "time_info": "[15时41分 ~ 15时59分]"
         },
         {
           "title": "金十图示：2025年12月16日（周二）上海金早盘价为970.56元/克，较国际金价(970.45元/克)，高0.11元/克",
@@ -869,6 +869,17 @@
       "match_count": 2,
       "titles": [
         {
+          "title": "盛宝银行：美债收益率明年可能进一步趋陡",
+          "url": "https://flash.jin10.com/detail/20251216154958479800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时52分 ~ 15时59分]"
+        },
+        {
           "title": "10年期美债价格冲高回落",
           "url": "https://wallstreetcn.com/livenews/3021163",
           "source": "华尔街见闻-快讯",
@@ -880,17 +891,6 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[04时48分 ~ 05时58分]"
-        },
-        {
-          "title": "盛宝银行：美债收益率明年可能进一步趋陡",
-          "url": "https://flash.jin10.com/detail/20251216154958479800",
-          "source": "金十数据",
-          "ranks": [
-            1
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "15时52分"
         }
       ]
     },
