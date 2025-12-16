@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-16T18:53:40.490703+08:00",
-  "total_titles_processed": 1659,
+  "generated_at": "2025-12-16T19:01:21.844131+08:00",
+  "total_titles_processed": 1679,
   "failed_sources": [],
   "trends": [
     {
@@ -39,8 +39,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[11时53分 ~ 18时53分]"
+          "appearance_count": 15,
+          "time_info": "[11时53分 ~ 19时01分]"
         },
         {
           "title": "特朗普签署行政命令，将芬太尼列为大规模杀伤性武器",
@@ -99,8 +99,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[11时53分 ~ 18时53分]"
+          "appearance_count": 15,
+          "time_info": "[11时53分 ~ 19时01分]"
         },
         {
           "title": "曝特朗普曾警告高市早苗别来添乱",
@@ -116,6 +116,17 @@
           "is_new": false,
           "appearance_count": 15,
           "time_info": "[01时01分 ~ 05时51分]"
+        },
+        {
+          "title": "“我的漂亮话呢？”特朗普对BBC提起100亿美元诉讼",
+          "url": "https://news.ifeng.com/c/8p8IOWOQWV5",
+          "source": "凤凰网",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[17时50分 ~ 19时01分]"
         },
         {
           "title": "泰国否认对柬埔寨停火，为什么特朗普的电话不管用？",
@@ -166,17 +177,6 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[06时42分 ~ 08时01分]"
-        },
-        {
-          "title": "“我的漂亮话呢？”特朗普对BBC提起100亿美元诉讼",
-          "url": "https://news.ifeng.com/c/8p8IOWOQWV5",
-          "source": "凤凰网",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[17时50分 ~ 18时53分]"
         },
         {
           "title": "特朗普正式起诉BBC 共索赔100亿美元",
@@ -906,8 +906,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[17时50分 ~ 18时53分]"
+          "appearance_count": 5,
+          "time_info": "[17时50分 ~ 19时01分]"
         },
         {
           "title": "“俄版谷歌”，正帮中国商人大赚",
