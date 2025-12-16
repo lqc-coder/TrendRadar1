@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-16T19:36:19.058485+08:00",
-  "total_titles_processed": 1732,
+  "generated_at": "2025-12-16T19:49:39.973729+08:00",
+  "total_titles_processed": 1759,
   "failed_sources": [],
   "trends": [
     {
@@ -39,8 +39,19 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[11时53分 ~ 19时36分]"
+          "appearance_count": 18,
+          "time_info": "[11时53分 ~ 19时49分]"
+        },
+        {
+          "title": "“我的漂亮话呢？”特朗普对BBC提起100亿美元诉讼",
+          "url": "https://news.ifeng.com/c/8p8IOWOQWV5",
+          "source": "凤凰网",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[17时50分 ~ 19时49分]"
         },
         {
           "title": "特朗普签署行政命令，将芬太尼列为大规模杀伤性武器",
@@ -74,17 +85,6 @@
           "time_info": "[01时01分 ~ 08时01分]"
         },
         {
-          "title": "“我的漂亮话呢？”特朗普对BBC提起100亿美元诉讼",
-          "url": "https://news.ifeng.com/c/8p8IOWOQWV5",
-          "source": "凤凰网",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[17时50分 ~ 19时36分]"
-        },
-        {
           "title": "美国总统特朗普：“强烈”考虑通过行政命令重新归类大麻。",
           "url": "https://wallstreetcn.com/livenews/3021183",
           "source": "华尔街见闻-快讯",
@@ -110,8 +110,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[11时53分 ~ 19时36分]"
+          "appearance_count": 18,
+          "time_info": "[11时53分 ~ 19时49分]"
         },
         {
           "title": "曝特朗普曾警告高市早苗别来添乱",
@@ -938,7 +938,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时36分"
         },
