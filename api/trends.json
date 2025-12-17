@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-12-17T17:59:34.407118+08:00",
-  "total_titles_processed": 1582,
+  "generated_at": "2025-12-17T18:52:52.430482+08:00",
+  "total_titles_processed": 1656,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 49,
+      "match_count": 50,
       "titles": [
         {
           "title": "特朗普：认定委内瑞拉现政府是“外国恐怖组织”",
@@ -115,8 +115,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[12时55分 ~ 17时59分]"
+          "appearance_count": 14,
+          "time_info": "[12时55分 ~ 18时52分]"
         },
         {
           "title": "释新闻｜泰国否认对柬埔寨停火，为什么特朗普的电话不管用？",
@@ -530,6 +530,17 @@
           "time_info": "14时59分"
         },
         {
+          "title": "金十数据整理：特朗普过去24小时都忙了什么？（2025-12-17）",
+          "url": "https://flash.jin10.com/detail/20251217180257725800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时52分"
+        },
+        {
           "title": "Citadel创始人Ken Griffin：与美国白宫和美联储保持距离具有重要意义。 美国总统（特朗普）脑子中对下一任美联储主席有不错的人选。 我自己不会对下一任美联储主席的人选发表看法。",
           "url": "https://wallstreetcn.com/livenews/3021809",
           "source": "华尔街见闻-快讯",
@@ -850,11 +861,12 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             7,
-            11
+            11,
+            29
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时52分 ~ 17时59分]"
+          "appearance_count": 3,
+          "time_info": "[17时52分 ~ 18时52分]"
         },
         {
           "title": "亚马逊(AMZN.O)美股盘前上涨1.2%，有报道称亚马逊正在商谈向OpenAI投资约100亿美元。",
@@ -936,6 +948,58 @@
       ]
     },
     {
+      "keyword_group": "伊朗",
+      "match_count": 4,
+      "titles": [
+        {
+          "title": "伊朗东南部一检查站遭袭致4人死亡",
+          "url": "https://flash.jin10.com/detail/20251217023138871800",
+          "source": "金十数据",
+          "ranks": [
+            4,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[03时00分 ~ 03时33分]"
+        },
+        {
+          "title": "美国财政部：宣布与Exodus Movement就涉嫌违反伊朗制裁达成和解。",
+          "url": "https://flash.jin10.com/detail/20251217025948578800",
+          "source": "金十数据",
+          "ranks": [
+            10,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[03时33分 ~ 04时07分]"
+        },
+        {
+          "title": "市场消息：俄罗斯外长拉夫罗夫和伊朗外长的谈判开始。",
+          "url": "https://flash.jin10.com/detail/20251217171208971800",
+          "source": "金十数据",
+          "ranks": [
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时52分 ~ 17时59分]"
+        },
+        {
+          "title": "英国政府：根据叙利亚制裁制度将4家公司从名单上除名，根据伊朗核制裁制度将1家公司从名单上除名。",
+          "url": "https://flash.jin10.com/detail/20251217181325277800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时52分"
+        }
+      ]
+    },
+    {
       "keyword_group": "美元",
       "match_count": 3,
       "titles": [
@@ -976,47 +1040,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[15时41分 ~ 15时58分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "伊朗",
-      "match_count": 3,
-      "titles": [
-        {
-          "title": "伊朗东南部一检查站遭袭致4人死亡",
-          "url": "https://flash.jin10.com/detail/20251217023138871800",
-          "source": "金十数据",
-          "ranks": [
-            4,
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[03时00分 ~ 03时33分]"
-        },
-        {
-          "title": "美国财政部：宣布与Exodus Movement就涉嫌违反伊朗制裁达成和解。",
-          "url": "https://flash.jin10.com/detail/20251217025948578800",
-          "source": "金十数据",
-          "ranks": [
-            10,
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[03时33分 ~ 04时07分]"
-        },
-        {
-          "title": "市场消息：俄罗斯外长拉夫罗夫和伊朗外长的谈判开始。",
-          "url": "https://flash.jin10.com/detail/20251217171208971800",
-          "source": "金十数据",
-          "ranks": [
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时52分 ~ 17时59分]"
         }
       ]
     },
