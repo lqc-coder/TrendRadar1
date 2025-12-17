@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-17T13:45:51.627505+08:00",
-  "total_titles_processed": 1105,
+  "generated_at": "2025-12-17T13:56:02.231526+08:00",
+  "total_titles_processed": 1122,
   "failed_sources": [],
   "trends": [
     {
@@ -24,8 +24,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 27,
-          "time_info": "[01时01分 ~ 13时45分]"
+          "appearance_count": 29,
+          "time_info": "[01时01分 ~ 13时56分]"
         },
         {
           "title": "“这是特朗普给泽连斯基的最后通牒：接受条件，否则就没机会了”",
@@ -39,6 +39,17 @@
           "time_info": "[01时01分 ~ 08时01分]"
         },
         {
+          "title": "特朗普：认定委内瑞拉现政府是“外国恐怖组织”",
+          "url": "https://news.ifeng.com/c/8p9PufcVOa6",
+          "source": "凤凰网",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[11时47分 ~ 13时56分]"
+        },
+        {
           "title": "胡锡进：特朗普称俄乌“最接近和平”，世界聚焦普京",
           "url": "https://news.ifeng.com/c/8p8hxedgU29",
           "source": "凤凰网",
@@ -48,6 +59,17 @@
           "is_new": false,
           "appearance_count": 23,
           "time_info": "[01时01分 ~ 08时01分]"
+        },
+        {
+          "title": "特朗普签署公告，进一步限制外国公民入境美国",
+          "url": "https://news.ifeng.com/c/8p9E57zE6bJ",
+          "source": "凤凰网",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[11时47分 ~ 13时56分]"
         },
         {
           "title": "“爱泼斯坦案”背后的正义、叙述与情绪：特朗普和美国政治的梦魇",
@@ -85,22 +107,12 @@
           "ranks": [
             1,
             2,
-            4
+            4,
+            10
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[11时47分 ~ 13时45分]"
-        },
-        {
-          "title": "特朗普：认定委内瑞拉现政府是“外国恐怖组织”",
-          "url": "https://news.ifeng.com/c/8p9PufcVOa6",
-          "source": "凤凰网",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[11时47分 ~ 13时45分]"
+          "appearance_count": 6,
+          "time_info": "[11时47分 ~ 13时56分]"
         },
         {
           "title": "白宫新闻秘书Leavitt：美国总统特朗普可能会在周三披露2026年政策方向。",
@@ -115,17 +127,6 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[03时33分 ~ 05时37分]"
-        },
-        {
-          "title": "特朗普签署公告，进一步限制外国公民入境美国",
-          "url": "https://news.ifeng.com/c/8p9E57zE6bJ",
-          "source": "凤凰网",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[11时47分 ~ 13时45分]"
         },
         {
           "title": "美国总统特朗普：12月17日美东时间21:00（18日北京时间10:00）将发表全国讲话。",
@@ -266,6 +267,18 @@
           "time_info": "[06时52分 ~ 08时01分]"
         },
         {
+          "title": "特朗普下令封锁所有受制裁委油轮",
+          "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE%E4%B8%8B%E4%BB%A4%E5%B0%81%E9%94%81%E6%89%80%E6%9C%89%E5%8F%97%E5%88%B6%E8%A3%81%E5%A7%94%E6%B2%B9%E8%BD%AE",
+          "source": "百度热搜",
+          "ranks": [
+            17,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[11时47分 ~ 13时56分]"
+        },
+        {
           "title": "金十整理：特朗普对委施压手段层层加码，委原油应声折价、马杜罗政权承压",
           "url": "https://flash.jin10.com/detail/20251217111048852800",
           "source": "金十数据",
@@ -303,6 +316,17 @@
           "time_info": "[04时46分 ~ 05时56分]"
         },
         {
+          "title": "特朗普有“酒鬼性格”，万斯“阴谋论者”，马斯克“嗑药的怪人”...“白宫大管家”的炸裂采访爆了",
+          "url": "https://wallstreetcn.com/articles/3761525",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[12时55分 ~ 13时56分]"
+        },
+        {
           "title": "哈塞特势头不稳，特朗普亲信推举沃什当美联储主席，预测市场大变脸",
           "url": "https://wallstreetcn.com/articles/3761439",
           "source": "华尔街见闻",
@@ -312,18 +336,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[01时01分 ~ 02时01分]"
-        },
-        {
-          "title": "特朗普下令封锁所有受制裁委油轮",
-          "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE%E4%B8%8B%E4%BB%A4%E5%B0%81%E9%94%81%E6%89%80%E6%9C%89%E5%8F%97%E5%88%B6%E8%A3%81%E5%A7%94%E6%B2%B9%E8%BD%AE",
-          "source": "百度热搜",
-          "ranks": [
-            17,
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[11时47分 ~ 13时45分]"
         },
         {
           "title": "美国州政府官员们终止关于马斯克在特朗普政府担职的案件",
@@ -336,17 +348,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[01时01分 ~ 02时01分]"
-        },
-        {
-          "title": "特朗普有“酒鬼性格”，万斯“阴谋论者”，马斯克“嗑药的怪人”...“白宫大管家”的炸裂采访爆了",
-          "url": "https://wallstreetcn.com/articles/3761525",
-          "source": "华尔街见闻",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[12时55分 ~ 13时45分]"
         },
         {
           "title": "据纽约邮报：美国总统特朗普在《名利场》相关报道后仍力挺白宫幕僚长苏西·威尔斯。（苏西·威尔斯在接受《名利场》采访时对特朗普的核心圈子发表了一系列坦率且带有批评性的言论。）",
@@ -381,6 +382,18 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[04时46分 ~ 05时37分]"
+        },
+        {
+          "title": "马斯克又要给特朗普花钱了",
+          "url": "https://www.toutiao.com/trending/7584667287097986610/",
+          "source": "今日头条",
+          "ranks": [
+            18,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[13时45分 ~ 13时56分]"
         },
         {
           "title": "特朗普称已下令封锁进出委受制裁油轮",
@@ -475,17 +488,6 @@
           "time_info": "01时01分"
         },
         {
-          "title": "马斯克又要给特朗普花钱了",
-          "url": "https://www.toutiao.com/trending/7584667287097986610/",
-          "source": "今日头条",
-          "ranks": [
-            18
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时45分"
-        },
-        {
           "title": "Citadel创始人Ken Griffin：美国民众对通胀粘性感到疲惫不堪。 （总统特朗普所属）共和党纠缠的那些政策会助涨通胀。 （但）去监管最终具有反通胀效果。 欧洲资本市场还不够深。",
           "url": "https://wallstreetcn.com/livenews/3021805",
           "source": "华尔街见闻-快讯",
@@ -568,8 +570,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[06时52分 ~ 13时45分]"
+          "appearance_count": 13,
+          "time_info": "[06时52分 ~ 13时56分]"
         },
         {
           "title": "非农超预期，美股低开，现货黄金小幅上涨，布油跌破60美元",
