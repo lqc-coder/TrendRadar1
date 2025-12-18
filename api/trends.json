@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-18T15:51:09.822398+08:00",
-  "total_titles_processed": 1383,
+  "generated_at": "2025-12-18T15:58:20.791181+08:00",
+  "total_titles_processed": 1391,
   "failed_sources": [],
   "trends": [
     {
@@ -35,8 +35,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 39,
-          "time_info": "[00时01分 ~ 15时51分]"
+          "appearance_count": 40,
+          "time_info": "[00时01分 ~ 15时58分]"
         },
         {
           "title": "刚宣布封锁委内瑞拉，特朗普又威胁对俄新制裁，布油重回60美元！",
@@ -49,8 +49,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[07时38分 ~ 15时51分]"
+          "appearance_count": 16,
+          "time_info": "[07时38分 ~ 15时58分]"
         },
         {
           "title": "打破沉默，冯德莱恩回应特朗普：不能让他人的世界观定义欧洲",
@@ -74,8 +74,8 @@
             30
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[11时46分 ~ 15时51分]"
+          "appearance_count": 12,
+          "time_info": "[11时46分 ~ 15时58分]"
         },
         {
           "title": "特朗普政府计划拆解主要气候研究中心",
@@ -103,8 +103,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[15时01分 ~ 15时51分]"
+          "appearance_count": 6,
+          "time_info": "[15时01分 ~ 15时58分]"
         },
         {
           "title": "市场消息：特朗普被律师告知，关于第三个总统任期的宪法合法性尚不明确。",
@@ -203,6 +203,17 @@
           "time_info": "[04时00分 ~ 05时50分]"
         },
         {
+          "title": "“宣战”猜测甚嚣尘上，特朗普全国讲话却只字未提",
+          "url": "https://news.ifeng.com/c/8pBZNpaMDrn",
+          "source": "凤凰网",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[15时39分 ~ 15时58分]"
+        },
+        {
           "title": "据悉特朗普希望渐进式施压让马杜罗低头，最终目标仍然让其下台",
           "url": "https://flash.jin10.com/detail/20251218121134659800",
           "source": "金十数据",
@@ -252,17 +263,6 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[03时00分 ~ 04时00分]"
-        },
-        {
-          "title": "“宣战”猜测甚嚣尘上，特朗普全国讲话却只字未提",
-          "url": "https://news.ifeng.com/c/8pBZNpaMDrn",
-          "source": "凤凰网",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[15时39分 ~ 15时51分]"
         },
         {
           "title": "巴西总统卢拉：担忧美国总统特朗普对拉丁美洲的态度及其威胁。",
@@ -581,8 +581,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 22,
-          "time_info": "[05时50分 ~ 15时51分]"
+          "appearance_count": 23,
+          "time_info": "[05时50分 ~ 15时58分]"
         },
         {
           "title": "市场静待更多数据，美股早盘震荡下挫，地缘政治扰动，原油重新站上60美元，金银铜铂钯齐涨，白银飙涨近4%再创新高",
@@ -812,8 +812,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[11时46分 ~ 15时51分]"
+          "appearance_count": 12,
+          "time_info": "[11时46分 ~ 15时58分]"
         },
         {
           "title": "美股七巨头收盘播报｜特斯拉收跌超4.6%撤离历史最高位，英伟达跌3.8%，谷歌A跌3.2%",
@@ -839,8 +839,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[13时57分 ~ 15时51分]"
+          "appearance_count": 7,
+          "time_info": "[13时57分 ~ 15时58分]"
         },
         {
           "title": "谷歌搜索产品副总裁Robby Stein介绍，在谷歌搜索中，新的Gemini Flash模型将帮助用户进行带有多个条件的更精细搜索。例如，用户可以使用它来查找适合带幼儿的父母参加的最佳晚间活动。",
@@ -940,8 +940,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[15时01分 ~ 15时51分]"
+          "appearance_count": 6,
+          "time_info": "[15时01分 ~ 15时58分]"
         },
         {
           "title": "AI新子弹要来了！报道称OpenAI正探讨“数百亿甚至1000亿美元融资”",
@@ -953,8 +953,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[13时46分 ~ 15时51分]"
+          "appearance_count": 9,
+          "time_info": "[13时46分 ~ 15时58分]"
         },
         {
           "title": "OpenAI：开发者们现在可以向ChatGPT上传APPs。",
