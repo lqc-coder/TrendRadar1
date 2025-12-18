@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-19T07:48:36.883091+08:00",
-  "total_titles_processed": 794,
+  "generated_at": "2025-12-19T07:54:45.546034+08:00",
+  "total_titles_processed": 796,
   "failed_sources": [],
   "trends": [
     {
@@ -16,8 +16,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 28,
-          "time_info": "[00时00分 ~ 07时48分]"
+          "appearance_count": 29,
+          "time_info": "[00时00分 ~ 07时54分]"
         },
         {
           "title": "美国总统特朗普：希望国会山不至于泄露关于打击委内瑞拉的情报。",
@@ -57,8 +57,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 28,
-          "time_info": "[00时00分 ~ 07时48分]"
+          "appearance_count": 29,
+          "time_info": "[00时00分 ~ 07时54分]"
         },
         {
           "title": "美国总统特朗普：现在实际上并没有通胀问题。",
@@ -85,8 +85,8 @@
             15
           ],
           "is_new": false,
-          "appearance_count": 25,
-          "time_info": "[01时48分 ~ 07时48分]"
+          "appearance_count": 26,
+          "time_info": "[01时48分 ~ 07时54分]"
         },
         {
           "title": "美国总统特朗普：美联储理事鲍曼很棒。",
@@ -258,6 +258,44 @@
           "time_info": "[03时42分 ~ 05时00分]"
         },
         {
+          "title": "特朗普：美国将在月球部署核反应堆",
+          "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE%EF%BC%9A%E7%BE%8E%E5%9B%BD%E5%B0%86%E5%9C%A8%E6%9C%88%E7%90%83%E9%83%A8%E7%BD%B2%E6%A0%B8%E5%8F%8D%E5%BA%94%E5%A0%86",
+          "source": "百度热搜",
+          "ranks": [
+            30,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[07时35分 ~ 07时54分]"
+        },
+        {
+          "title": "文件显示：特朗普媒体科技集团(DJT.O)与TAE签署了无担保可转换本票，据此TMTG同意向TAE提供2亿美元资金。",
+          "url": "https://flash.jin10.com/detail/20251219061408238800",
+          "source": "金十数据",
+          "ranks": [
+            6,
+            11,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[06时42分 ~ 07时54分]"
+        },
+        {
+          "title": "文件显示：如果交易在特定情况下终止，特朗普媒体科技集团(DJT.O)可能需要向核聚变公司TAE支付9000万美元的终止费。",
+          "url": "https://flash.jin10.com/detail/20251219061151314800",
+          "source": "金十数据",
+          "ranks": [
+            7,
+            12,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[06时42分 ~ 07时54分]"
+        },
+        {
           "title": "美国总统特朗普将签署命令，重新归类大麻。 特朗普表示，大麻命令并非法律，此命令在任何形式上都不会合法化。 大麻股目前涨跌各异，ETF CNBS跌15.3%、MSOS跌14.2%、MJ跌8.1%，GrowGeneration跌7.7%，Tilray Brands跌0.1%，Agrify则涨3.7%，Canopy Growth涨4.9%，VFF涨5.1%。",
           "url": "https://wallstreetcn.com/livenews/3023303",
           "source": "华尔街见闻-快讯",
@@ -282,6 +320,19 @@
           "time_info": "[02时59分 ~ 04时01分]"
         },
         {
+          "title": "特朗普下令联邦政府圣诞休假 纽交所维持交易安排",
+          "url": "https://flash.jin10.com/detail/20251219055432229800",
+          "source": "金十数据",
+          "ranks": [
+            11,
+            16,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[06时42分 ~ 07时54分]"
+        },
+        {
           "title": "经济学家：感恩节销售+特朗普政府关门都可能造成美国CPI数据失真",
           "url": "https://wallstreetcn.com/livenews/3023289",
           "source": "华尔街见闻-快讯",
@@ -293,6 +344,32 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[02时59分 ~ 04时01分]"
+        },
+        {
+          "title": "特朗普签署行政命令 重申2028年登月目标",
+          "url": "https://flash.jin10.com/detail/20251219054334067800",
+          "source": "金十数据",
+          "ranks": [
+            19,
+            24,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[06时42分 ~ 07时54分]"
+        },
+        {
+          "title": "特朗普宣布联邦政府下周多关门两天，但纽交所宣布圣诞前后股市交易照旧",
+          "url": "https://wallstreetcn.com/livenews/3023357",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            19,
+            22,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[06时42分 ~ 07时54分]"
         },
         {
           "title": "巴西总统卢拉：已告知马杜罗和特朗普，巴西愿意帮助防止拉丁美洲地区发生武装对抗。",
@@ -316,32 +393,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[04时39分 ~ 05时00分]"
-        },
-        {
-          "title": "文件显示：特朗普媒体科技集团(DJT.O)与TAE签署了无担保可转换本票，据此TMTG同意向TAE提供2亿美元资金。",
-          "url": "https://flash.jin10.com/detail/20251219061408238800",
-          "source": "金十数据",
-          "ranks": [
-            6,
-            11,
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[06时42分 ~ 07时48分]"
-        },
-        {
-          "title": "文件显示：如果交易在特定情况下终止，特朗普媒体科技集团(DJT.O)可能需要向核聚变公司TAE支付9000万美元的终止费。",
-          "url": "https://flash.jin10.com/detail/20251219061151314800",
-          "source": "金十数据",
-          "ranks": [
-            7,
-            12,
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[06时42分 ~ 07时48分]"
         },
         {
           "title": "特朗普：考虑就住房问题宣布国家紧急状态",
@@ -379,19 +430,6 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[03时42分 ~ 04时39分]"
-        },
-        {
-          "title": "特朗普下令联邦政府圣诞休假 纽交所维持交易安排",
-          "url": "https://flash.jin10.com/detail/20251219055432229800",
-          "source": "金十数据",
-          "ranks": [
-            11,
-            16,
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[06时42分 ~ 07时48分]"
         },
         {
           "title": "美国总统特朗普：现在几乎没有通货膨胀。",
@@ -440,32 +478,6 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[03时42分 ~ 04时39分]"
-        },
-        {
-          "title": "特朗普签署行政命令 重申2028年登月目标",
-          "url": "https://flash.jin10.com/detail/20251219054334067800",
-          "source": "金十数据",
-          "ranks": [
-            19,
-            24,
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[06时42分 ~ 07时48分]"
-        },
-        {
-          "title": "特朗普宣布联邦政府下周多关门两天，但纽交所宣布圣诞前后股市交易照旧",
-          "url": "https://wallstreetcn.com/livenews/3023357",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            19,
-            22,
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[06时42分 ~ 07时48分]"
         },
         {
           "title": "玻利维亚宣布经济紧急状态，柴油价格飙升160%，特朗普政府在该国寻求投资",
@@ -554,6 +566,17 @@
           "time_info": "[01时00分 ~ 01时58分]"
         },
         {
+          "title": "核电股普遍收涨，宣布企业合并、核电站项目计划的特朗普媒体涨约42%",
+          "url": "https://wallstreetcn.com/livenews/3023387",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[07时36分 ~ 07时54分]"
+        },
+        {
           "title": "美国白宫：美国总统特朗普今日签署了关于太空优势的行政命令。",
           "url": "https://flash.jin10.com/detail/20251219041242339800",
           "source": "金十数据",
@@ -578,17 +601,6 @@
           "time_info": "[04时39分 ~ 05时00分]"
         },
         {
-          "title": "特朗普：美国将在月球部署核反应堆",
-          "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE%EF%BC%9A%E7%BE%8E%E5%9B%BD%E5%B0%86%E5%9C%A8%E6%9C%88%E7%90%83%E9%83%A8%E7%BD%B2%E6%A0%B8%E5%8F%8D%E5%BA%94%E5%A0%86",
-          "source": "百度热搜",
-          "ranks": [
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[07时35分 ~ 07时48分]"
-        },
-        {
           "title": "美国总统特朗普回应关于自己对沃勒的看法，称：我觉得美联储理事沃勒很棒。 正与3名、或4名美联储主席候选人交谈，他们都不错。 很快将决定由谁担任美联储主席。 将在未来几周内公布。",
           "url": "https://wallstreetcn.com/livenews/3023309",
           "source": "华尔街见闻-快讯",
@@ -600,15 +612,15 @@
           "time_info": "[03时54分 ~ 04时01分]"
         },
         {
-          "title": "核电股普遍收涨，宣布企业合并、核电站项目计划的特朗普媒体涨约42%",
-          "url": "https://wallstreetcn.com/livenews/3023387",
-          "source": "华尔街见闻-快讯",
+          "title": "特朗普媒体集团大涨42%，公司拟并购核聚变公司TAE，计划明年开始建设核聚变发电厂",
+          "url": "https://wallstreetcn.com/articles/3761652",
+          "source": "华尔街见闻",
           "ranks": [
             10
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[07时36分 ~ 07时48分]"
+          "time_info": "[07时48分 ~ 07时54分]"
         },
         {
           "title": "特朗普发布假日行政令，联邦政府将于平安夜和12月26日关闭。",
@@ -632,17 +644,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[01时00分 ~ 01时48分]"
-        },
-        {
-          "title": "特朗普媒体集团大涨42%，公司拟并购核聚变公司TAE，计划明年开始建设核聚变发电厂",
-          "url": "https://wallstreetcn.com/articles/3761652",
-          "source": "华尔街见闻",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "07时48分"
         },
         {
           "title": "白宫新闻秘书莱维特：肯尼迪中心将更名为特朗普-肯尼迪中心。",
@@ -773,8 +774,21 @@
             28
           ],
           "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[05时45分 ~ 07时54分]"
+        },
+        {
+          "title": "美股收盘：11月CPI提振市场 三大指数集体收涨 纳指涨超1%",
+          "url": "https://www.cls.cn/detail/2234084",
+          "source": "财联社热门",
+          "ranks": [
+            11,
+            9,
+            4
+          ],
+          "is_new": false,
           "appearance_count": 8,
-          "time_info": "[05时45分 ~ 07时48分]"
+          "time_info": "[06时42分 ~ 07时54分]"
         },
         {
           "title": "金十图示：2025年12月18日（周四）美股热门股票行情一览（美股收盘）",
@@ -803,19 +817,6 @@
           "time_info": "[05时31分 ~ 07时00分]"
         },
         {
-          "title": "美股收盘：11月CPI提振市场 三大指数集体收涨 纳指涨超1%",
-          "url": "https://www.cls.cn/detail/2234084",
-          "source": "财联社热门",
-          "ranks": [
-            11,
-            9,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[06时42分 ~ 07时48分]"
-        },
-        {
           "title": "联邦快递第二财季营收235亿美元，分析师预期228亿美元。 第二财季Federal Express营收204.3亿美元，分析师预期197.2亿美元。 第二财季FedEx Freight营收21.4亿美元，分析师预期21.4亿美元。 第二财季调整后运营利润率6.9%，分析师预期6.07%。 预计全年资本开支45亿美元，符合分析师预期，公司原本预计45亿美元。 联邦快递（FDX）美股盘后涨3%。",
           "url": "https://wallstreetcn.com/livenews/3023347",
           "source": "华尔街见闻-快讯",
@@ -837,8 +838,21 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[07时36分 ~ 07时48分]"
+          "appearance_count": 3,
+          "time_info": "[07时36分 ~ 07时54分]"
+        },
+        {
+          "title": "周四（12月18日，美国CPI通胀数据发布日），降息赢家指数涨0.31%，报99.84点，跳空高开之后，美股盘初刷新日高至101.57点，之后逐步回吐涨幅。 “特朗普关税输家”指数涨0.87%，散户抱团概念股指数/迷因股（meme stock）指数涨2.0%。",
+          "url": "https://wallstreetcn.com/livenews/3023371",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6,
+            9,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[06时42分 ~ 07时54分]"
         },
         {
           "title": "美股收盘：三大股指收涨 特朗普旗下公司暴涨超40%",
@@ -877,17 +891,43 @@
           "time_info": "[05时45分 ~ 07时00分]"
         },
         {
-          "title": "周四（12月18日，美国CPI通胀数据发布日），降息赢家指数涨0.31%，报99.84点，跳空高开之后，美股盘初刷新日高至101.57点，之后逐步回吐涨幅。 “特朗普关税输家”指数涨0.87%，散户抱团概念股指数/迷因股（meme stock）指数涨2.0%。",
-          "url": "https://wallstreetcn.com/livenews/3023371",
+          "title": "周四（12月18日）纽约尾盘，CME比特币期货BTC主力合约较周三纽约尾盘跌0.45%，报85575美元，北京时间21:30发布美国CPI数据之前持续、稳扎稳打地走高，之后涨幅扩大，22：01刷新日高至89660美元，经过一段时间的高位震荡后，01:00出现一波显著的回落行情，04:00刷新日低并跌向84500美元。 CME以太币期货DCR主力合约跌0.35%，报2822美元，日内交投于3002.50-2780美元区间。 美股加密货币与加密货币关联指数涨0.84%，报58.73点，美股开盘后曾刷新日高至62.26点，之后逐步回落。 最近24小时，MarketVector数字资产100小盘指数跌3.53%，暂报3400.92点。",
+          "url": "https://wallstreetcn.com/livenews/3023366",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            6,
-            9,
-            13
+            10,
+            13,
+            17
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[06时42分 ~ 07时48分]"
+          "appearance_count": 6,
+          "time_info": "[06时42分 ~ 07时54分]"
+        },
+        {
+          "title": "周四（12月18日）纽约尾盘，现货白银跌1.27%，报65.4243美元/盎司，美股盘初显著走低、刷新日低至64.6380美元，北京时间01:00过后再次显著下跌，脱离17日所创历史最高位66.8932美元。 COMEX白银期货跌2.28%，报65.375美元/盎司，也脱离17日所创（盘中）历史最高位67.180美元。 COMEX铜期货大致持平，报5.4250美元/磅。 现货铂金涨1.47%，现货钯金涨2.36%。",
+          "url": "https://wallstreetcn.com/livenews/3023365",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11,
+            14,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[06时42分 ~ 07时54分]"
+        },
+        {
+          "title": "（美股）费城金银指数收涨0.01%，报338.36点，北京时间01:00过后出现一波显著的下挫行情。 （全球时段）纽约证交所ARCA金矿开采商指数收涨0.08%，报2411.01点。",
+          "url": "https://wallstreetcn.com/livenews/3023363",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13,
+            16,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[06时42分 ~ 07时54分]"
         },
         {
           "title": "金十图示：2025年12月18日（周四）美股热门股票行情一览（美股盘中）",
@@ -900,45 +940,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[01时48分 ~ 02时59分]"
-        },
-        {
-          "title": "周四（12月18日）纽约尾盘，CME比特币期货BTC主力合约较周三纽约尾盘跌0.45%，报85575美元，北京时间21:30发布美国CPI数据之前持续、稳扎稳打地走高，之后涨幅扩大，22：01刷新日高至89660美元，经过一段时间的高位震荡后，01:00出现一波显著的回落行情，04:00刷新日低并跌向84500美元。 CME以太币期货DCR主力合约跌0.35%，报2822美元，日内交投于3002.50-2780美元区间。 美股加密货币与加密货币关联指数涨0.84%，报58.73点，美股开盘后曾刷新日高至62.26点，之后逐步回落。 最近24小时，MarketVector数字资产100小盘指数跌3.53%，暂报3400.92点。",
-          "url": "https://wallstreetcn.com/livenews/3023366",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            10,
-            13,
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[06时42分 ~ 07时48分]"
-        },
-        {
-          "title": "周四（12月18日）纽约尾盘，现货白银跌1.27%，报65.4243美元/盎司，美股盘初显著走低、刷新日低至64.6380美元，北京时间01:00过后再次显著下跌，脱离17日所创历史最高位66.8932美元。 COMEX白银期货跌2.28%，报65.375美元/盎司，也脱离17日所创（盘中）历史最高位67.180美元。 COMEX铜期货大致持平，报5.4250美元/磅。 现货铂金涨1.47%，现货钯金涨2.36%。",
-          "url": "https://wallstreetcn.com/livenews/3023365",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            11,
-            14,
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[06时42分 ~ 07时48分]"
-        },
-        {
-          "title": "（美股）费城金银指数收涨0.01%，报338.36点，北京时间01:00过后出现一波显著的下挫行情。 （全球时段）纽约证交所ARCA金矿开采商指数收涨0.08%，报2411.01点。",
-          "url": "https://wallstreetcn.com/livenews/3023363",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            13,
-            16,
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[06时42分 ~ 07时48分]"
         },
         {
           "title": "通胀意外回落，美股三大股指期货全线反弹，纳指期货涨超1%，美元跳水，现货黄金跌幅收窄",
@@ -991,8 +992,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 28,
-          "time_info": "[00时00分 ~ 07时48分]"
+          "appearance_count": 29,
+          "time_info": "[00时00分 ~ 07时54分]"
         },
         {
           "title": "【甲骨文与OpenAI为数据中心获取电力供应的请求获美国密歇根州批准】美国密歇根州监管机构批准了通用事业公司DTE Energy Co.的请求，将为甲骨文和OpenAI计划建设的大型数据中心开发项目提供电力支持。DTE此前向监管机构申请加急审批其供电计划，以支持这座位于Saline Township、耗资数十亿美元且容量达1.4吉瓦（GW） 的设施。 根据OpenAI和甲骨文的说法，位于Saline Township的Stargate（星际之门）园区使双方的合作伙伴关系在全美的计划容量超过8吉瓦，并在未来三年内带来超过4500亿美元的投资。",
@@ -1114,8 +1115,8 @@
             16
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[06时42分 ~ 07时48分]"
+          "appearance_count": 6,
+          "time_info": "[06时42分 ~ 07时54分]"
         },
         {
           "title": "OpenAI：协议建立在我们与能源部国家实验室的合作之上，并推进“创世纪计划”，以加速科学发现。",
@@ -1181,8 +1182,8 @@
             29
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[05时45分 ~ 07时48分]"
+          "appearance_count": 9,
+          "time_info": "[05时45分 ~ 07时54分]"
         },
         {
           "title": "大摩为谷歌相关项目发行更多垃圾债",
@@ -1291,8 +1292,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[05时51分 ~ 07时48分]"
+          "appearance_count": 10,
+          "time_info": "[05时51分 ~ 07时54分]"
         },
         {
           "title": "日本美债持有规模升至1.2万亿美元",
@@ -1322,6 +1323,19 @@
           "time_info": "[04时39分 ~ 05时58分]"
         },
         {
+          "title": "英国10月增持美债 加拿大持仓月度波幅再超500亿",
+          "url": "https://flash.jin10.com/detail/20251219060642094800",
+          "source": "金十数据",
+          "ranks": [
+            9,
+            14,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[06时42分 ~ 07时54分]"
+        },
+        {
           "title": "【日本10月所持美国国债从1.189万亿美元增加至1.20万亿美元】中国10月所持美债从7005亿美元降低至6887亿美元。",
           "url": "https://wallstreetcn.com/livenews/3023349",
           "source": "华尔街见闻-快讯",
@@ -1332,19 +1346,6 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[05时45分 ~ 06时53分]"
-        },
-        {
-          "title": "英国10月增持美债 加拿大持仓月度波幅再超500亿",
-          "url": "https://flash.jin10.com/detail/20251219060642094800",
-          "source": "金十数据",
-          "ranks": [
-            9,
-            14,
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[06时42分 ~ 07时48分]"
         },
         {
           "title": "日本10月所持美国国债从1.189万亿美元增加至1.20万亿美元。 中国10月所持美债从7005亿美元降低至6887亿美元。",
@@ -1440,8 +1441,8 @@
             26
           ],
           "is_new": false,
-          "appearance_count": 24,
-          "time_info": "[01时58分 ~ 07时48分]"
+          "appearance_count": 25,
+          "time_info": "[01时58分 ~ 07时54分]"
         },
         {
           "title": "高盛：金价飙升势头或延续至2026年，目标上看4900美元",
