@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-20T04:41:34.518279+08:00",
-  "total_titles_processed": 592,
+  "generated_at": "2025-12-20T04:54:41.509693+08:00",
+  "total_titles_processed": 594,
   "failed_sources": [],
   "trends": [
     {
@@ -18,8 +18,8 @@
             14
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[00时53分 ~ 04时41分]"
+          "appearance_count": 17,
+          "time_info": "[00时53分 ~ 04时54分]"
         },
         {
           "title": "特朗普政府为何罕见提前宣布军购内容？台学者分析",
@@ -29,8 +29,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[00时53分 ~ 04时41分]"
+          "appearance_count": 17,
+          "time_info": "[00时53分 ~ 04时54分]"
         },
         {
           "title": "特朗普媒体集团大涨42%，公司拟并购核聚变公司TAE，计划明年开始建设核聚变发电厂",
@@ -55,8 +55,8 @@
             24
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[00时53分 ~ 04时41分]"
+          "appearance_count": 17,
+          "time_info": "[00时53分 ~ 04时54分]"
         },
         {
           "title": "特朗普签署行政命令，重申2028年登月目标",
@@ -67,8 +67,8 @@
             16
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[00时53分 ~ 04时41分]"
+          "appearance_count": 17,
+          "time_info": "[00时53分 ~ 04时54分]"
         },
         {
           "title": "特朗普下令暂停“绿卡抽签”",
@@ -91,8 +91,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[03时43分 ~ 04时41分]"
+          "appearance_count": 5,
+          "time_info": "[03时43分 ~ 04时54分]"
         },
         {
           "title": "特朗普签署太空行政令，直觉机器公司及航天板块股价应声大涨",
@@ -104,8 +104,8 @@
             16
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[03时29分 ~ 04时41分]"
+          "appearance_count": 6,
+          "time_info": "[03时29分 ~ 04时54分]"
         },
         {
           "title": "美国总统特朗普：英国国家医疗服务体系将支付公平份额，我们也期望其他欧洲国家这样做，否则将征收关税。",
@@ -116,8 +116,8 @@
             30
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[03时43分 ~ 04时41分]"
+          "appearance_count": 5,
+          "time_info": "[03时43分 ~ 04时54分]"
         },
         {
           "title": "美国总统特朗普：我所发出的关税威胁强迫医药行业（与我）达成协议。",
@@ -128,8 +128,41 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[03时43分 ~ 04时41分]"
+          "appearance_count": 5,
+          "time_info": "[03时43分 ~ 04时54分]"
+        },
+        {
+          "title": "金十提示：美国总统特朗普讲话结束。",
+          "url": "https://flash.jin10.com/detail/20251220040556442800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时41分 ~ 04时54分]"
+        },
+        {
+          "title": "美国总统特朗普：保险公司必须赚更少的钱。",
+          "url": "https://flash.jin10.com/detail/20251220040257481800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时41分 ~ 04时54分]"
+        },
+        {
+          "title": "特朗普：将召集保险公司开会讨论降价问题",
+          "url": "https://wallstreetcn.com/livenews/3024144",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时41分 ~ 04时54分]"
         },
         {
           "title": "九家制药商与特朗普签署价格协议以避免关税。",
@@ -143,37 +176,16 @@
           "time_info": "03时29分"
         },
         {
-          "title": "金十提示：美国总统特朗普讲话结束。",
-          "url": "https://flash.jin10.com/detail/20251220040556442800",
-          "source": "金十数据",
-          "ranks": [
-            3
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "04时41分"
-        },
-        {
-          "title": "美国总统特朗普：保险公司必须赚更少的钱。",
-          "url": "https://flash.jin10.com/detail/20251220040257481800",
-          "source": "金十数据",
-          "ranks": [
-            5
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "04时41分"
-        },
-        {
-          "title": "特朗普：将召集保险公司开会讨论降价问题",
-          "url": "https://wallstreetcn.com/livenews/3024144",
+          "title": "美国总统特朗普：政府工作人员将继续精简。 4.5%的失业率是“出色的数字”。",
+          "url": "https://wallstreetcn.com/livenews/3024134",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            5
+            7,
+            14
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "04时41分"
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[03时43分 ~ 04时54分]"
         },
         {
           "title": "美联储：（美国总统特朗普宣布联邦政府2025年圣诞节假日安排之际，金融系统）支付与现金服务运营照常进行。",
@@ -199,18 +211,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[02时56分 ~ 03时29分]"
-        },
-        {
-          "title": "美国总统特朗普：政府工作人员将继续精简。 4.5%的失业率是“出色的数字”。",
-          "url": "https://wallstreetcn.com/livenews/3024134",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            7,
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[03时43分 ~ 04时41分]"
         },
         {
           "title": "南亚股市收盘播报｜印度中盘股收涨1.2%，卢比尾盘飙涨，特朗普贸易代表批评欧盟和印度",
@@ -314,6 +314,28 @@
           "time_info": "[03时43分 ~ 03时57分]"
         },
         {
+          "title": "美国总统特朗普：保险公司会议旨在降低价格。",
+          "url": "https://flash.jin10.com/detail/20251220040213570800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时41分 ~ 04时54分]"
+        },
+        {
+          "title": "美国总统特朗普：我们可以让保险公司降价，否则就退出这个体系。我将在未来几周召开保险公司会议。",
+          "url": "https://flash.jin10.com/detail/20251220040203208800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时41分 ~ 04时54分]"
+        },
+        {
           "title": "据Politico：一位熟悉情况的国务院官员和外交人员工会负责人透露，特朗普政府正在召回一些由前总统拜登任命的职业大使。约有二十多位大使被要求离任。",
           "url": "https://flash.jin10.com/detail/20251220022718174800",
           "source": "金十数据",
@@ -326,37 +348,15 @@
           "time_info": "[02时56分 ~ 03时29分]"
         },
         {
-          "title": "美国总统特朗普：保险公司会议旨在降低价格。",
-          "url": "https://flash.jin10.com/detail/20251220040213570800",
-          "source": "金十数据",
-          "ranks": [
-            6
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "04时41分"
-        },
-        {
-          "title": "美国总统特朗普：我们可以让保险公司降价，否则就退出这个体系。我将在未来几周召开保险公司会议。",
-          "url": "https://flash.jin10.com/detail/20251220040203208800",
-          "source": "金十数据",
-          "ranks": [
-            7
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "04时41分"
-        },
-        {
           "title": "美国总统特朗普：强生公司和其他四家公司将于下周加入协议，他们已同意提供全球最低价。",
           "url": "https://flash.jin10.com/detail/20251220035945921800",
           "source": "金十数据",
           "ranks": [
             9
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "04时41分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时41分 ~ 04时54分]"
         },
         {
           "title": "九家制药商与特朗普签署价格协议，以避免关税。 其中包括罗氏、Merck、百时美施贵宝、葛兰素史克、诺华、吉利德科学、安进、赛诺菲。 现骨干公司将向所有美国民众按照最低价推出新药。 协议内容与之前和辉瑞、阿斯利康的类似。 艾伯维、强生、再生元制药还没有与特朗普宣布协议。",
@@ -365,9 +365,9 @@
           "ranks": [
             15
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "04时41分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时41分 ~ 04时54分]"
         },
         {
           "title": "特朗普政府表示，在铁路检查引发安全担忧后，墨西哥火车乘务组在美国境内的运行距离不得超过10英里。",
@@ -376,9 +376,9 @@
           "ranks": [
             21
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "04时41分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时41分 ~ 04时54分]"
         },
         {
           "title": "特朗普与九家药企达成协议 大幅降低药价",
@@ -387,9 +387,9 @@
           "ranks": [
             22
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "04时41分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时41分 ~ 04时54分]"
         },
         {
           "title": "特朗普：只需在联邦政府增聘人员，就能马上将失业率降至2%",
@@ -440,8 +440,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[00时53分 ~ 04时41分]"
+          "appearance_count": 17,
+          "time_info": "[00时53分 ~ 04时54分]"
         },
         {
           "title": "就在今天！史上最大规模期权到期，美股将迎来“疯狂一日”？",
@@ -451,8 +451,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[00时53分 ~ 04时41分]"
+          "appearance_count": 17,
+          "time_info": "[00时53分 ~ 04时54分]"
         },
         {
           "title": "金十图示：2025年12月19日（周五）美股热门股票行情一览（美股盘中）",
@@ -501,9 +501,9 @@
           "ranks": [
             2
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "04时41分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时41分 ~ 04时54分]"
         },
         {
           "title": "10月日本、英国增持美债超百亿美元，中国持仓下降，加拿大大降",
@@ -512,9 +512,9 @@
           "ranks": [
             10
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "04时41分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时41分 ~ 04时54分]"
         }
       ]
     },
@@ -543,9 +543,9 @@
           "ranks": [
             4
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "04时41分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时41分 ~ 04时54分]"
         }
       ]
     },
@@ -579,8 +579,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[00时53分 ~ 04时41分]"
+          "appearance_count": 17,
+          "time_info": "[00时53分 ~ 04时54分]"
         }
       ]
     },
@@ -594,11 +594,12 @@
           "source": "百度热搜",
           "ranks": [
             27,
-            14
+            14,
+            10
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[02时55分 ~ 04时41分]"
+          "appearance_count": 9,
+          "time_info": "[02时55分 ~ 04时54分]"
         }
       ]
     }
