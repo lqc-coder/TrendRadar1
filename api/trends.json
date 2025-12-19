@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-19T13:44:26.099184+08:00",
-  "total_titles_processed": 1217,
+  "generated_at": "2025-12-19T13:55:24.679755+08:00",
+  "total_titles_processed": 1231,
   "failed_sources": [],
   "trends": [
     {
@@ -87,8 +87,8 @@
             14
           ],
           "is_new": false,
-          "appearance_count": 30,
-          "time_info": "[01时48分 ~ 13时44分]"
+          "appearance_count": 31,
+          "time_info": "[01时48分 ~ 13时55分]"
         },
         {
           "title": "美国总统特朗普：美联储理事鲍曼很棒。",
@@ -102,6 +102,17 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[03时42分 ~ 05时00分]"
+        },
+        {
+          "title": "特朗普再次向乌克兰施压",
+          "url": "https://news.ifeng.com/c/8pCpqaXsvao",
+          "source": "凤凰网",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[11时52分 ~ 13时55分]"
         },
         {
           "title": "美国民主党众议员Don Beyer：特朗普媒体科技集团与核聚变公司TAE Technologies提议进行的合并，引发了关于利益冲突和潜在腐败途径的严重担忧。",
@@ -130,6 +141,17 @@
           "time_info": "[03时42分 ~ 05时00分]"
         },
         {
+          "title": "特朗普签署行政令：2028年登月、推进“太空核能计划”、商业化吸金！",
+          "url": "https://www.cls.cn/detail/2234192",
+          "source": "财联社热门",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[11时52分 ~ 13时55分]"
+        },
+        {
           "title": "美国总统特朗普：（宣布美联储主席人选）可能要到年底之后。",
           "url": "https://flash.jin10.com/detail/20251219031834867800",
           "source": "金十数据",
@@ -141,6 +163,18 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[03时42分 ~ 05时00分]"
+        },
+        {
+          "title": "特朗普签署行政命令，重申2028年登月目标",
+          "url": "https://news.ifeng.com/c/8pCbX95hrxq",
+          "source": "凤凰网",
+          "ranks": [
+            5,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[11时52分 ~ 13时55分]"
         },
         {
           "title": "白宫：美国总统特朗普签署关于联邦（薪酬）支付范围的命令。",
@@ -196,17 +230,6 @@
           "time_info": "[00时00分 ~ 05时31分]"
         },
         {
-          "title": "特朗普再次向乌克兰施压",
-          "url": "https://news.ifeng.com/c/8pCpqaXsvao",
-          "source": "凤凰网",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[11时52分 ~ 13时44分]"
-        },
-        {
           "title": "美国总统特朗普签署行政令，放宽联邦政府对大麻的管制措施。",
           "url": "https://flash.jin10.com/detail/20251219030836021800",
           "source": "金十数据",
@@ -218,17 +241,6 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[03时28分 ~ 04时39分]"
-        },
-        {
-          "title": "特朗普签署行政令：2028年登月、推进“太空核能计划”、商业化吸金！",
-          "url": "https://www.cls.cn/detail/2234192",
-          "source": "财联社热门",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[11时52分 ~ 13时44分]"
         },
         {
           "title": "特朗普：美国将在月球部署核反应堆",
@@ -243,16 +255,18 @@
           "time_info": "[07时35分 ~ 08时01分]"
         },
         {
-          "title": "特朗普签署行政命令，重申2028年登月目标",
-          "url": "https://news.ifeng.com/c/8pCbX95hrxq",
-          "source": "凤凰网",
+          "title": "特朗普媒体集团大涨42%，公司拟并购核聚变公司TAE，计划明年开始建设核聚变发电厂",
+          "url": "https://wallstreetcn.com/articles/3761652",
+          "source": "华尔街见闻",
           "ranks": [
-            5,
-            4
+            10,
+            6,
+            7,
+            8
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[11时52分 ~ 13时44分]"
+          "appearance_count": 7,
+          "time_info": "[07时48分 ~ 13时55分]"
         },
         {
           "title": "美国总统特朗普：在住房问题上关注国家紧急（措施）。 希望关心住房价值，并帮助人们购买房屋。",
@@ -356,19 +370,6 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[06时42分 ~ 08时01分]"
-        },
-        {
-          "title": "特朗普媒体集团大涨42%，公司拟并购核聚变公司TAE，计划明年开始建设核聚变发电厂",
-          "url": "https://wallstreetcn.com/articles/3761652",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            6,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[07时48分 ~ 13时44分]"
         },
         {
           "title": "美国总统特朗普将签署命令，重新归类大麻。 特朗普表示，大麻命令并非法律，此命令在任何形式上都不会合法化。 大麻股目前涨跌各异，ETF CNBS跌15.3%、MSOS跌14.2%、MJ跌8.1%，GrowGeneration跌7.7%，Tilray Brands跌0.1%，Agrify则涨3.7%，Canopy Growth涨4.9%，VFF涨5.1%。",
@@ -529,6 +530,17 @@
           "time_info": "[03时42分 ~ 04时39分]"
         },
         {
+          "title": "特朗普，敢不敢动武？",
+          "url": "https://news.ifeng.com/c/8pCr08QqAFx",
+          "source": "凤凰网",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[11时52分 ~ 13时55分]"
+        },
+        {
           "title": "玻利维亚宣布经济紧急状态，柴油价格飙升160%，特朗普政府在该国寻求投资",
           "url": "https://wallstreetcn.com/livenews/3023225",
           "source": "华尔街见闻-快讯",
@@ -577,17 +589,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[07时36分 ~ 08时01分]"
-        },
-        {
-          "title": "特朗普，敢不敢动武？",
-          "url": "https://news.ifeng.com/c/8pCr08QqAFx",
-          "source": "凤凰网",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[11时52分 ~ 13时44分]"
         },
         {
           "title": "美国总统特朗普回应关于自己对沃勒的看法，称：我觉得美联储理事沃勒很棒。 正与3名、或4名美联储主席候选人交谈，他们都不错。 很快将决定由谁担任美联储主席。",
@@ -662,6 +663,17 @@
           "time_info": "[04时39分 ~ 05时00分]"
         },
         {
+          "title": "特朗普家族入局！核聚变能源是什么，谁在积极布局？一文读懂",
+          "url": "https://www.cls.cn/detail/2234375",
+          "source": "财联社热门",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时44分 ~ 13时55分]"
+        },
+        {
           "title": "美国总统特朗普回应关于自己对沃勒的看法，称：我觉得美联储理事沃勒很棒。 正与3名、或4名美联储主席候选人交谈，他们都不错。 很快将决定由谁担任美联储主席。 将在未来几周内公布。",
           "url": "https://wallstreetcn.com/livenews/3023309",
           "source": "华尔街见闻-快讯",
@@ -696,6 +708,17 @@
           "time_info": "[01时00分 ~ 01时48分]"
         },
         {
+          "title": "美国国土安全部部长诺姆：应特朗普总统指示，已立即指示美国公民及移民服务局（USCIS）暂停DV-1计划（多元化移民签证）。",
+          "url": "https://flash.jin10.com/detail/20251219123531783800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时44分 ~ 13时55分]"
+        },
+        {
           "title": "特朗普18分钟全国电视讲话说了什么",
           "url": "https://www.toutiao.com/trending/7585366067095014931/",
           "source": "今日头条",
@@ -727,17 +750,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "08时01分"
-        },
-        {
-          "title": "特朗普家族入局！核聚变能源是什么，谁在积极布局？一文读懂",
-          "url": "https://www.cls.cn/detail/2234375",
-          "source": "财联社热门",
-          "ranks": [
-            9
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时44分"
         },
         {
           "title": "白宫新闻秘书莱维特：肯尼迪中心将更名为特朗普-肯尼迪中心。",
@@ -804,17 +816,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时00分"
-        },
-        {
-          "title": "美国国土安全部部长诺姆：应特朗普总统指示，已立即指示美国公民及移民服务局（USCIS）暂停DV-1计划（多元化移民签证）。",
-          "url": "https://flash.jin10.com/detail/20251219123531783800",
-          "source": "金十数据",
-          "ranks": [
-            17
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时44分"
         },
         {
           "title": "特朗普将于美国东部时间周五晚上9点（北京时间周六上午10点）就经济问题发表讲话。",
@@ -902,8 +903,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[06时42分 ~ 13时44分]"
+          "appearance_count": 13,
+          "time_info": "[06时42分 ~ 13时55分]"
         },
         {
           "title": "半导体ETF收涨超2.3%，领跑美股行业ETF，标普能源板块跌超1.4%",
@@ -1076,6 +1077,19 @@
           "time_info": "[01时48分 ~ 02时59分]"
         },
         {
+          "title": "就在今天！史上最大规模期权到期，美股将迎来“疯狂一日”？",
+          "url": "https://wallstreetcn.com/articles/3761680",
+          "source": "华尔街见闻",
+          "ranks": [
+            7,
+            8,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[11时52分 ~ 13时55分]"
+        },
+        {
           "title": "通胀意外回落，美股三大股指期货全线反弹，纳指期货涨超1%，美元跳水，现货黄金跌幅收窄",
           "url": "https://wallstreetcn.com/articles/3761635",
           "source": "华尔街见闻",
@@ -1098,19 +1112,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[01时48分 ~ 02时59分]"
-        },
-        {
-          "title": "就在今天！史上最大规模期权到期，美股将迎来“疯狂一日”？",
-          "url": "https://wallstreetcn.com/articles/3761680",
-          "source": "华尔街见闻",
-          "ranks": [
-            7,
-            8,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[11时52分 ~ 13时44分]"
         },
         {
           "title": "行业ETF美股盘初普遍上涨，半导体ETF涨3.3%，全球科技股指数ETF、科技行业ETF、可选消费ETF至多涨1.66%，网络股指数ETF涨1.11%，银行业ETF涨0.58%，能源业ETF回撤0.9%。",
@@ -1312,8 +1313,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[11时52分 ~ 13时44分]"
+          "appearance_count": 4,
+          "time_info": "[11时52分 ~ 13时55分]"
         },
         {
           "title": "OpenAI与美国高校密集合作，在AI教育赛道抢得头筹",
