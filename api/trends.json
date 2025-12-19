@@ -1,5 +1,5 @@
 {
-  "generated_at": "2025-12-20T03:50:36.107116+08:00",
+  "generated_at": "2025-12-20T03:57:18.263202+08:00",
   "total_titles_processed": 546,
   "failed_sources": [],
   "trends": [
@@ -17,8 +17,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[00时53分 ~ 03时50分]"
+          "appearance_count": 15,
+          "time_info": "[00时53分 ~ 03时57分]"
         },
         {
           "title": "特朗普政府为何罕见提前宣布军购内容？台学者分析",
@@ -28,8 +28,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[00时53分 ~ 03时50分]"
+          "appearance_count": 15,
+          "time_info": "[00时53分 ~ 03时57分]"
         },
         {
           "title": "特朗普年终演讲为何不提中国",
@@ -42,8 +42,8 @@
             20
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[00时53分 ~ 03时50分]"
+          "appearance_count": 15,
+          "time_info": "[00时53分 ~ 03时57分]"
         },
         {
           "title": "特朗普媒体集团大涨42%，公司拟并购核聚变公司TAE，计划明年开始建设核聚变发电厂",
@@ -53,8 +53,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[00时53分 ~ 03时50分]"
+          "appearance_count": 15,
+          "time_info": "[00时53分 ~ 03时57分]"
         },
         {
           "title": "特朗普签署行政命令，重申2028年登月目标",
@@ -65,8 +65,19 @@
             16
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[00时53分 ~ 03时50分]"
+          "appearance_count": 15,
+          "time_info": "[00时53分 ~ 03时57分]"
+        },
+        {
+          "title": "美国总统特朗普：强生下周“将来这里（白宫）”（谈判）。",
+          "url": "https://wallstreetcn.com/livenews/3024141",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[03时43分 ~ 03时57分]"
         },
         {
           "title": "特朗普下令暂停“绿卡抽签”",
@@ -81,17 +92,6 @@
           "time_info": "[00时53分 ~ 01时56分]"
         },
         {
-          "title": "美国总统特朗普：强生下周“将来这里（白宫）”（谈判）。",
-          "url": "https://wallstreetcn.com/livenews/3024141",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[03时43分 ~ 03时50分]"
-        },
-        {
           "title": "美国总统特朗普：英国国家医疗服务体系将支付公平份额，我们也期望其他欧洲国家这样做，否则将征收关税。",
           "url": "https://flash.jin10.com/detail/20251220033347525800",
           "source": "金十数据",
@@ -99,8 +99,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[03时43分 ~ 03时50分]"
+          "appearance_count": 3,
+          "time_info": "[03时43分 ~ 03时57分]"
         },
         {
           "title": "美国总统特朗普：我所发出的关税威胁强迫医药行业（与我）达成协议。",
@@ -110,8 +110,20 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[03时43分 ~ 03时50分]"
+          "appearance_count": 3,
+          "time_info": "[03时43分 ~ 03时57分]"
+        },
+        {
+          "title": "特朗普签署太空行政令，直觉机器公司及航天板块股价应声大涨",
+          "url": "https://wallstreetcn.com/livenews/3024132",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[03时29分 ~ 03时57分]"
         },
         {
           "title": "九家制药商与特朗普签署价格协议以避免关税。",
@@ -125,16 +137,17 @@
           "time_info": "03时29分"
         },
         {
-          "title": "特朗普签署太空行政令，直觉机器公司及航天板块股价应声大涨",
-          "url": "https://wallstreetcn.com/livenews/3024132",
+          "title": "美联储：（美国总统特朗普宣布联邦政府2025年圣诞节假日安排之际，金融系统）支付与现金服务运营照常进行。",
+          "url": "https://wallstreetcn.com/livenews/3024107",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            2,
-            9
+            12,
+            20,
+            27
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[03时29分 ~ 03时50分]"
+          "appearance_count": 5,
+          "time_info": "[02时56分 ~ 03时57分]"
         },
         {
           "title": "据美联社：美国总统特朗普讲话已被推迟。",
@@ -161,19 +174,6 @@
           "time_info": "[01时33分 ~ 01时56分]"
         },
         {
-          "title": "美联储：（美国总统特朗普宣布联邦政府2025年圣诞节假日安排之际，金融系统）支付与现金服务运营照常进行。",
-          "url": "https://wallstreetcn.com/livenews/3024107",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            12,
-            20,
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[02时56分 ~ 03时50分]"
-        },
-        {
           "title": "市场消息：美国法官叫停特朗普政府修改无家可归者资助项目的努力。",
           "url": "https://flash.jin10.com/detail/20251220005146503800",
           "source": "金十数据",
@@ -193,8 +193,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[03时43分 ~ 03时50分]"
+          "appearance_count": 3,
+          "time_info": "[03时43分 ~ 03时57分]"
         },
         {
           "title": "九家制药商与特朗普签署价格协议，以避免关税。 其中包括罗氏、Merck、百时美施贵宝、葛兰素史克、诺华、吉利德科学、安进、赛诺菲。 协议内容与之前和辉瑞、阿斯利康的类似。 艾伯维、强生、再生元制药还没有与特朗普宣布协议。",
@@ -204,8 +204,74 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[03时43分 ~ 03时50分]"
+          "appearance_count": 3,
+          "time_info": "[03时43分 ~ 03时57分]"
+        },
+        {
+          "title": "美国总统特朗普：所有制药公司都已同意（降低药品价格）。",
+          "url": "https://flash.jin10.com/detail/20251220032949636800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[03时43分 ~ 03时57分]"
+        },
+        {
+          "title": "美国总统特朗普：在17家制药公司中，尚未达成协议的3家将于下周加入。",
+          "url": "https://flash.jin10.com/detail/20251220032910707800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[03时43分 ~ 03时57分]"
+        },
+        {
+          "title": "美国总统特朗普：关税威胁迫使制药公司达成协议。",
+          "url": "https://flash.jin10.com/detail/20251220032900485800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[03时43分 ~ 03时57分]"
+        },
+        {
+          "title": "美国总统特朗普：政府工作人员将继续减少。",
+          "url": "https://flash.jin10.com/detail/20251220032851073800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[03时43分 ~ 03时57分]"
+        },
+        {
+          "title": "美国总统特朗普：4.5%的失业率是一个惊人的数字。",
+          "url": "https://flash.jin10.com/detail/20251220032840573800",
+          "source": "金十数据",
+          "ranks": [
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[03时43分 ~ 03时57分]"
+        },
+        {
+          "title": "美国总统特朗普：已从“金卡”中获利15亿美元。",
+          "url": "https://flash.jin10.com/detail/20251220032612490800",
+          "source": "金十数据",
+          "ranks": [
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[03时43分 ~ 03时57分]"
         },
         {
           "title": "据Politico：一位熟悉情况的国务院官员和外交人员工会负责人透露，特朗普政府正在召回一些由前总统拜登任命的职业大使。约有二十多位大使被要求离任。",
@@ -218,72 +284,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[02时56分 ~ 03时29分]"
-        },
-        {
-          "title": "美国总统特朗普：所有制药公司都已同意（降低药品价格）。",
-          "url": "https://flash.jin10.com/detail/20251220032949636800",
-          "source": "金十数据",
-          "ranks": [
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[03时43分 ~ 03时50分]"
-        },
-        {
-          "title": "美国总统特朗普：在17家制药公司中，尚未达成协议的3家将于下周加入。",
-          "url": "https://flash.jin10.com/detail/20251220032910707800",
-          "source": "金十数据",
-          "ranks": [
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[03时43分 ~ 03时50分]"
-        },
-        {
-          "title": "美国总统特朗普：关税威胁迫使制药公司达成协议。",
-          "url": "https://flash.jin10.com/detail/20251220032900485800",
-          "source": "金十数据",
-          "ranks": [
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[03时43分 ~ 03时50分]"
-        },
-        {
-          "title": "美国总统特朗普：政府工作人员将继续减少。",
-          "url": "https://flash.jin10.com/detail/20251220032851073800",
-          "source": "金十数据",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[03时43分 ~ 03时50分]"
-        },
-        {
-          "title": "美国总统特朗普：4.5%的失业率是一个惊人的数字。",
-          "url": "https://flash.jin10.com/detail/20251220032840573800",
-          "source": "金十数据",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[03时43分 ~ 03时50分]"
-        },
-        {
-          "title": "美国总统特朗普：已从“金卡”中获利15亿美元。",
-          "url": "https://flash.jin10.com/detail/20251220032612490800",
-          "source": "金十数据",
-          "ranks": [
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[03时43分 ~ 03时50分]"
         },
         {
           "title": "特朗普：只需在联邦政府增聘人员，就能马上将失业率降至2%",
@@ -334,8 +334,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[00时53分 ~ 03时50分]"
+          "appearance_count": 15,
+          "time_info": "[00时53分 ~ 03时57分]"
         },
         {
           "title": "就在今天！史上最大规模期权到期，美股将迎来“疯狂一日”？",
@@ -345,8 +345,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[00时53分 ~ 03时50分]"
+          "appearance_count": 15,
+          "time_info": "[00时53分 ~ 03时57分]"
         },
         {
           "title": "金十图示：2025年12月19日（周五）美股热门股票行情一览（美股盘中）",
@@ -413,8 +413,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[00时53分 ~ 03时50分]"
+          "appearance_count": 15,
+          "time_info": "[00时53分 ~ 03时57分]"
         }
       ]
     },
@@ -450,8 +450,8 @@
             27
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[02时55分 ~ 03时50分]"
+          "appearance_count": 7,
+          "time_info": "[02时55分 ~ 03时57分]"
         }
       ]
     }
