@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-12-20T06:59:49.787596+08:00",
-  "total_titles_processed": 655,
+  "generated_at": "2025-12-20T07:34:45.168309+08:00",
+  "total_titles_processed": 691,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 38,
+      "match_count": 39,
       "titles": [
         {
           "title": "金十提示：美国总统特朗普讲话结束。",
@@ -15,8 +15,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[04时41分 ~ 06时59分]"
+          "appearance_count": 11,
+          "time_info": "[04时41分 ~ 07时34分]"
         },
         {
           "title": "美国总统特朗普：保险公司必须赚更少的钱。",
@@ -26,8 +26,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[04时41分 ~ 06时59分]"
+          "appearance_count": 11,
+          "time_info": "[04时41分 ~ 07时34分]"
         },
         {
           "title": "美国总统特朗普：英国国家医疗服务体系将支付公平份额，我们也期望其他欧洲国家这样做，否则将征收关税。",
@@ -38,8 +38,8 @@
             30
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[03时43分 ~ 06时59分]"
+          "appearance_count": 14,
+          "time_info": "[03时43分 ~ 07时34分]"
         },
         {
           "title": "美国总统特朗普：强生下周“将来这里（白宫）”（谈判）。",
@@ -92,8 +92,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[04时41分 ~ 06时59分]"
+          "appearance_count": 11,
+          "time_info": "[04时41分 ~ 07时34分]"
         },
         {
           "title": "美国总统特朗普：我们可以让保险公司降价，否则就退出这个体系。我将在未来几周召开保险公司会议。",
@@ -103,8 +103,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[04时41分 ~ 06时59分]"
+          "appearance_count": 11,
+          "time_info": "[04时41分 ~ 07时34分]"
         },
         {
           "title": "特朗普政府为何罕见提前宣布军购内容？台学者分析",
@@ -115,8 +115,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 27,
-          "time_info": "[00时53分 ~ 06时59分]"
+          "appearance_count": 28,
+          "time_info": "[00时53分 ~ 07时34分]"
         },
         {
           "title": "特朗普媒体集团大涨42%，公司拟并购核聚变公司TAE，计划明年开始建设核聚变发电厂",
@@ -137,8 +137,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[04时41分 ~ 06时59分]"
+          "appearance_count": 11,
+          "time_info": "[04时41分 ~ 07时34分]"
         },
         {
           "title": "特朗普年终演讲为何不提中国",
@@ -151,11 +151,12 @@
             20,
             24,
             25,
-            27
+            27,
+            29
           ],
           "is_new": false,
-          "appearance_count": 24,
-          "time_info": "[00时53分 ~ 05时59分]"
+          "appearance_count": 25,
+          "time_info": "[00时53分 ~ 07时34分]"
         },
         {
           "title": "特朗普签署行政命令，重申2028年登月目标",
@@ -177,8 +178,8 @@
             21
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[04时41分 ~ 06时59分]"
+          "appearance_count": 11,
+          "time_info": "[04时41分 ~ 07时34分]"
         },
         {
           "title": "特朗普与九家药企达成协议 大幅降低药价",
@@ -188,8 +189,8 @@
             22
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[04时41分 ~ 06时59分]"
+          "appearance_count": 11,
+          "time_info": "[04时41分 ~ 07时34分]"
         },
         {
           "title": "特朗普签署太空行政令，直觉机器公司及航天板块股价应声大涨",
@@ -206,6 +207,19 @@
           "time_info": "[03时29分 ~ 05时35分]"
         },
         {
+          "title": "特朗普下令暂停“绿卡抽签”",
+          "url": "https://www.toutiao.com/trending/7584652634205585450/",
+          "source": "今日头条",
+          "ranks": [
+            30,
+            29,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[00时53分 ~ 07时34分]"
+        },
+        {
           "title": "特朗普：将召集保险公司开会讨论降价问题",
           "url": "https://wallstreetcn.com/livenews/3024144",
           "source": "华尔街见闻-快讯",
@@ -217,29 +231,6 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[04时41分 ~ 05时59分]"
-        },
-        {
-          "title": "特朗普下令暂停“绿卡抽签”",
-          "url": "https://www.toutiao.com/trending/7584652634205585450/",
-          "source": "今日头条",
-          "ranks": [
-            30,
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时53分 ~ 01时56分]"
-        },
-        {
-          "title": "特朗普媒体的核聚变合作伙伴面临欠款指控",
-          "url": "https://wallstreetcn.com/livenews/3024186",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[06时42分 ~ 06时59分]"
         },
         {
           "title": "美国总统特朗普：政府工作人员将继续精简。 4.5%的失业率是“出色的数字”。",
@@ -255,6 +246,18 @@
           "time_info": "[03时43分 ~ 05时35分]"
         },
         {
+          "title": "特朗普媒体的核聚变合作伙伴面临欠款指控",
+          "url": "https://wallstreetcn.com/livenews/3024186",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[06时42分 ~ 07时34分]"
+        },
+        {
           "title": "九家制药商与特朗普签署价格协议以避免关税。",
           "url": "https://wallstreetcn.com/livenews/3024133",
           "source": "华尔街见闻-快讯",
@@ -264,6 +267,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时29分"
+        },
+        {
+          "title": "特朗普称美军正对叙利亚境内“伊斯兰国”进行猛烈打击",
+          "url": "https://wallstreetcn.com/livenews/3024204",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时34分"
         },
         {
           "title": "美联储：（美国总统特朗普宣布联邦政府2025年圣诞节假日安排之际，金融系统）支付与现金服务运营照常进行。",
@@ -277,6 +291,18 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[02时56分 ~ 03时57分]"
+        },
+        {
+          "title": "扎克伯格旗下Meta Platforms刚刚履新八个月的董事Dina Powell McCormick将退出。 在美国总统特朗普第一任期内，Powell McCormick曾担任副国家安全顾问。（彭博）",
+          "url": "https://wallstreetcn.com/livenews/3024182",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[06时42分 ~ 07时34分]"
         },
         {
           "title": "据美联社：美国总统特朗普讲话已被推迟。",
@@ -325,17 +351,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[04时41分 ~ 05时35分]"
-        },
-        {
-          "title": "扎克伯格旗下Meta Platforms刚刚履新八个月的董事Dina Powell McCormick将退出。 在美国总统特朗普第一任期内，Powell McCormick曾担任副国家安全顾问。（彭博）",
-          "url": "https://wallstreetcn.com/livenews/3024182",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[06时42分 ~ 06时59分]"
         },
         {
           "title": "九家制药商与特朗普签署价格协议，以避免关税。 其中包括罗氏、Merck、百时美施贵宝、葛兰素史克、诺华、吉利德科学、安进、赛诺菲。 协议内容与之前和辉瑞、阿斯利康的类似。 艾伯维、强生、再生元制药还没有与特朗普宣布协议。",
@@ -463,7 +478,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 7,
+      "match_count": 8,
       "titles": [
         {
           "title": "美股三大指数集体高开，甲骨文涨超6%，日元跌破157关口，白银再涨逼近66美元，黄金回落至4330美元",
@@ -483,11 +498,12 @@
           "url": "https://wallstreetcn.com/articles/3761680",
           "source": "华尔街见闻",
           "ranks": [
-            7
+            7,
+            6
           ],
           "is_new": false,
-          "appearance_count": 27,
-          "time_info": "[00时53分 ~ 06时59分]"
+          "appearance_count": 28,
+          "time_info": "[00时53分 ~ 07时34分]"
         },
         {
           "title": "半导体行业ETF收涨将近2.6%，领跑美股行业ETF",
@@ -495,11 +511,12 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             1,
-            12
+            12,
+            23
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[05时46分 ~ 06时59分]"
+          "appearance_count": 7,
+          "time_info": "[05时46分 ~ 07时34分]"
         },
         {
           "title": "金十图示：2025年12月19日（周五）美股热门股票行情一览（美股盘中）",
@@ -528,11 +545,12 @@
           "url": "https://wallstreetcn.com/livenews/3024176",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            10
+            10,
+            21
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[06时42分 ~ 06时59分]"
+          "appearance_count": 4,
+          "time_info": "[06时42分 ~ 07时34分]"
         },
         {
           "title": "美股温和上扬，“三重巫术日”将有创纪录的7.1万亿美元期权到期",
@@ -545,6 +563,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时54分 ~ 01时33分]"
+        },
+        {
+          "title": "美股收盘：三大指数集体收涨 纳指涨逾1% 英伟达涨约4%",
+          "url": "https://www.cls.cn/detail/2235346",
+          "source": "财联社热门",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时34分"
         }
       ]
     },
@@ -558,11 +587,12 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             5,
-            18
+            18,
+            30
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[05时46分 ~ 06时59分]"
+          "appearance_count": 7,
+          "time_info": "[05时46分 ~ 07时34分]"
         },
         {
           "title": "派拓网络（Palo Alto Networks）宣布，与谷歌云达成（至少）数十亿美元规模的协议。",
@@ -588,22 +618,24 @@
           "ranks": [
             10,
             9,
-            8
+            8,
+            7
           ],
           "is_new": false,
-          "appearance_count": 27,
-          "time_info": "[00时53分 ~ 06时59分]"
+          "appearance_count": 28,
+          "time_info": "[00时53分 ~ 07时34分]"
         },
         {
           "title": "阿联酋资本托底美股？不仅注资OpenAI，更把甲骨文从债务悬崖边拉了回来",
           "url": "https://wallstreetcn.com/articles/3761711",
           "source": "华尔街见闻",
           "ranks": [
-            10
+            10,
+            8
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[05时52分 ~ 06时59分]"
+          "appearance_count": 6,
+          "time_info": "[05时52分 ~ 07时34分]"
         }
       ]
     },
@@ -620,8 +652,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[04时41分 ~ 06时59分]"
+          "appearance_count": 13,
+          "time_info": "[04时41分 ~ 07时34分]"
         },
         {
           "title": "2/10年期美债收益率于美国CPI数据发布当周跌超3个基点",
@@ -685,11 +717,12 @@
             10,
             23,
             25,
-            26
+            26,
+            28
           ],
           "is_new": false,
-          "appearance_count": 19,
-          "time_info": "[02时55分 ~ 06时59分]"
+          "appearance_count": 20,
+          "time_info": "[02时55分 ~ 07时34分]"
         },
         {
           "title": "以色列暗杀伊朗核专家细节曝光",
@@ -699,8 +732,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[06时42分 ~ 06时59分]"
+          "appearance_count": 4,
+          "time_info": "[06时42分 ~ 07时34分]"
         }
       ]
     }
