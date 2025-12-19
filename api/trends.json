@@ -1,5 +1,5 @@
 {
-  "generated_at": "2025-12-20T06:42:25.446270+08:00",
+  "generated_at": "2025-12-20T06:52:51.621143+08:00",
   "total_titles_processed": 654,
   "failed_sources": [],
   "trends": [
@@ -15,8 +15,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[04时41分 ~ 06时42分]"
+          "appearance_count": 9,
+          "time_info": "[04时41分 ~ 06时52分]"
         },
         {
           "title": "美国总统特朗普：保险公司必须赚更少的钱。",
@@ -26,8 +26,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[04时41分 ~ 06时42分]"
+          "appearance_count": 9,
+          "time_info": "[04时41分 ~ 06时52分]"
         },
         {
           "title": "美国总统特朗普：英国国家医疗服务体系将支付公平份额，我们也期望其他欧洲国家这样做，否则将征收关税。",
@@ -38,8 +38,8 @@
             30
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[03时43分 ~ 06时42分]"
+          "appearance_count": 12,
+          "time_info": "[03时43分 ~ 06时52分]"
         },
         {
           "title": "美国总统特朗普：强生下周“将来这里（白宫）”（谈判）。",
@@ -93,8 +93,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 25,
-          "time_info": "[00时53分 ~ 06时42分]"
+          "appearance_count": 26,
+          "time_info": "[00时53分 ~ 06时52分]"
         },
         {
           "title": "特朗普媒体集团大涨42%，公司拟并购核聚变公司TAE，计划明年开始建设核聚变发电厂",
@@ -137,6 +137,28 @@
           "time_info": "[00时53分 ~ 05时59分]"
         },
         {
+          "title": "美国总统特朗普：保险公司会议旨在降低价格。",
+          "url": "https://flash.jin10.com/detail/20251220040213570800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[04时41分 ~ 06时52分]"
+        },
+        {
+          "title": "美国总统特朗普：我们可以让保险公司降价，否则就退出这个体系。我将在未来几周召开保险公司会议。",
+          "url": "https://flash.jin10.com/detail/20251220040203208800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[04时41分 ~ 06时52分]"
+        },
+        {
           "title": "特朗普签署太空行政令，直觉机器公司及航天板块股价应声大涨",
           "url": "https://wallstreetcn.com/livenews/3024132",
           "source": "华尔街见闻-快讯",
@@ -151,26 +173,37 @@
           "time_info": "[03时29分 ~ 05时35分]"
         },
         {
-          "title": "美国总统特朗普：保险公司会议旨在降低价格。",
-          "url": "https://flash.jin10.com/detail/20251220040213570800",
+          "title": "美国总统特朗普：强生公司和其他四家公司将于下周加入协议，他们已同意提供全球最低价。",
+          "url": "https://flash.jin10.com/detail/20251220035945921800",
           "source": "金十数据",
           "ranks": [
-            6
+            9
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[04时41分 ~ 06时42分]"
+          "appearance_count": 9,
+          "time_info": "[04时41分 ~ 06时52分]"
         },
         {
-          "title": "美国总统特朗普：我们可以让保险公司降价，否则就退出这个体系。我将在未来几周召开保险公司会议。",
-          "url": "https://flash.jin10.com/detail/20251220040203208800",
+          "title": "特朗普政府表示，在铁路检查引发安全担忧后，墨西哥火车乘务组在美国境内的运行距离不得超过10英里。",
+          "url": "https://flash.jin10.com/detail/20251220034545979800",
           "source": "金十数据",
           "ranks": [
-            7
+            21
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[04时41分 ~ 06时42分]"
+          "appearance_count": 9,
+          "time_info": "[04时41分 ~ 06时52分]"
+        },
+        {
+          "title": "特朗普与九家药企达成协议 大幅降低药价",
+          "url": "https://flash.jin10.com/detail/20251220034432259800",
+          "source": "金十数据",
+          "ranks": [
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[04时41分 ~ 06时52分]"
         },
         {
           "title": "特朗普：将召集保险公司开会讨论降价问题",
@@ -184,39 +217,6 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[04时41分 ~ 05时59分]"
-        },
-        {
-          "title": "美国总统特朗普：强生公司和其他四家公司将于下周加入协议，他们已同意提供全球最低价。",
-          "url": "https://flash.jin10.com/detail/20251220035945921800",
-          "source": "金十数据",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[04时41分 ~ 06时42分]"
-        },
-        {
-          "title": "特朗普政府表示，在铁路检查引发安全担忧后，墨西哥火车乘务组在美国境内的运行距离不得超过10英里。",
-          "url": "https://flash.jin10.com/detail/20251220034545979800",
-          "source": "金十数据",
-          "ranks": [
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[04时41分 ~ 06时42分]"
-        },
-        {
-          "title": "特朗普与九家药企达成协议 大幅降低药价",
-          "url": "https://flash.jin10.com/detail/20251220034432259800",
-          "source": "金十数据",
-          "ranks": [
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[04时41分 ~ 06时42分]"
         },
         {
           "title": "特朗普下令暂停“绿卡抽签”",
@@ -244,6 +244,17 @@
           "time_info": "[03时43分 ~ 05时35分]"
         },
         {
+          "title": "特朗普媒体的核聚变合作伙伴面临欠款指控",
+          "url": "https://wallstreetcn.com/livenews/3024186",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时42分 ~ 06时52分]"
+        },
+        {
           "title": "九家制药商与特朗普签署价格协议以避免关税。",
           "url": "https://wallstreetcn.com/livenews/3024133",
           "source": "华尔街见闻-快讯",
@@ -253,17 +264,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时29分"
-        },
-        {
-          "title": "特朗普媒体的核聚变合作伙伴面临欠款指控",
-          "url": "https://wallstreetcn.com/livenews/3024186",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时42分"
         },
         {
           "title": "美联储：（美国总统特朗普宣布联邦政府2025年圣诞节假日安排之际，金融系统）支付与现金服务运营照常进行。",
@@ -404,6 +404,17 @@
           "time_info": "[03时43分 ~ 03时57分]"
         },
         {
+          "title": "扎克伯格旗下Meta Platforms刚刚履新八个月的董事Dina Powell McCormick将退出。 在美国总统特朗普第一任期内，Powell McCormick曾担任副国家安全顾问。（彭博）",
+          "url": "https://wallstreetcn.com/livenews/3024182",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时42分 ~ 06时52分]"
+        },
+        {
           "title": "据Politico：一位熟悉情况的国务院官员和外交人员工会负责人透露，特朗普政府正在召回一些由前总统拜登任命的职业大使。约有二十多位大使被要求离任。",
           "url": "https://flash.jin10.com/detail/20251220022718174800",
           "source": "金十数据",
@@ -414,17 +425,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[02时56分 ~ 03时29分]"
-        },
-        {
-          "title": "扎克伯格旗下Meta Platforms刚刚履新八个月的董事Dina Powell McCormick将退出。 在美国总统特朗普第一任期内，Powell McCormick曾担任副国家安全顾问。（彭博）",
-          "url": "https://wallstreetcn.com/livenews/3024182",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            6
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时42分"
         },
         {
           "title": "特朗普：只需在联邦政府增聘人员，就能马上将失业率降至2%",
@@ -475,8 +475,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 25,
-          "time_info": "[00时53分 ~ 06时42分]"
+          "appearance_count": 26,
+          "time_info": "[00时53分 ~ 06时52分]"
         },
         {
           "title": "就在今天！史上最大规模期权到期，美股将迎来“疯狂一日”？",
@@ -486,8 +486,20 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 25,
-          "time_info": "[00时53分 ~ 06时42分]"
+          "appearance_count": 26,
+          "time_info": "[00时53分 ~ 06时52分]"
+        },
+        {
+          "title": "半导体行业ETF收涨将近2.6%，领跑美股行业ETF",
+          "url": "https://wallstreetcn.com/livenews/3024174",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[05时46分 ~ 06时52分]"
         },
         {
           "title": "金十图示：2025年12月19日（周五）美股热门股票行情一览（美股盘中）",
@@ -512,16 +524,15 @@
           "time_info": "[01时43分 ~ 01时56分]"
         },
         {
-          "title": "半导体行业ETF收涨将近2.6%，领跑美股行业ETF",
-          "url": "https://wallstreetcn.com/livenews/3024174",
+          "title": "（美股）费城金银指数收涨2.79%，报347.80点，本周累计上涨2.98%，周五美股盘初短线拉升的涨幅突出。 （全球时段）纽约证交所ARCA金矿开采商指数收涨2.07%，报2460.91点，本周累涨2.34%。",
+          "url": "https://wallstreetcn.com/livenews/3024176",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            1,
-            12
+            10
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[05时46分 ~ 06时42分]"
+          "appearance_count": 2,
+          "time_info": "[06时42分 ~ 06时52分]"
         },
         {
           "title": "美股温和上扬，“三重巫术日”将有创纪录的7.1万亿美元期权到期",
@@ -534,17 +545,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时54分 ~ 01时33分]"
-        },
-        {
-          "title": "（美股）费城金银指数收涨2.79%，报347.80点，本周累计上涨2.98%，周五美股盘初短线拉升的涨幅突出。 （全球时段）纽约证交所ARCA金矿开采商指数收涨2.07%，报2460.91点，本周累涨2.34%。",
-          "url": "https://wallstreetcn.com/livenews/3024176",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时42分"
         }
       ]
     },
@@ -561,8 +561,8 @@
             18
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[05时46分 ~ 06时42分]"
+          "appearance_count": 5,
+          "time_info": "[05时46分 ~ 06时52分]"
         },
         {
           "title": "派拓网络（Palo Alto Networks）宣布，与谷歌云达成（至少）数十亿美元规模的协议。",
@@ -591,8 +591,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 25,
-          "time_info": "[00时53分 ~ 06时42分]"
+          "appearance_count": 26,
+          "time_info": "[00时53分 ~ 06时52分]"
         },
         {
           "title": "阿联酋资本托底美股？不仅注资OpenAI，更把甲骨文从债务悬崖边拉了回来",
@@ -602,8 +602,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[05时52分 ~ 06时42分]"
+          "appearance_count": 4,
+          "time_info": "[05时52分 ~ 06时52分]"
         }
       ]
     },
@@ -620,8 +620,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[04时41分 ~ 06时42分]"
+          "appearance_count": 11,
+          "time_info": "[04时41分 ~ 06时52分]"
         },
         {
           "title": "2/10年期美债收益率于美国CPI数据发布当周跌超3个基点",
@@ -684,11 +684,12 @@
             14,
             10,
             23,
-            25
+            25,
+            26
           ],
           "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[02时55分 ~ 06时42分]"
+          "appearance_count": 18,
+          "time_info": "[02时55分 ~ 06时52分]"
         },
         {
           "title": "以色列暗杀伊朗核专家细节曝光",
@@ -697,9 +698,9 @@
           "ranks": [
             9
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时42分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时42分 ~ 06时52分]"
         }
       ]
     }
