@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-12-19T18:51:55.388011+08:00",
-  "total_titles_processed": 1843,
+  "generated_at": "2025-12-19T18:59:06.763922+08:00",
+  "total_titles_processed": 1898,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 83,
+      "match_count": 86,
       "titles": [
         {
           "title": "特朗普签署行政令：2028年登月、推进“太空核能计划”、商业化吸金！",
@@ -20,6 +20,19 @@
           "time_info": "[11时52分 ~ 16时56分]"
         },
         {
+          "title": "美国肯尼迪中心更名为“特朗普-肯尼迪中心”",
+          "url": "https://news.ifeng.com/c/8pD5jDyUhqx",
+          "source": "凤凰网",
+          "ranks": [
+            3,
+            4,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[15时38分 ~ 18时59分]"
+        },
+        {
           "title": "特朗普家族入局！核聚变能源是什么，谁在积极布局？一文读懂",
           "url": "https://www.cls.cn/detail/2234375",
           "source": "财联社热门",
@@ -31,8 +44,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[13时44分 ~ 18时51分]"
+          "appearance_count": 13,
+          "time_info": "[13时44分 ~ 18时59分]"
         },
         {
           "title": "特朗普签署行政命令，重申2028年登月目标",
@@ -45,21 +58,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[11时52分 ~ 18时51分]"
-        },
-        {
-          "title": "美国肯尼迪中心更名为“特朗普-肯尼迪中心”",
-          "url": "https://news.ifeng.com/c/8pD5jDyUhqx",
-          "source": "凤凰网",
-          "ranks": [
-            3,
-            4,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[15时38分 ~ 18时51分]"
+          "appearance_count": 15,
+          "time_info": "[11时52分 ~ 18时59分]"
         },
         {
           "title": "特朗普+核聚变概念股诞生 美国CPI刺激期指拉涨 | 今夜看点",
@@ -123,8 +123,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[11时52分 ~ 18时51分]"
+          "appearance_count": 15,
+          "time_info": "[11时52分 ~ 18时59分]"
         },
         {
           "title": "特朗普媒体集团大涨42%，公司拟并购核聚变公司TAE，计划明年开始建设核聚变发电厂",
@@ -138,8 +138,24 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[07时48分 ~ 18时51分]"
+          "appearance_count": 18,
+          "time_info": "[07时48分 ~ 18时59分]"
+        },
+        {
+          "title": "特朗普又签行政令 美国要在月球“大兴土木” 可回收火箭或成关键",
+          "url": "https://www.cls.cn/detail/2234355",
+          "source": "财联社热门",
+          "ranks": [
+            13,
+            11,
+            10,
+            9,
+            8,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 11,
+          "time_info": "[14时57分 ~ 18时59分]"
         },
         {
           "title": "美国总统特朗普：现在实际上并没有通胀问题。",
@@ -173,8 +189,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 40,
-          "time_info": "[01时48分 ~ 18时51分]"
+          "appearance_count": 42,
+          "time_info": "[01时48分 ~ 18时59分]"
         },
         {
           "title": "特朗普再次向乌克兰施压",
@@ -186,22 +202,6 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[11时52分 ~ 14时57分]"
-        },
-        {
-          "title": "特朗普又签行政令 美国要在月球“大兴土木” 可回收火箭或成关键",
-          "url": "https://www.cls.cn/detail/2234355",
-          "source": "财联社热门",
-          "ranks": [
-            13,
-            11,
-            10,
-            9,
-            8,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[14时57分 ~ 18时51分]"
         },
         {
           "title": "美国总统特朗普：美联储理事鲍曼很棒。",
@@ -443,7 +443,7 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时51分"
         },
@@ -457,17 +457,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时59分"
-        },
-        {
-          "title": "特朗普：不排除与委内瑞拉开战的可能性",
-          "url": "https://wallstreetcn.com/livenews/3023882",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时51分"
         },
         {
           "title": "美国白宫新闻秘书Leavitt：肯尼迪中心将被重新命名为“特朗普-肯尼迪中心”。",
@@ -515,7 +504,7 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时51分"
         },
@@ -542,6 +531,28 @@
           "time_info": "16时56分"
         },
         {
+          "title": "普京：特朗普采取措施结束乌克兰战争。 说俄罗斯拒绝任何方案是错误的。 准备好就结束乌克兰战争进行谈判。",
+          "url": "https://wallstreetcn.com/livenews/3023908",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时59分"
+        },
+        {
+          "title": "布朗大学枪案后 特朗普下令暂停“绿卡抽签”",
+          "url": "https://wallstreetcn.com/livenews/3023907",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时59分"
+        },
+        {
           "title": "美国商务部长卢特尼克：特朗普有很多优秀的美联储主席候选人。",
           "url": "https://flash.jin10.com/detail/20251219035207198800",
           "source": "金十数据",
@@ -552,6 +563,17 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[04时39分 ~ 05时00分]"
+        },
+        {
+          "title": "俄罗斯总统普京：美国总统特朗普正在为结束冲突作出真诚努力。",
+          "url": "https://flash.jin10.com/detail/20251219185310945800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时59分"
         },
         {
           "title": "特朗普：考虑就住房问题宣布国家紧急状态",
@@ -615,6 +637,19 @@
           "time_info": "[03时42分 ~ 04时39分]"
         },
         {
+          "title": "特朗普要求美国人到 2028 年重返月球，在月球和轨道上部署核反应堆，为何要部署核反应堆？能实现吗？",
+          "url": "https://www.zhihu.com/question/1985224796552844512",
+          "source": "知乎",
+          "ranks": [
+            19,
+            18,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[17时45分 ~ 18时59分]"
+        },
+        {
           "title": "美国总统特朗普：将很快就美联储主席人选做出决定。",
           "url": "https://flash.jin10.com/detail/20251219031128693800",
           "source": "金十数据",
@@ -662,6 +697,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[02时59分 ~ 03时28分]"
+        },
+        {
+          "title": "特朗普：不排除与委内瑞拉开战的可能性",
+          "url": "https://wallstreetcn.com/livenews/3023882",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时51分 ~ 18时59分]"
         },
         {
           "title": "美国商务部长卢特尼克：总统特朗普对美联储主席候选人有不错的人选。",
@@ -774,19 +821,6 @@
           "time_info": "[15时48分 ~ 15时55分]"
         },
         {
-          "title": "特朗普要求美国人到 2028 年重返月球，在月球和轨道上部署核反应堆，为何要部署核反应堆？能实现吗？",
-          "url": "https://www.zhihu.com/question/1985224796552844512",
-          "source": "知乎",
-          "ranks": [
-            19,
-            18,
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[17时45分 ~ 18时51分]"
-        },
-        {
           "title": "特朗普赞扬沃勒和鲍曼，称将在未来几周内公布美联储主席人选",
           "url": "https://wallstreetcn.com/livenews/3023309",
           "source": "华尔街见闻-快讯",
@@ -861,7 +895,7 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时51分"
         },
@@ -894,7 +928,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时51分"
         },
@@ -905,7 +939,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时51分"
         },
@@ -1085,8 +1119,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[11时52分 ~ 18时51分]"
+          "appearance_count": 15,
+          "time_info": "[11时52分 ~ 18时59分]"
         },
         {
           "title": "半导体ETF收涨超2.3%，领跑美股行业ETF，标普能源板块跌超1.4%",
