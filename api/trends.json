@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-12-19T22:58:39.637398+08:00",
-  "total_titles_processed": 2354,
+  "generated_at": "2025-12-19T23:44:06.245763+08:00",
+  "total_titles_processed": 2435,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 94,
+      "match_count": 98,
       "titles": [
         {
           "title": "特朗普签署行政令：2028年登月、推进“太空核能计划”、商业化吸金！",
@@ -138,8 +138,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 28,
-          "time_info": "[07时48分 ~ 22时58分]"
+          "appearance_count": 30,
+          "time_info": "[07时48分 ~ 23时44分]"
         },
         {
           "title": "特朗普又签行政令 美国要在月球“大兴土木” 可回收火箭或成关键",
@@ -193,22 +193,6 @@
           "time_info": "[01时48分 ~ 18时59分]"
         },
         {
-          "title": "特朗普：不排除与委内瑞拉开战",
-          "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE%EF%BC%9A%E4%B8%8D%E6%8E%92%E9%99%A4%E4%B8%8E%E5%A7%94%E5%86%85%E7%91%9E%E6%8B%89%E5%BC%80%E6%88%98",
-          "source": "百度热搜",
-          "ranks": [
-            10,
-            23,
-            20,
-            25,
-            26,
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[19时33分 ~ 22时58分]"
-        },
-        {
           "title": "特朗普要求美国人到 2028 年重返月球，在月球和轨道上部署核反应堆，为何要部署核反应堆？能实现吗？",
           "url": "https://www.zhihu.com/question/1985224796552844512",
           "source": "知乎",
@@ -218,11 +202,29 @@
             15,
             14,
             12,
-            11
+            11,
+            10
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[17时45分 ~ 22时58分]"
+          "appearance_count": 17,
+          "time_info": "[17时45分 ~ 23时44分]"
+        },
+        {
+          "title": "特朗普：不排除与委内瑞拉开战",
+          "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE%EF%BC%9A%E4%B8%8D%E6%8E%92%E9%99%A4%E4%B8%8E%E5%A7%94%E5%86%85%E7%91%9E%E6%8B%89%E5%BC%80%E6%88%98",
+          "source": "百度热搜",
+          "ranks": [
+            10,
+            23,
+            20,
+            25,
+            26,
+            28,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 12,
+          "time_info": "[19时33分 ~ 23时44分]"
         },
         {
           "title": "特朗普签署行政命令，重申2028年登月目标",
@@ -231,11 +233,12 @@
           "ranks": [
             19,
             17,
-            16
+            16,
+            15
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[19时33分 ~ 22时58分]"
+          "appearance_count": 12,
+          "time_info": "[19时33分 ~ 23时44分]"
         },
         {
           "title": "特朗普再次向乌克兰施压",
@@ -519,6 +522,17 @@
           "time_info": "18时51分"
         },
         {
+          "title": "美国总统特朗普：保险公司“正在敲诈美国”，医疗费用必须直接归人民所有。民主党必须加入进来！",
+          "url": "https://flash.jin10.com/detail/20251219233534861800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时44分"
+        },
+        {
           "title": "美国总统特朗普将签署命令，重新归类大麻。 特朗普表示，大麻命令并非法律，此命令在任何形式上都不会合法化。 大麻股目前涨跌各异，ETF CNBS跌15.3%、MSOS跌14.2%、MJ跌8.1%，GrowGeneration跌7.7%，Tilray Brands跌0.1%，Agrify则涨3.7%，Canopy Growth涨4.9%，VFF涨5.1%。",
           "url": "https://wallstreetcn.com/livenews/3023303",
           "source": "华尔街见闻-快讯",
@@ -600,6 +614,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "16时56分"
+        },
+        {
+          "title": "特朗普政府为何罕见提前宣布军购内容？台学者分析",
+          "url": "https://news.ifeng.com/c/8pDUNvScYT5",
+          "source": "凤凰网",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[22时46分 ~ 23时44分]"
         },
         {
           "title": "美国商务部长卢特尼克：特朗普有很多优秀的美联储主席候选人。",
@@ -821,17 +846,6 @@
           "time_info": "[15时38分 ~ 15时55分]"
         },
         {
-          "title": "特朗普政府为何罕见提前宣布军购内容？台学者分析",
-          "url": "https://news.ifeng.com/c/8pDUNvScYT5",
-          "source": "凤凰网",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[22时46分 ~ 22时58分]"
-        },
-        {
           "title": "美国总统特朗普回应关于自己对沃勒的看法，称：我觉得美联储理事沃勒很棒。 正与3名、或4名美联储主席候选人交谈，他们都不错。 很快将决定由谁担任美联储主席。",
           "url": "https://wallstreetcn.com/livenews/3023309",
           "source": "华尔街见闻-快讯",
@@ -970,6 +984,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[11时52分 ~ 12时57分]"
+        },
+        {
+          "title": "特朗普下令暂停“绿卡抽签”",
+          "url": "https://www.toutiao.com/trending/7584652634205585450/",
+          "source": "今日头条",
+          "ranks": [
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[23时43分 ~ 23时44分]"
         },
         {
           "title": "据NBC新闻：美国总统特朗普表示，认为没有必要废除平价医疗法案。",
@@ -1126,6 +1151,17 @@
           "time_info": "12时57分"
         },
         {
+          "title": "特朗普给联邦政府加假不影响国债标售计划，财政部称安排照旧",
+          "url": "https://wallstreetcn.com/livenews/3024047",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时44分"
+        },
+        {
           "title": "美国高级政府官员：特朗普将于周四签署行政命令，旨在加速将大麻重新归类为第三类管制物质。",
           "url": "https://flash.jin10.com/detail/20251219024503670800",
           "source": "金十数据",
@@ -1168,12 +1204,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "21时47分"
+        },
+        {
+          "title": "特朗普：“奥巴马医改”太贵，会自动消亡",
+          "url": "https://flash.jin10.com/detail/20251219225548281800",
+          "source": "金十数据",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时44分"
         }
       ]
     },
     {
       "keyword_group": "美股",
-      "match_count": 30,
+      "match_count": 31,
       "titles": [
         {
           "title": "甲骨文重燃AI担忧压垮美股，纳指跌近2%，地缘风险下原油反弹，期银盘中涨超6%创新高",
@@ -1224,8 +1271,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 25,
-          "time_info": "[11时52分 ~ 22时58分]"
+          "appearance_count": 27,
+          "time_info": "[11时52分 ~ 23时44分]"
         },
         {
           "title": "半导体ETF收涨超2.3%，领跑美股行业ETF，标普能源板块跌超1.4%",
@@ -1392,9 +1439,20 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时58分"
+        },
+        {
+          "title": "美股温和上扬，“三重巫术日”将有创纪录的7.1万亿美元期权到期",
+          "url": "https://wallstreetcn.com/livenews/3024062",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时44分"
         },
         {
           "title": "金十图示：2025年12月18日（周四）美股热门股票行情一览（美股盘中）",
@@ -1463,7 +1521,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时58分"
         },
@@ -1474,7 +1532,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时58分"
         },
@@ -1751,7 +1809,7 @@
     },
     {
       "keyword_group": "谷歌 google gemini",
-      "match_count": 10,
+      "match_count": 11,
       "titles": [
         {
           "title": "美股七巨头收盘播报｜特斯拉收涨超3.4%，亚马逊涨约2.5%，谷歌和英伟达涨约1.9%",
@@ -1852,6 +1910,17 @@
           "time_info": "00时00分"
         },
         {
+          "title": "派拓网络（Palo Alto Networks）宣布，与谷歌云达成（至少）数十亿美元规模的协议。",
+          "url": "https://wallstreetcn.com/livenews/3024048",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时44分"
+        },
+        {
           "title": "谷歌：扩展内容透明度工具，帮助更轻松地识别人工智能生成内容。图像和视频验证现已在Gemini应用支持的所有语言和国家/地区可用。",
           "url": "https://wallstreetcn.com/livenews/3023285",
           "source": "华尔街见闻-快讯",
@@ -1877,7 +1946,7 @@
     },
     {
       "keyword_group": "美债",
-      "match_count": 8,
+      "match_count": 9,
       "titles": [
         {
           "title": "美国市场“流动性紧张”谜底揭晓？摩根大通从美联储账户提取近3500亿美元，投向美债",
@@ -1955,6 +2024,17 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[15时38分 ~ 15时55分]"
+        },
+        {
+          "title": "10月日本、英国增持美债超百亿美元，中国持仓下降，加拿大大降",
+          "url": "https://wallstreetcn.com/articles/3761670",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[23时43分 ~ 23时44分]"
         },
         {
           "title": "中国为何持续减持美债",
