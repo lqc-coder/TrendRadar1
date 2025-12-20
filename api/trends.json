@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-20T14:56:23.469926+08:00",
-  "total_titles_processed": 1097,
+  "generated_at": "2025-12-20T15:01:38.987625+08:00",
+  "total_titles_processed": 1104,
   "failed_sources": [],
   "trends": [
     {
@@ -128,8 +128,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[07时53分 ~ 14时56分]"
+          "appearance_count": 14,
+          "time_info": "[07时53分 ~ 15时01分]"
         },
         {
           "title": "特朗普媒体集团大涨42%，公司拟并购核聚变公司TAE，计划明年开始建设核聚变发电厂",
@@ -260,6 +260,20 @@
           "time_info": "[04时41分 ~ 05时59分]"
         },
         {
+          "title": "美国总统特朗普：将与健康保险公司召开会议，或许会达成一份协议。",
+          "url": "https://wallstreetcn.com/livenews/3024224",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7,
+            12,
+            13,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[11时41分 ~ 15时01分]"
+        },
+        {
           "title": "特朗普称美军正对叙利亚境内“伊斯兰国”进行猛烈打击",
           "url": "https://wallstreetcn.com/livenews/3024204",
           "source": "华尔街见闻-快讯",
@@ -296,20 +310,6 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[03时43分 ~ 05时35分]"
-        },
-        {
-          "title": "美国总统特朗普：将与健康保险公司召开会议，或许会达成一份协议。",
-          "url": "https://wallstreetcn.com/livenews/3024224",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            7,
-            12,
-            13,
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[11时41分 ~ 14时56分]"
         },
         {
           "title": "九家制药商与特朗普签署价格协议以避免关税。",
@@ -531,8 +531,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[11时41分 ~ 14时56分]"
+          "appearance_count": 11,
+          "time_info": "[11时41分 ~ 15时01分]"
         },
         {
           "title": "美股三大指数集体高开，甲骨文涨超6%，日元跌破157关口，白银再涨逼近66美元，黄金回落至4330美元",
@@ -584,8 +584,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[07时34分 ~ 14时56分]"
+          "appearance_count": 16,
+          "time_info": "[07时34分 ~ 15时01分]"
         },
         {
           "title": "美股连涨两天后 华尔街又“神气”了：今年圣诞行情有戏？",
@@ -596,8 +596,22 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[12时45分 ~ 14时56分]"
+          "appearance_count": 10,
+          "time_info": "[12时45分 ~ 15时01分]"
+        },
+        {
+          "title": "Clocktower首席策略师王凯文：美股步入周期尾段，盈利驱动与估值压力并存",
+          "url": "https://wallstreetcn.com/livenews/3024223",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8,
+            13,
+            14,
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[11时41分 ~ 15时01分]"
         },
         {
           "title": "“三巫日”成交量创纪录，科技股撑美股指两连阳，日元贬超1.4%，银铜齐创新高",
@@ -631,20 +645,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[01时43分 ~ 01时56分]"
-        },
-        {
-          "title": "Clocktower首席策略师王凯文：美股步入周期尾段，盈利驱动与估值压力并存",
-          "url": "https://wallstreetcn.com/livenews/3024223",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            8,
-            13,
-            14,
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[11时41分 ~ 14时56分]"
         },
         {
           "title": "（美股）费城金银指数收涨2.79%，报347.80点，本周累计上涨2.98%，周五美股盘初短线拉升的涨幅突出。 （全球时段）纽约证交所ARCA金矿开采商指数收涨2.07%，报2460.91点，本周累涨2.34%。",
@@ -701,8 +701,8 @@
             19
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[11时41分 ~ 14时56分]"
+          "appearance_count": 8,
+          "time_info": "[11时41分 ~ 15时01分]"
         },
         {
           "title": "派拓网络（Palo Alto Networks）宣布，与谷歌云达成（至少）数十亿美元规模的协议。",
@@ -733,8 +733,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 20,
-          "time_info": "[05时52分 ~ 14时56分]"
+          "appearance_count": 21,
+          "time_info": "[05时52分 ~ 15时01分]"
         },
         {
           "title": "Altman谈OpenAI：算力成收入最大瓶颈，只要算力翻倍，收入就能翻倍",
@@ -796,8 +796,8 @@
             18
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[11时41分 ~ 14时56分]"
+          "appearance_count": 11,
+          "time_info": "[11时41分 ~ 15时01分]"
         },
         {
           "title": "以色列暗杀伊朗核专家细节曝光",
