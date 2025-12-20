@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-20T21:52:17.799996+08:00",
-  "total_titles_processed": 1531,
+  "generated_at": "2025-12-20T21:58:35.209928+08:00",
+  "total_titles_processed": 1536,
   "failed_sources": [],
   "trends": [
     {
@@ -54,6 +54,20 @@
           "is_new": false,
           "appearance_count": 10,
           "time_info": "[03时43分 ~ 05时59分]"
+        },
+        {
+          "title": "金十数据整理：特朗普过去24小时都忙了什么？（2025-12-20）",
+          "url": "https://flash.jin10.com/detail/20251220184219205800",
+          "source": "金十数据",
+          "ranks": [
+            2,
+            4,
+            16,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[19时29分 ~ 21时58分]"
         },
         {
           "title": "特朗普要求美国人到 2028 年重返月球，在月球和轨道上部署核反应堆，为何要部署核反应堆？能实现吗？",
@@ -117,20 +131,6 @@
           "is_new": false,
           "appearance_count": 29,
           "time_info": "[00时53分 ~ 07时46分]"
-        },
-        {
-          "title": "金十数据整理：特朗普过去24小时都忙了什么？（2025-12-20）",
-          "url": "https://flash.jin10.com/detail/20251220184219205800",
-          "source": "金十数据",
-          "ranks": [
-            2,
-            4,
-            16,
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[19时29分 ~ 21时52分]"
         },
         {
           "title": "沃勒在美联储主席面试中表现“出色”，特朗普或将关注重点转向就业市场",
@@ -279,6 +279,18 @@
           "time_info": "[03时29分 ~ 05时35分]"
         },
         {
+          "title": "Coinbase：特朗普的“大漂亮法案”或将赌客推向预测市场",
+          "url": "https://wallstreetcn.com/livenews/3024294",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[21时22分 ~ 21时58分]"
+        },
+        {
           "title": "特朗普：将召集保险公司开会讨论降价问题",
           "url": "https://wallstreetcn.com/livenews/3024144",
           "source": "华尔街见闻-快讯",
@@ -290,18 +302,6 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[04时41分 ~ 05时59分]"
-        },
-        {
-          "title": "Coinbase：特朗普的“大漂亮法案”或将赌客推向预测市场",
-          "url": "https://wallstreetcn.com/livenews/3024294",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[21时22分 ~ 21时52分]"
         },
         {
           "title": "特朗普称美军正对叙利亚境内“伊斯兰国”进行猛烈打击",
@@ -353,6 +353,19 @@
           "time_info": "03时29分"
         },
         {
+          "title": "特朗普为何推出史上最高金额对台军售",
+          "url": "https://www.toutiao.com/trending/7585013065943859238/",
+          "source": "今日头条",
+          "ranks": [
+            14,
+            20,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[21时22分 ~ 21时58分]"
+        },
+        {
           "title": "美联储：（美国总统特朗普宣布联邦政府2025年圣诞节假日安排之际，金融系统）支付与现金服务运营照常进行。",
           "url": "https://wallstreetcn.com/livenews/3024107",
           "source": "华尔街见闻-快讯",
@@ -364,18 +377,6 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[02时56分 ~ 03时57分]"
-        },
-        {
-          "title": "特朗普为何推出史上最高金额对台军售",
-          "url": "https://www.toutiao.com/trending/7585013065943859238/",
-          "source": "今日头条",
-          "ranks": [
-            14,
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[21时22分 ~ 21时52分]"
         },
         {
           "title": "据美联社：美国总统特朗普讲话已被推迟。",
@@ -573,8 +574,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 42,
-          "time_info": "[11时41分 ~ 21时52分]"
+          "appearance_count": 43,
+          "time_info": "[11时41分 ~ 21时58分]"
         },
         {
           "title": "美股三大指数集体高开，甲骨文涨超6%，日元跌破157关口，白银再涨逼近66美元，黄金回落至4330美元",
@@ -615,8 +616,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 47,
-          "time_info": "[07时34分 ~ 21时52分]"
+          "appearance_count": 48,
+          "time_info": "[07时34分 ~ 21时58分]"
         },
         {
           "title": "半导体行业ETF收涨将近2.6%，领跑美股行业ETF",
@@ -645,8 +646,8 @@
             23
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[17时46分 ~ 21时52分]"
+          "appearance_count": 15,
+          "time_info": "[17时46分 ~ 21时58分]"
         },
         {
           "title": "Clocktower首席策略师王凯文：美股步入周期尾段，盈利驱动与估值压力并存",
@@ -675,8 +676,8 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 41,
-          "time_info": "[12时45分 ~ 21时52分]"
+          "appearance_count": 42,
+          "time_info": "[12时45分 ~ 21时58分]"
         },
         {
           "title": "“三巫日”成交量创纪录，科技股撑美股指两连阳，日元贬超1.4%，银铜齐创新高",
@@ -782,8 +783,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 21,
-          "time_info": "[17时34分 ~ 21时52分]"
+          "appearance_count": 22,
+          "time_info": "[17时34分 ~ 21时58分]"
         },
         {
           "title": "卖光英伟达、抵押Arm加杠杆！软银“孤注一掷”OpenAI，力争年底前资金到位",
@@ -795,8 +796,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[19时54分 ~ 21时52分]"
+          "appearance_count": 8,
+          "time_info": "[19时54分 ~ 21时58分]"
         },
         {
           "title": "Altman直面1.4万亿美元质疑：只要算力还短缺，OpenAI就必须继续烧钱",
@@ -807,8 +808,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[21时22分 ~ 21时52分]"
+          "appearance_count": 6,
+          "time_info": "[21时22分 ~ 21时58分]"
         },
         {
           "title": "报道：软银加速筹集资金，力争在年底前履行对OpenAI 225亿美元的注资承诺",
@@ -854,8 +855,8 @@
             16
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[18时41分 ~ 21时52分]"
+          "appearance_count": 12,
+          "time_info": "[18时41分 ~ 21时58分]"
         },
         {
           "title": "据Business Insider：谷歌警告部分签证员工不要离开美国，因为回国可能面临长达一年的“重大”延误。",
@@ -908,8 +909,8 @@
             27
           ],
           "is_new": false,
-          "appearance_count": 20,
-          "time_info": "[15时43分 ~ 21时52分]"
+          "appearance_count": 21,
+          "time_info": "[15时43分 ~ 21时58分]"
         },
         {
           "title": "以色列暗杀伊朗核专家细节曝光",
