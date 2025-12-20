@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-21T07:52:12.851005+08:00",
-  "total_titles_processed": 467,
+  "generated_at": "2025-12-21T07:58:45.498765+08:00",
+  "total_titles_processed": 475,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 29,
-          "time_info": "[00时45分 ~ 07时52分]"
+          "appearance_count": 30,
+          "time_info": "[00时45分 ~ 07时58分]"
         },
         {
           "title": "以色列官员计划向特朗普通报可能对伊朗发动新一轮打击的计划",
@@ -26,8 +26,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 29,
-          "time_info": "[00时45分 ~ 07时52分]"
+          "appearance_count": 30,
+          "time_info": "[00时45分 ~ 07时58分]"
         },
         {
           "title": "特朗普提名特战副司令执掌南方司令部",
@@ -78,8 +78,8 @@
             23
           ],
           "is_new": false,
-          "appearance_count": 29,
-          "time_info": "[00时45分 ~ 07时52分]"
+          "appearance_count": 30,
+          "time_info": "[00时45分 ~ 07时58分]"
         },
         {
           "title": "特朗普为何推出史上最高金额对台军售",
@@ -102,9 +102,9 @@
           "ranks": [
             4
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "07时52分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[07时52分 ~ 07时58分]"
         },
         {
           "title": "美反对乌入约 泽连斯基疑诅咒特朗普",
@@ -130,11 +130,12 @@
           "ranks": [
             7,
             6,
-            5
+            5,
+            4
           ],
           "is_new": false,
-          "appearance_count": 39,
-          "time_info": "[00时45分 ~ 07时52分]"
+          "appearance_count": 40,
+          "time_info": "[00时45分 ~ 07时58分]"
         },
         {
           "title": "卖光英伟达、抵押Arm加杠杆！软银“孤注一掷”OpenAI，力争年底前资金到位",
@@ -142,11 +143,12 @@
           "source": "华尔街见闻",
           "ranks": [
             6,
-            7
+            7,
+            5
           ],
           "is_new": false,
-          "appearance_count": 39,
-          "time_info": "[00时45分 ~ 07时52分]"
+          "appearance_count": 40,
+          "time_info": "[00时45分 ~ 07时58分]"
         },
         {
           "title": "火线解析智谱AI招股书：年营收3亿增速130%，“中国版OpenAI”率先冲刺全球大模型第一股",
@@ -155,11 +157,12 @@
           "ranks": [
             9,
             8,
-            7
+            7,
+            6
           ],
           "is_new": false,
-          "appearance_count": 39,
-          "time_info": "[00时45分 ~ 07时52分]"
+          "appearance_count": 40,
+          "time_info": "[00时45分 ~ 07时58分]"
         },
         {
           "title": "OpenAI融资成败，将决定整个数据中心行业的命运",
@@ -167,11 +170,12 @@
           "source": "华尔街见闻",
           "ranks": [
             10,
-            9
+            9,
+            8
           ],
           "is_new": false,
-          "appearance_count": 39,
-          "time_info": "[00时45分 ~ 07时52分]"
+          "appearance_count": 40,
+          "time_info": "[00时45分 ~ 07时58分]"
         }
       ]
     },
@@ -199,8 +203,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 39,
-          "time_info": "[00时45分 ~ 07时52分]"
+          "appearance_count": 40,
+          "time_info": "[00时45分 ~ 07时58分]"
         },
         {
           "title": "美股连涨两天后 华尔街又“神气”了：今年圣诞行情有戏？",
@@ -211,8 +215,8 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 18,
-          "time_info": "[00时45分 ~ 07时52分]"
+          "appearance_count": 19,
+          "time_info": "[00时45分 ~ 07时58分]"
         }
       ]
     },
