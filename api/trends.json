@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-20T23:01:13.884624+08:00",
-  "total_titles_processed": 1606,
+  "generated_at": "2025-12-20T23:36:12.200412+08:00",
+  "total_titles_processed": 1635,
   "failed_sources": [],
   "trends": [
     {
@@ -50,11 +50,12 @@
             4,
             16,
             18,
-            22
+            22,
+            23
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[19时29分 ~ 23时01分]"
+          "appearance_count": 14,
+          "time_info": "[19时29分 ~ 23时36分]"
         },
         {
           "title": "美国总统特朗普：强生下周“将来这里（白宫）”（谈判）。",
@@ -69,6 +70,20 @@
           "is_new": false,
           "appearance_count": 10,
           "time_info": "[03时43分 ~ 05时59分]"
+        },
+        {
+          "title": "Coinbase：特朗普的“大漂亮法案”或将赌客推向预测市场",
+          "url": "https://wallstreetcn.com/livenews/3024294",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1,
+            5,
+            14,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[21时22分 ~ 23时36分]"
         },
         {
           "title": "特朗普要求美国人到 2028 年重返月球，在月球和轨道上部署核反应堆，为何要部署核反应堆？能实现吗？",
@@ -132,20 +147,6 @@
           "is_new": false,
           "appearance_count": 29,
           "time_info": "[00时53分 ~ 07时46分]"
-        },
-        {
-          "title": "Coinbase：特朗普的“大漂亮法案”或将赌客推向预测市场",
-          "url": "https://wallstreetcn.com/livenews/3024294",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1,
-            5,
-            14,
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[21时22分 ~ 23时01分]"
         },
         {
           "title": "沃勒在美联储主席面试中表现“出色”，特朗普或将关注重点转向就业市场",
@@ -228,11 +229,12 @@
             20,
             18,
             19,
-            10
+            10,
+            22
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[21时22分 ~ 23时01分]"
+          "appearance_count": 14,
+          "time_info": "[21时22分 ~ 23时36分]"
         },
         {
           "title": "特朗普签署行政命令，重申2028年登月目标",
@@ -283,6 +285,18 @@
           "time_info": "[00时53分 ~ 08时01分]"
         },
         {
+          "title": "特朗普提名特战副司令执掌南方司令部",
+          "url": "https://flash.jin10.com/detail/20251220214727409800",
+          "source": "金十数据",
+          "ranks": [
+            3,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[22时38分 ~ 23时36分]"
+        },
+        {
           "title": "特朗普媒体的核聚变合作伙伴面临欠款指控",
           "url": "https://wallstreetcn.com/livenews/3024186",
           "source": "华尔街见闻-快讯",
@@ -293,6 +307,18 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[06时42分 ~ 08时01分]"
+        },
+        {
+          "title": "以色列官员计划向特朗普通报可能对伊朗发动新一轮打击的计划",
+          "url": "https://flash.jin10.com/detail/20251220214239757800",
+          "source": "金十数据",
+          "ranks": [
+            4,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[22时38分 ~ 23时36分]"
         },
         {
           "title": "特朗普签署太空行政令，直觉机器公司及航天板块股价应声大涨",
@@ -307,28 +333,6 @@
           "is_new": false,
           "appearance_count": 8,
           "time_info": "[03时29分 ~ 05时35分]"
-        },
-        {
-          "title": "特朗普提名特战副司令执掌南方司令部",
-          "url": "https://flash.jin10.com/detail/20251220214727409800",
-          "source": "金十数据",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[22时38分 ~ 23时01分]"
-        },
-        {
-          "title": "以色列官员计划向特朗普通报可能对伊朗发动新一轮打击的计划",
-          "url": "https://flash.jin10.com/detail/20251220214239757800",
-          "source": "金十数据",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[22时38分 ~ 23时01分]"
         },
         {
           "title": "特朗普：将召集保险公司开会讨论降价问题",
@@ -393,6 +397,18 @@
           "time_info": "03时29分"
         },
         {
+          "title": "特朗普提名特战副司令执掌南方司令部",
+          "url": "https://wallstreetcn.com/livenews/3024305",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[22时38分 ~ 23时36分]"
+        },
+        {
           "title": "美联储：（美国总统特朗普宣布联邦政府2025年圣诞节假日安排之际，金融系统）支付与现金服务运营照常进行。",
           "url": "https://wallstreetcn.com/livenews/3024107",
           "source": "华尔街见闻-快讯",
@@ -416,18 +432,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[02时56分 ~ 03时29分]"
-        },
-        {
-          "title": "特朗普提名特战副司令执掌南方司令部",
-          "url": "https://wallstreetcn.com/livenews/3024305",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            9,
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[22时38分 ~ 23时01分]"
         },
         {
           "title": "南亚股市收盘播报｜印度中盘股收涨1.2%，卢比尾盘飙涨，特朗普贸易代表批评欧盟和印度",
@@ -613,8 +617,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 49,
-          "time_info": "[11时41分 ~ 23时01分]"
+          "appearance_count": 51,
+          "time_info": "[11时41分 ~ 23时36分]"
         },
         {
           "title": "美股三大指数集体高开，甲骨文涨超6%，日元跌破157关口，白银再涨逼近66美元，黄金回落至4330美元",
@@ -655,8 +659,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 54,
-          "time_info": "[07时34分 ~ 23时01分]"
+          "appearance_count": 56,
+          "time_info": "[07时34分 ~ 23时36分]"
         },
         {
           "title": "半导体行业ETF收涨将近2.6%，领跑美股行业ETF",
@@ -715,8 +719,8 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 48,
-          "time_info": "[12时45分 ~ 23时01分]"
+          "appearance_count": 50,
+          "time_info": "[12时45分 ~ 23时36分]"
         },
         {
           "title": "“三巫日”成交量创纪录，科技股撑美股指两连阳，日元贬超1.4%，银铜齐创新高",
@@ -779,7 +783,7 @@
     },
     {
       "keyword_group": "chatgpt openai",
-      "match_count": 6,
+      "match_count": 7,
       "titles": [
         {
           "title": "阿联酋资本托底美股？不仅注资OpenAI，更把甲骨文从债务悬崖边拉了回来",
@@ -824,8 +828,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[19时54分 ~ 23时01分]"
+          "appearance_count": 16,
+          "time_info": "[19时54分 ~ 23时36分]"
         },
         {
           "title": "Altman直面1.4万亿美元质疑：只要算力还短缺，OpenAI就必须继续烧钱",
@@ -837,8 +841,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[21时22分 ~ 23时01分]"
+          "appearance_count": 14,
+          "time_info": "[21时22分 ~ 23时36分]"
         },
         {
           "title": "OpenAI融资成败，将决定整个数据中心行业的命运",
@@ -849,8 +853,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 28,
-          "time_info": "[17时34分 ~ 23时01分]"
+          "appearance_count": 30,
+          "time_info": "[17时34分 ~ 23时36分]"
         },
         {
           "title": "报道：软银加速筹集资金，力争在年底前履行对OpenAI 225亿美元的注资承诺",
@@ -864,6 +868,17 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[11时41分 ~ 12时59分]"
+        },
+        {
+          "title": "火线解析智谱AI招股书：年营收3亿增速130%，“中国版OpenAI”率先冲刺全球大模型第一股",
+          "url": "https://wallstreetcn.com/articles/3761776",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[23时35分 ~ 23时36分]"
         }
       ]
     },
@@ -898,8 +913,8 @@
             29
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[18时41分 ~ 23时01分]"
+          "appearance_count": 17,
+          "time_info": "[18时41分 ~ 23时36分]"
         },
         {
           "title": "据Business Insider：谷歌警告部分签证员工不要离开美国，因为回国可能面临长达一年的“重大”延误。",
