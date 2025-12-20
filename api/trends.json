@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-20T19:48:05.260759+08:00",
-  "total_titles_processed": 1410,
+  "generated_at": "2025-12-20T19:54:32.433032+08:00",
+  "total_titles_processed": 1415,
   "failed_sources": [],
   "trends": [
     {
@@ -129,8 +129,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 38,
-          "time_info": "[07时53分 ~ 19时48分]"
+          "appearance_count": 39,
+          "time_info": "[07时53分 ~ 19时54分]"
         },
         {
           "title": "特朗普媒体集团大涨42%，公司拟并购核聚变公司TAE，计划明年开始建设核聚变发电厂",
@@ -265,6 +265,18 @@
           "time_info": "[03时29分 ~ 05时35分]"
         },
         {
+          "title": "金十数据整理：特朗普过去24小时都忙了什么？（2025-12-20）",
+          "url": "https://flash.jin10.com/detail/20251220184219205800",
+          "source": "金十数据",
+          "ranks": [
+            2,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[19时29分 ~ 19时54分]"
+        },
+        {
           "title": "特朗普：将召集保险公司开会讨论降价问题",
           "url": "https://wallstreetcn.com/livenews/3024144",
           "source": "华尔街见闻-快讯",
@@ -276,18 +288,6 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[04时41分 ~ 05时59分]"
-        },
-        {
-          "title": "金十数据整理：特朗普过去24小时都忙了什么？（2025-12-20）",
-          "url": "https://flash.jin10.com/detail/20251220184219205800",
-          "source": "金十数据",
-          "ranks": [
-            2,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[19时29分 ~ 19时48分]"
         },
         {
           "title": "特朗普称美军正对叙利亚境内“伊斯兰国”进行猛烈打击",
@@ -547,8 +547,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 35,
-          "time_info": "[11时41分 ~ 19时48分]"
+          "appearance_count": 36,
+          "time_info": "[11时41分 ~ 19时54分]"
         },
         {
           "title": "美股三大指数集体高开，甲骨文涨超6%，日元跌破157关口，白银再涨逼近66美元，黄金回落至4330美元",
@@ -562,6 +562,20 @@
           "is_new": false,
           "appearance_count": 27,
           "time_info": "[00时53分 ~ 06时59分]"
+        },
+        {
+          "title": "浙商期货首席策略师、投资咨询部总经理徐涛：明年商品市场最大风险点在美股，但“大坑”是较好的买入时机",
+          "url": "https://wallstreetcn.com/livenews/3024266",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1,
+            2,
+            8,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[17时46分 ~ 19时54分]"
         },
         {
           "title": "就在今天！史上最大规模期权到期，美股将迎来“疯狂一日”？",
@@ -589,8 +603,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 40,
-          "time_info": "[07时34分 ~ 19时48分]"
+          "appearance_count": 41,
+          "time_info": "[07时34分 ~ 19时54分]"
         },
         {
           "title": "半导体行业ETF收涨将近2.6%，领跑美股行业ETF",
@@ -604,20 +618,6 @@
           "is_new": false,
           "appearance_count": 10,
           "time_info": "[05时46分 ~ 08时01分]"
-        },
-        {
-          "title": "浙商期货首席策略师、投资咨询部总经理徐涛：明年商品市场最大风险点在美股，但“大坑”是较好的买入时机",
-          "url": "https://wallstreetcn.com/livenews/3024266",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1,
-            2,
-            8,
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[17时46分 ~ 19时48分]"
         },
         {
           "title": "Clocktower首席策略师王凯文：美股步入周期尾段，盈利驱动与估值压力并存",
@@ -646,8 +646,8 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 34,
-          "time_info": "[12时45分 ~ 19时48分]"
+          "appearance_count": 35,
+          "time_info": "[12时45分 ~ 19时54分]"
         },
         {
           "title": "“三巫日”成交量创纪录，科技股撑美股指两连阳，日元贬超1.4%，银铜齐创新高",
@@ -709,68 +709,8 @@
       ]
     },
     {
-      "keyword_group": "谷歌 google gemini",
-      "match_count": 4,
-      "titles": [
-        {
-          "title": "美股七巨头收盘播报｜英伟达收涨超3.9%，谷歌A涨超1.5%，Meta跌超0.8%",
-          "url": "https://wallstreetcn.com/livenews/3024168",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            5,
-            18,
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[05时46分 ~ 08时01分]"
-        },
-        {
-          "title": "据Business Insider：谷歌警告部分签证员工不要离开美国，因为回国可能面临长达一年的“重大”延误。",
-          "url": "https://flash.jin10.com/detail/20251220105539232800",
-          "source": "金十数据",
-          "ranks": [
-            9,
-            15,
-            16,
-            17,
-            19,
-            23,
-            26,
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[11时41分 ~ 16时58分]"
-        },
-        {
-          "title": "谷歌的“回流”之年：2025年新聘AI软件工程师中，20%为前员工",
-          "url": "https://wallstreetcn.com/livenews/3024274",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[18时41分 ~ 19时48分]"
-        },
-        {
-          "title": "派拓网络（Palo Alto Networks）宣布，与谷歌云达成（至少）数十亿美元规模的协议。",
-          "url": "https://wallstreetcn.com/livenews/3024048",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时54分"
-        }
-      ]
-    },
-    {
       "keyword_group": "chatgpt openai",
-      "match_count": 4,
+      "match_count": 5,
       "titles": [
         {
           "title": "阿联酋资本托底美股？不仅注资OpenAI，更把甲骨文从债务悬崖边拉了回来",
@@ -827,6 +767,77 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[11时41分 ~ 12时59分]"
+        },
+        {
+          "title": "卖光英伟达、抵押Arm加杠杆！软银“孤注一掷”OpenAI，力争年底前资金到位",
+          "url": "https://wallstreetcn.com/articles/3761763",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时54分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "谷歌 google gemini",
+      "match_count": 4,
+      "titles": [
+        {
+          "title": "美股七巨头收盘播报｜英伟达收涨超3.9%，谷歌A涨超1.5%，Meta跌超0.8%",
+          "url": "https://wallstreetcn.com/livenews/3024168",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5,
+            18,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[05时46分 ~ 08时01分]"
+        },
+        {
+          "title": "据Business Insider：谷歌警告部分签证员工不要离开美国，因为回国可能面临长达一年的“重大”延误。",
+          "url": "https://flash.jin10.com/detail/20251220105539232800",
+          "source": "金十数据",
+          "ranks": [
+            9,
+            15,
+            16,
+            17,
+            19,
+            23,
+            26,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 14,
+          "time_info": "[11时41分 ~ 16时58分]"
+        },
+        {
+          "title": "谷歌的“回流”之年：2025年新聘AI软件工程师中，20%为前员工",
+          "url": "https://wallstreetcn.com/livenews/3024274",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[18时41分 ~ 19时54分]"
+        },
+        {
+          "title": "派拓网络（Palo Alto Networks）宣布，与谷歌云达成（至少）数十亿美元规模的协议。",
+          "url": "https://wallstreetcn.com/livenews/3024048",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时54分"
         }
       ]
     },
@@ -848,8 +859,8 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[15时43分 ~ 19时48分]"
+          "appearance_count": 16,
+          "time_info": "[15时43分 ~ 19时54分]"
         },
         {
           "title": "以色列暗杀伊朗核专家细节曝光",
