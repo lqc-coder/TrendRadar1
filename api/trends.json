@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-20T15:01:38.987625+08:00",
-  "total_titles_processed": 1104,
+  "generated_at": "2025-12-20T15:33:54.432482+08:00",
+  "total_titles_processed": 1135,
   "failed_sources": [],
   "trends": [
     {
@@ -128,8 +128,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[07时53分 ~ 15时01分]"
+          "appearance_count": 15,
+          "time_info": "[07时53分 ~ 15时33分]"
         },
         {
           "title": "特朗普媒体集团大涨42%，公司拟并购核聚变公司TAE，计划明年开始建设核聚变发电厂",
@@ -247,6 +247,21 @@
           "time_info": "[03时29分 ~ 05时35分]"
         },
         {
+          "title": "美国总统特朗普：将与健康保险公司召开会议，或许会达成一份协议。",
+          "url": "https://wallstreetcn.com/livenews/3024224",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7,
+            12,
+            13,
+            20,
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[11时41分 ~ 15时33分]"
+        },
+        {
           "title": "特朗普：将召集保险公司开会讨论降价问题",
           "url": "https://wallstreetcn.com/livenews/3024144",
           "source": "华尔街见闻-快讯",
@@ -258,20 +273,6 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[04时41分 ~ 05时59分]"
-        },
-        {
-          "title": "美国总统特朗普：将与健康保险公司召开会议，或许会达成一份协议。",
-          "url": "https://wallstreetcn.com/livenews/3024224",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            7,
-            12,
-            13,
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[11时41分 ~ 15时01分]"
         },
         {
           "title": "特朗普称美军正对叙利亚境内“伊斯兰国”进行猛烈打击",
@@ -531,8 +532,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[11时41分 ~ 15时01分]"
+          "appearance_count": 12,
+          "time_info": "[11时41分 ~ 15时33分]"
         },
         {
           "title": "美股三大指数集体高开，甲骨文涨超6%，日元跌破157关口，白银再涨逼近66美元，黄金回落至4330美元",
@@ -581,11 +582,12 @@
             10,
             8,
             7,
-            5
+            5,
+            6
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[07时34分 ~ 15时01分]"
+          "appearance_count": 17,
+          "time_info": "[07时34分 ~ 15时33分]"
         },
         {
           "title": "美股连涨两天后 华尔街又“神气”了：今年圣诞行情有戏？",
@@ -593,11 +595,12 @@
           "source": "财联社热门",
           "ranks": [
             11,
-            12
+            12,
+            13
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[12时45分 ~ 15时01分]"
+          "appearance_count": 11,
+          "time_info": "[12时45分 ~ 15时33分]"
         },
         {
           "title": "Clocktower首席策略师王凯文：美股步入周期尾段，盈利驱动与估值压力并存",
@@ -607,11 +610,12 @@
             8,
             13,
             14,
-            21
+            21,
+            22
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[11时41分 ~ 15时01分]"
+          "appearance_count": 9,
+          "time_info": "[11时41分 ~ 15时33分]"
         },
         {
           "title": "“三巫日”成交量创纪录，科技股撑美股指两连阳，日元贬超1.4%，银铜齐创新高",
@@ -698,11 +702,12 @@
             15,
             16,
             17,
-            19
+            19,
+            23
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[11时41分 ~ 15时01分]"
+          "appearance_count": 9,
+          "time_info": "[11时41分 ~ 15时33分]"
         },
         {
           "title": "派拓网络（Palo Alto Networks）宣布，与谷歌云达成（至少）数十亿美元规模的协议。",
@@ -733,8 +738,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 21,
-          "time_info": "[05时52分 ~ 15时01分]"
+          "appearance_count": 22,
+          "time_info": "[05时52分 ~ 15时33分]"
         },
         {
           "title": "Altman谈OpenAI：算力成收入最大瓶颈，只要算力翻倍，收入就能翻倍",
@@ -796,8 +801,8 @@
             18
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[11时41分 ~ 15时01分]"
+          "appearance_count": 12,
+          "time_info": "[11时41分 ~ 15时33分]"
         },
         {
           "title": "以色列暗杀伊朗核专家细节曝光",
