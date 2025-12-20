@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-20T17:53:21.816898+08:00",
-  "total_titles_processed": 1299,
+  "generated_at": "2025-12-20T17:59:24.919137+08:00",
+  "total_titles_processed": 1302,
   "failed_sources": [],
   "trends": [
     {
@@ -129,8 +129,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 28,
-          "time_info": "[07时53分 ~ 17时53分]"
+          "appearance_count": 29,
+          "time_info": "[07时53分 ~ 17时59分]"
         },
         {
           "title": "特朗普媒体集团大涨42%，公司拟并购核聚变公司TAE，计划明年开始建设核聚变发电厂",
@@ -535,8 +535,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 25,
-          "time_info": "[11时41分 ~ 17时53分]"
+          "appearance_count": 26,
+          "time_info": "[11时41分 ~ 17时59分]"
         },
         {
           "title": "美股三大指数集体高开，甲骨文涨超6%，日元跌破157关口，白银再涨逼近66美元，黄金回落至4330美元",
@@ -577,8 +577,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 30,
-          "time_info": "[07时34分 ~ 17时53分]"
+          "appearance_count": 31,
+          "time_info": "[07时34分 ~ 17时59分]"
         },
         {
           "title": "半导体行业ETF收涨将近2.6%，领跑美股行业ETF",
@@ -620,8 +620,20 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 24,
-          "time_info": "[12时45分 ~ 17时53分]"
+          "appearance_count": 25,
+          "time_info": "[12时45分 ~ 17时59分]"
+        },
+        {
+          "title": "浙商期货首席策略师、投资咨询部总经理徐涛：明年商品市场最大风险点在美股，但“大坑”是较好的买入时机",
+          "url": "https://wallstreetcn.com/livenews/3024266",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[17时46分 ~ 17时59分]"
         },
         {
           "title": "“三巫日”成交量创纪录，科技股撑美股指两连阳，日元贬超1.4%，银铜齐创新高",
@@ -655,18 +667,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[01时43分 ~ 01时56分]"
-        },
-        {
-          "title": "浙商期货首席策略师、投资咨询部总经理徐涛：明年商品市场最大风险点在美股，但“大坑”是较好的买入时机",
-          "url": "https://wallstreetcn.com/livenews/3024266",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时46分 ~ 17时53分]"
         },
         {
           "title": "（美股）费城金银指数收涨2.79%，报347.80点，本周累计上涨2.98%，周五美股盘初短线拉升的涨幅突出。 （全球时段）纽约证交所ARCA金矿开采商指数收涨2.07%，报2460.91点，本周累涨2.34%。",
@@ -738,8 +738,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[17时34分 ~ 17时53分]"
+          "appearance_count": 7,
+          "time_info": "[17时34分 ~ 17时59分]"
         },
         {
           "title": "报道：软银加速筹集资金，力争在年底前履行对OpenAI 225亿美元的注资承诺",
@@ -771,8 +771,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[15时43分 ~ 17时53分]"
+          "appearance_count": 9,
+          "time_info": "[15时43分 ~ 17时59分]"
         },
         {
           "title": "以色列暗杀伊朗核专家细节曝光",
@@ -799,8 +799,8 @@
             18
           ],
           "is_new": false,
-          "appearance_count": 25,
-          "time_info": "[11时41分 ~ 17时53分]"
+          "appearance_count": 26,
+          "time_info": "[11时41分 ~ 17时59分]"
         },
         {
           "title": "以色列暗杀伊朗核专家细节曝光",
