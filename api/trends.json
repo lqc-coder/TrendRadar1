@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-20T19:54:32.433032+08:00",
-  "total_titles_processed": 1415,
+  "generated_at": "2025-12-20T20:01:38.028784+08:00",
+  "total_titles_processed": 1422,
   "failed_sources": [],
   "trends": [
     {
@@ -129,8 +129,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 39,
-          "time_info": "[07时53分 ~ 19时54分]"
+          "appearance_count": 40,
+          "time_info": "[07时53分 ~ 20时01分]"
         },
         {
           "title": "特朗普媒体集团大涨42%，公司拟并购核聚变公司TAE，计划明年开始建设核聚变发电厂",
@@ -239,6 +239,18 @@
           "time_info": "[00时53分 ~ 08时01分]"
         },
         {
+          "title": "金十数据整理：特朗普过去24小时都忙了什么？（2025-12-20）",
+          "url": "https://flash.jin10.com/detail/20251220184219205800",
+          "source": "金十数据",
+          "ranks": [
+            2,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[19时29分 ~ 20时01分]"
+        },
+        {
           "title": "特朗普媒体的核聚变合作伙伴面临欠款指控",
           "url": "https://wallstreetcn.com/livenews/3024186",
           "source": "华尔街见闻-快讯",
@@ -263,18 +275,6 @@
           "is_new": false,
           "appearance_count": 8,
           "time_info": "[03时29分 ~ 05时35分]"
-        },
-        {
-          "title": "金十数据整理：特朗普过去24小时都忙了什么？（2025-12-20）",
-          "url": "https://flash.jin10.com/detail/20251220184219205800",
-          "source": "金十数据",
-          "ranks": [
-            2,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[19时29分 ~ 19时54分]"
         },
         {
           "title": "特朗普：将召集保险公司开会讨论降价问题",
@@ -547,8 +547,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 36,
-          "time_info": "[11时41分 ~ 19时54分]"
+          "appearance_count": 37,
+          "time_info": "[11时41分 ~ 20时01分]"
         },
         {
           "title": "美股三大指数集体高开，甲骨文涨超6%，日元跌破157关口，白银再涨逼近66美元，黄金回落至4330美元",
@@ -571,11 +571,12 @@
             1,
             2,
             8,
-            13
+            13,
+            14
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[17时46分 ~ 19时54分]"
+          "appearance_count": 11,
+          "time_info": "[17时46分 ~ 20时01分]"
         },
         {
           "title": "就在今天！史上最大规模期权到期，美股将迎来“疯狂一日”？",
@@ -603,8 +604,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 41,
-          "time_info": "[07时34分 ~ 19时54分]"
+          "appearance_count": 42,
+          "time_info": "[07时34分 ~ 20时01分]"
         },
         {
           "title": "半导体行业ETF收涨将近2.6%，领跑美股行业ETF",
@@ -646,8 +647,8 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 35,
-          "time_info": "[12时45分 ~ 19时54分]"
+          "appearance_count": 36,
+          "time_info": "[12时45分 ~ 20时01分]"
         },
         {
           "title": "“三巫日”成交量创纪录，科技股撑美股指两连阳，日元贬超1.4%，银铜齐创新高",
@@ -775,9 +776,9 @@
           "ranks": [
             10
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时54分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时54分 ~ 20时01分]"
         }
       ]
     },
@@ -799,6 +800,19 @@
           "time_info": "[05时46分 ~ 08时01分]"
         },
         {
+          "title": "谷歌的“回流”之年：2025年新聘AI软件工程师中，20%为前员工",
+          "url": "https://wallstreetcn.com/livenews/3024274",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1,
+            6,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[18时41分 ~ 20时01分]"
+        },
+        {
           "title": "据Business Insider：谷歌警告部分签证员工不要离开美国，因为回国可能面临长达一年的“重大”延误。",
           "url": "https://flash.jin10.com/detail/20251220105539232800",
           "source": "金十数据",
@@ -815,18 +829,6 @@
           "is_new": false,
           "appearance_count": 14,
           "time_info": "[11时41分 ~ 16时58分]"
-        },
-        {
-          "title": "谷歌的“回流”之年：2025年新聘AI软件工程师中，20%为前员工",
-          "url": "https://wallstreetcn.com/livenews/3024274",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[18时41分 ~ 19时54分]"
         },
         {
           "title": "派拓网络（Palo Alto Networks）宣布，与谷歌云达成（至少）数十亿美元规模的协议。",
@@ -859,8 +861,8 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[15时43分 ~ 19时54分]"
+          "appearance_count": 17,
+          "time_info": "[15时43分 ~ 20时01分]"
         },
         {
           "title": "以色列暗杀伊朗核专家细节曝光",
