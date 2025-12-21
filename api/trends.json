@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-21T21:47:59.075492+08:00",
-  "total_titles_processed": 1250,
+  "generated_at": "2025-12-21T21:54:32.872570+08:00",
+  "total_titles_processed": 1267,
   "failed_sources": [],
   "trends": [
     {
@@ -42,6 +42,17 @@
           "time_info": "[00时45分 ~ 07时58分]"
         },
         {
+          "title": "爱泼斯坦案16份文档上线不到一天离奇消失，含特朗普照片",
+          "url": "https://news.ifeng.com/c/8pGiw6orh2a",
+          "source": "凤凰网",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[19时31分 ~ 21时54分]"
+        },
+        {
           "title": "美联储主席之争进入白热化了，华尔街和华盛顿“暗流涌动”，特朗普“举棋不定”",
           "url": "https://wallstreetcn.com/articles/3761784",
           "source": "华尔街见闻",
@@ -55,19 +66,23 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 31,
-          "time_info": "[12时57分 ~ 21时47分]"
+          "appearance_count": 32,
+          "time_info": "[12时57分 ~ 21时54分]"
         },
         {
-          "title": "爱泼斯坦案16份文档上线不到一天离奇消失，含特朗普照片",
-          "url": "https://news.ifeng.com/c/8pGiw6orh2a",
-          "source": "凤凰网",
+          "title": "金十数据整理：特朗普过去24小时都忙了什么？（2025-12-21）",
+          "url": "https://flash.jin10.com/detail/20251221182933074800",
+          "source": "金十数据",
           "ranks": [
-            2
+            1,
+            3,
+            6,
+            11,
+            12
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[19时31分 ~ 21时47分]"
+          "appearance_count": 9,
+          "time_info": "[18时53分 ~ 21时54分]"
         },
         {
           "title": "美外交人员协会称特朗普正解雇多名拜登任命的驻外大使",
@@ -105,21 +120,6 @@
           "is_new": false,
           "appearance_count": 10,
           "time_info": "[13时52分 ~ 17时36分]"
-        },
-        {
-          "title": "金十数据整理：特朗普过去24小时都忙了什么？（2025-12-21）",
-          "url": "https://flash.jin10.com/detail/20251221182933074800",
-          "source": "金十数据",
-          "ranks": [
-            1,
-            3,
-            6,
-            11,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[18时53分 ~ 21时47分]"
         },
         {
           "title": "特朗普提名特战副司令执掌南方司令部",
@@ -250,6 +250,94 @@
       ]
     },
     {
+      "keyword_group": "chatgpt openai",
+      "match_count": 6,
+      "titles": [
+        {
+          "title": "Altman直面1.4万亿美元质疑：只要算力还短缺，OpenAI就必须继续烧钱",
+          "url": "https://wallstreetcn.com/articles/3761764",
+          "source": "华尔街见闻",
+          "ranks": [
+            7,
+            6,
+            5,
+            4,
+            2,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 46,
+          "time_info": "[00时45分 ~ 14时00分]"
+        },
+        {
+          "title": "卖光英伟达、抵押Arm加杠杆！软银“孤注一掷”OpenAI，力争年底前资金到位",
+          "url": "https://wallstreetcn.com/articles/3761763",
+          "source": "华尔街见闻",
+          "ranks": [
+            6,
+            7,
+            5,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 41,
+          "time_info": "[00时45分 ~ 11时55分]"
+        },
+        {
+          "title": "火线解析智谱AI招股书：年营收3亿增速130%，“中国版OpenAI”率先冲刺全球大模型第一股",
+          "url": "https://wallstreetcn.com/articles/3761776",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            8,
+            7,
+            6,
+            3,
+            2,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 51,
+          "time_info": "[00时45分 ~ 15时51分]"
+        },
+        {
+          "title": "OpenAI融资成败，将决定整个数据中心行业的命运",
+          "url": "https://wallstreetcn.com/articles/3761757",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            9,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 40,
+          "time_info": "[00时45分 ~ 07时58分]"
+        },
+        {
+          "title": "OpenAI 被曝正寻求千亿美元融资，单季亏损超 120 亿美元，公司进入「红色代码」紧急状态，透露哪些信息？",
+          "url": "https://www.zhihu.com/question/1985011347914774514",
+          "source": "知乎",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时54分"
+        },
+        {
+          "title": "OpenAI 被曝正寻求千亿美元融资，单季亏损超 120 美元，公司进入「红色代码」紧急状态，透露哪些信息？",
+          "url": "https://www.zhihu.com/question/1985011347914774514",
+          "source": "知乎",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时21分 ~ 21时47分]"
+        }
+      ]
+    },
+    {
       "keyword_group": "伊朗",
       "match_count": 6,
       "titles": [
@@ -263,8 +351,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 31,
-          "time_info": "[12时57分 ~ 21时47分]"
+          "appearance_count": 32,
+          "time_info": "[12时57分 ~ 21时54分]"
         },
         {
           "title": "以色列拟告知美方或再次打击伊朗",
@@ -291,8 +379,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[21时21分 ~ 21时47分]"
+          "appearance_count": 3,
+          "time_info": "[21时21分 ~ 21时54分]"
         },
         {
           "title": "伊朗外长谴责美国对委内瑞拉动武威胁",
@@ -303,8 +391,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[21时21分 ~ 21时47分]"
+          "appearance_count": 3,
+          "time_info": "[21时21分 ~ 21时54分]"
         },
         {
           "title": "以总理访美前伊朗军方最新表态：密切关注相关事态发展",
@@ -315,8 +403,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[21时21分 ~ 21时47分]"
+          "appearance_count": 3,
+          "time_info": "[21时21分 ~ 21时54分]"
         },
         {
           "title": "以色列拟告知美方或再次打击伊朗",
@@ -383,9 +471,9 @@
           "ranks": [
             3
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时47分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时47分 ~ 21时54分]"
         },
         {
           "title": "“AI取代搜索”是伪命题？市场发现：谷歌才是对的！",
@@ -395,85 +483,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[21时21分 ~ 21时47分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "chatgpt openai",
-      "match_count": 5,
-      "titles": [
-        {
-          "title": "Altman直面1.4万亿美元质疑：只要算力还短缺，OpenAI就必须继续烧钱",
-          "url": "https://wallstreetcn.com/articles/3761764",
-          "source": "华尔街见闻",
-          "ranks": [
-            7,
-            6,
-            5,
-            4,
-            2,
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 46,
-          "time_info": "[00时45分 ~ 14时00分]"
-        },
-        {
-          "title": "卖光英伟达、抵押Arm加杠杆！软银“孤注一掷”OpenAI，力争年底前资金到位",
-          "url": "https://wallstreetcn.com/articles/3761763",
-          "source": "华尔街见闻",
-          "ranks": [
-            6,
-            7,
-            5,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 41,
-          "time_info": "[00时45分 ~ 11时55分]"
-        },
-        {
-          "title": "火线解析智谱AI招股书：年营收3亿增速130%，“中国版OpenAI”率先冲刺全球大模型第一股",
-          "url": "https://wallstreetcn.com/articles/3761776",
-          "source": "华尔街见闻",
-          "ranks": [
-            9,
-            8,
-            7,
-            6,
-            3,
-            2,
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 51,
-          "time_info": "[00时45分 ~ 15时51分]"
-        },
-        {
-          "title": "OpenAI融资成败，将决定整个数据中心行业的命运",
-          "url": "https://wallstreetcn.com/articles/3761757",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            9,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 40,
-          "time_info": "[00时45分 ~ 07时58分]"
-        },
-        {
-          "title": "OpenAI 被曝正寻求千亿美元融资，单季亏损超 120 美元，公司进入「红色代码」紧急状态，透露哪些信息？",
-          "url": "https://www.zhihu.com/question/1985011347914774514",
-          "source": "知乎",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[21时21分 ~ 21时47分]"
+          "appearance_count": 3,
+          "time_info": "[21时21分 ~ 21时54分]"
         }
       ]
     },
@@ -526,8 +537,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 28,
-          "time_info": "[13时59分 ~ 21时47分]"
+          "appearance_count": 29,
+          "time_info": "[13时59分 ~ 21时54分]"
         },
         {
           "title": "美股收盘：三大指数集体收涨 纳指涨逾1% 英伟达涨约4%",
@@ -613,8 +624,8 @@
             15
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[21时21分 ~ 21时47分]"
+          "appearance_count": 3,
+          "time_info": "[21时21分 ~ 21时54分]"
         }
       ]
     }
