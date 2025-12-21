@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-21T15:51:45.405320+08:00",
-  "total_titles_processed": 930,
+  "generated_at": "2025-12-21T15:58:09.270819+08:00",
+  "total_titles_processed": 932,
   "failed_sources": [],
   "trends": [
     {
@@ -49,11 +49,12 @@
             10,
             8,
             7,
-            6
+            6,
+            5
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[12时57分 ~ 15时51分]"
+          "appearance_count": 12,
+          "time_info": "[12时57分 ~ 15时58分]"
         },
         {
           "title": "特朗普提名特战副司令执掌南方司令部",
@@ -123,19 +124,6 @@
         },
         {
           "title": "美外交人员协会称特朗普正解雇多名拜登任命的驻外大使",
-          "url": "https://wallstreetcn.com/livenews/3024384",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            4,
-            12,
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[13时52分 ~ 15时51分]"
-        },
-        {
-          "title": "美外交人员协会称特朗普正解雇多名拜登任命的驻外大使",
           "url": "https://flash.jin10.com/detail/20251221140435040800",
           "source": "金十数据",
           "ranks": [
@@ -144,8 +132,22 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[14时56分 ~ 15时51分]"
+          "appearance_count": 5,
+          "time_info": "[14时56分 ~ 15时58分]"
+        },
+        {
+          "title": "美外交人员协会称特朗普正解雇多名拜登任命的驻外大使",
+          "url": "https://wallstreetcn.com/livenews/3024384",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4,
+            12,
+            16,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[13时52分 ~ 15时58分]"
         },
         {
           "title": "美联储主席之争白热化，华尔街和华盛顿“暗流涌动”，特朗普“举棋不定”",
@@ -163,6 +165,18 @@
           "time_info": "[11时55分 ~ 15时33分]"
         },
         {
+          "title": "特朗普称身处政坛看美女是死路一条",
+          "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE%E7%A7%B0%E8%BA%AB%E5%A4%84%E6%94%BF%E5%9D%9B%E7%9C%8B%E7%BE%8E%E5%A5%B3%E6%98%AF%E6%AD%BB%E8%B7%AF%E4%B8%80%E6%9D%A1",
+          "source": "百度热搜",
+          "ranks": [
+            25,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[15时33分 ~ 15时58分]"
+        },
+        {
           "title": "美反对乌入约 泽连斯基疑诅咒特朗普",
           "url": "https://www.baidu.com/s?wd=%E7%BE%8E%E5%8F%8D%E5%AF%B9%E4%B9%8C%E5%85%A5%E7%BA%A6+%E6%B3%BD%E8%BF%9E%E6%96%AF%E5%9F%BA%E7%96%91%E8%AF%85%E5%92%92%E7%89%B9%E6%9C%97%E6%99%AE",
           "source": "百度热搜",
@@ -172,18 +186,6 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[01时34分 ~ 01时56分]"
-        },
-        {
-          "title": "特朗普称身处政坛看美女是死路一条",
-          "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE%E7%A7%B0%E8%BA%AB%E5%A4%84%E6%94%BF%E5%9D%9B%E7%9C%8B%E7%BE%8E%E5%A5%B3%E6%98%AF%E6%AD%BB%E8%B7%AF%E4%B8%80%E6%9D%A1",
-          "source": "百度热搜",
-          "ranks": [
-            25,
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[15时33分 ~ 15时51分]"
         }
       ]
     },
@@ -203,6 +205,22 @@
           "time_info": "[00时45分 ~ 07时01分]"
         },
         {
+          "title": "通胀降温令美股回暖，交易员希望利用2025年剩余时间喘口气",
+          "url": "https://flash.jin10.com/detail/20251221123146651800",
+          "source": "金十数据",
+          "ranks": [
+            1,
+            4,
+            6,
+            10,
+            11,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[12时57分 ~ 15时58分]"
+        },
+        {
           "title": "美股收盘：三大指数集体收涨 纳指涨逾1% 英伟达涨约4%",
           "url": "https://www.cls.cn/detail/2235346",
           "source": "财联社热门",
@@ -212,8 +230,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 51,
-          "time_info": "[00时45分 ~ 15时51分]"
+          "appearance_count": 53,
+          "time_info": "[00时45分 ~ 15时58分]"
         },
         {
           "title": "美股连涨两天后 华尔街又“神气”了：今年圣诞行情有戏？",
@@ -228,22 +246,6 @@
           "time_info": "[00时45分 ~ 07时58分]"
         },
         {
-          "title": "通胀降温令美股回暖，交易员希望利用2025年剩余时间喘口气",
-          "url": "https://flash.jin10.com/detail/20251221123146651800",
-          "source": "金十数据",
-          "ranks": [
-            1,
-            4,
-            6,
-            10,
-            11,
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[12时57分 ~ 15时51分]"
-        },
-        {
           "title": "美银Hartnett：市场聚焦美股大涨“迎新”可能性，唯一风险是“市场过于乐观”",
           "url": "https://wallstreetcn.com/articles/3761788",
           "source": "华尔街见闻",
@@ -252,8 +254,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[13时59分 ~ 15时51分]"
+          "appearance_count": 9,
+          "time_info": "[13时59分 ~ 15时58分]"
         }
       ]
     },
@@ -336,11 +338,26 @@
             8,
             7,
             6,
-            5
+            5,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 13,
+          "time_info": "[11时55分 ~ 15时58分]"
+        },
+        {
+          "title": "Scaling Law没死！Gemini核心大佬爆料，谷歌已有颠覆性密钥",
+          "url": "https://wallstreetcn.com/articles/3761777",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            8,
+            7,
+            6
           ],
           "is_new": false,
           "appearance_count": 11,
-          "time_info": "[11时55分 ~ 15时51分]"
+          "time_info": "[13时42分 ~ 15时58分]"
         },
         {
           "title": "谷歌的“回流”之年：2025年新聘AI软件工程师中，20%为前员工",
@@ -352,19 +369,6 @@
           "is_new": false,
           "appearance_count": 16,
           "time_info": "[00时45分 ~ 04时48分]"
-        },
-        {
-          "title": "Scaling Law没死！Gemini核心大佬爆料，谷歌已有颠覆性密钥",
-          "url": "https://wallstreetcn.com/articles/3761777",
-          "source": "华尔街见闻",
-          "ranks": [
-            9,
-            8,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[13时42分 ~ 15时51分]"
         }
       ]
     },
@@ -383,8 +387,8 @@
             14
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[13时42分 ~ 15时51分]"
+          "appearance_count": 11,
+          "time_info": "[13时42分 ~ 15时58分]"
         },
         {
           "title": "金价又涨了",
@@ -424,8 +428,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[12时57分 ~ 15时51分]"
+          "appearance_count": 12,
+          "time_info": "[12时57分 ~ 15时58分]"
         },
         {
           "title": "以色列拟告知美方或再次打击伊朗",
@@ -435,11 +439,12 @@
             7,
             10,
             18,
-            22
+            22,
+            23
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[13时42分 ~ 15时51分]"
+          "appearance_count": 8,
+          "time_info": "[13时42分 ~ 15时58分]"
         }
       ]
     }
