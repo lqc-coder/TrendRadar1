@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-21T21:54:32.872570+08:00",
-  "total_titles_processed": 1267,
+  "generated_at": "2025-12-21T22:01:51.787602+08:00",
+  "total_titles_processed": 1270,
   "failed_sources": [],
   "trends": [
     {
@@ -49,8 +49,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[19时31分 ~ 21时54分]"
+          "appearance_count": 9,
+          "time_info": "[19时31分 ~ 22时01分]"
         },
         {
           "title": "美联储主席之争进入白热化了，华尔街和华盛顿“暗流涌动”，特朗普“举棋不定”",
@@ -66,8 +66,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 32,
-          "time_info": "[12时57分 ~ 21时54分]"
+          "appearance_count": 33,
+          "time_info": "[12时57分 ~ 22时01分]"
         },
         {
           "title": "金十数据整理：特朗普过去24小时都忙了什么？（2025-12-21）",
@@ -81,8 +81,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[18时53分 ~ 21时54分]"
+          "appearance_count": 10,
+          "time_info": "[18时53分 ~ 22时01分]"
         },
         {
           "title": "美外交人员协会称特朗普正解雇多名拜登任命的驻外大使",
@@ -320,9 +320,9 @@
           "ranks": [
             4
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时54分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时54分 ~ 22时01分]"
         },
         {
           "title": "OpenAI 被曝正寻求千亿美元融资，单季亏损超 120 美元，公司进入「红色代码」紧急状态，透露哪些信息？",
@@ -351,8 +351,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 32,
-          "time_info": "[12时57分 ~ 21时54分]"
+          "appearance_count": 33,
+          "time_info": "[12时57分 ~ 22时01分]"
         },
         {
           "title": "以色列拟告知美方或再次打击伊朗",
@@ -379,8 +379,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[21时21分 ~ 21时54分]"
+          "appearance_count": 4,
+          "time_info": "[21时21分 ~ 22时01分]"
         },
         {
           "title": "伊朗外长谴责美国对委内瑞拉动武威胁",
@@ -391,8 +391,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[21时21分 ~ 21时54分]"
+          "appearance_count": 4,
+          "time_info": "[21时21分 ~ 22时01分]"
         },
         {
           "title": "以总理访美前伊朗军方最新表态：密切关注相关事态发展",
@@ -403,8 +403,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[21时21分 ~ 21时54分]"
+          "appearance_count": 4,
+          "time_info": "[21时21分 ~ 22时01分]"
         },
         {
           "title": "以色列拟告知美方或再次打击伊朗",
@@ -472,8 +472,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[21时47分 ~ 21时54分]"
+          "appearance_count": 3,
+          "time_info": "[21时47分 ~ 22时01分]"
         },
         {
           "title": "“AI取代搜索”是伪命题？市场发现：谷歌才是对的！",
@@ -483,8 +483,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[21时21分 ~ 21时54分]"
+          "appearance_count": 4,
+          "time_info": "[21时21分 ~ 22时01分]"
         }
       ]
     },
@@ -537,8 +537,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 29,
-          "time_info": "[13时59分 ~ 21时54分]"
+          "appearance_count": 30,
+          "time_info": "[13时59分 ~ 22时01分]"
         },
         {
           "title": "美股收盘：三大指数集体收涨 纳指涨逾1% 英伟达涨约4%",
@@ -624,8 +624,8 @@
             15
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[21时21分 ~ 21时54分]"
+          "appearance_count": 4,
+          "time_info": "[21时21分 ~ 22时01分]"
         }
       ]
     }
