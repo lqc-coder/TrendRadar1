@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-22T07:47:43.265003+08:00",
-  "total_titles_processed": 498,
+  "generated_at": "2025-12-22T07:54:04.278370+08:00",
+  "total_titles_processed": 523,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 33,
-          "time_info": "[00时46分 ~ 07时47分]"
+          "appearance_count": 35,
+          "time_info": "[00时46分 ~ 07时54分]"
         },
         {
           "title": "美联储主席之争进入白热化了，华尔街和华盛顿“暗流涌动”，特朗普“举棋不定”",
@@ -26,8 +26,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 33,
-          "time_info": "[00时46分 ~ 07时47分]"
+          "appearance_count": 35,
+          "time_info": "[00时46分 ~ 07时54分]"
         },
         {
           "title": "英国政府发言人：斯塔默和特朗普首先回顾了乌克兰局势，斯塔默还向特朗普通报了新任英国驻美大使克里斯蒂安·特纳的任命情况。",
@@ -38,11 +38,12 @@
             4,
             7,
             10,
-            16
+            16,
+            23
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[04时51分 ~ 07时47分]"
+          "appearance_count": 12,
+          "time_info": "[04时51分 ~ 07时54分]"
         },
         {
           "title": "英国政府发言人：英国首相斯塔默于周日下午与美国总统特朗普进行了通话。",
@@ -53,11 +54,12 @@
             5,
             8,
             11,
-            17
+            17,
+            24
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[04时51分 ~ 07时47分]"
+          "appearance_count": 12,
+          "time_info": "[04时51分 ~ 07时54分]"
         },
         {
           "title": "美国白宫国家经济委员会主任凯文·哈塞特：预计最高法院将在关税案中支持我们。 法院不太可能要求大规模退还关税。 海上被扣押的石油与全球供应相比并不算多。 预计明年将迎来“史上最大规模的退税季”。 特朗普的助手们将在佛罗里达讨论住房政策。 将很快在新年宣布“重大”住房计划。",
@@ -101,8 +103,8 @@
             30
           ],
           "is_new": false,
-          "appearance_count": 19,
-          "time_info": "[02时53分 ~ 07时47分]"
+          "appearance_count": 20,
+          "time_info": "[02时53分 ~ 07时54分]"
         },
         {
           "title": "美国白宫国家经济委员会主任哈塞特：目前核心通胀率的三个月平均值为1.6%；特朗普在美联储主席候选人中寻求数据依赖型人选。",
@@ -131,8 +133,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 33,
-          "time_info": "[00时46分 ~ 07时47分]"
+          "appearance_count": 35,
+          "time_info": "[00时46分 ~ 07时54分]"
         },
         {
           "title": "美外交人员协会：特朗普正解雇多名拜登任命的驻外大使",
@@ -144,8 +146,8 @@
             18
           ],
           "is_new": false,
-          "appearance_count": 25,
-          "time_info": "[02时53分 ~ 07时47分]"
+          "appearance_count": 27,
+          "time_info": "[02时53分 ~ 07时54分]"
         },
         {
           "title": "美媒：以色列准备向特朗普汇报再次打击伊朗的方案",
@@ -157,8 +159,8 @@
             20
           ],
           "is_new": false,
-          "appearance_count": 30,
-          "time_info": "[01时34分 ~ 07时47分]"
+          "appearance_count": 32,
+          "time_info": "[01时34分 ~ 07时54分]"
         },
         {
           "title": "金十数据整理：特朗普过去24小时都忙了什么？（2025-12-21）",
@@ -187,8 +189,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 33,
-          "time_info": "[00时46分 ~ 07时47分]"
+          "appearance_count": 35,
+          "time_info": "[00时46分 ~ 07时54分]"
         },
         {
           "title": "伊朗外长谴责美国对委内瑞拉动武威胁",
@@ -245,8 +247,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[07时35分 ~ 07时47分]"
+          "appearance_count": 3,
+          "time_info": "[07时35分 ~ 07时54分]"
         }
       ]
     },
@@ -265,8 +267,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 33,
-          "time_info": "[00时46分 ~ 07时47分]"
+          "appearance_count": 35,
+          "time_info": "[00时46分 ~ 07时54分]"
         },
         {
           "title": "报道：OpenAI业务利润率至10月已提升至70%",
@@ -299,8 +301,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 33,
-          "time_info": "[00时46分 ~ 07时47分]"
+          "appearance_count": 35,
+          "time_info": "[00时46分 ~ 07时54分]"
         },
         {
           "title": "美股期货亚市盘初走高，标普500指数期货、纳斯达克100指数期货上涨0.3%。",
@@ -311,8 +313,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[07时35分 ~ 07时47分]"
+          "appearance_count": 3,
+          "time_info": "[07时35分 ~ 07时54分]"
         }
       ]
     },
@@ -328,8 +330,8 @@
             15
           ],
           "is_new": false,
-          "appearance_count": 33,
-          "time_info": "[00时46分 ~ 07时47分]"
+          "appearance_count": 35,
+          "time_info": "[00时46分 ~ 07时54分]"
         }
       ]
     },
@@ -346,8 +348,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 33,
-          "time_info": "[00时46分 ~ 07时47分]"
+          "appearance_count": 35,
+          "time_info": "[00时46分 ~ 07时54分]"
         }
       ]
     },
@@ -365,8 +367,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 33,
-          "time_info": "[00时46分 ~ 07时47分]"
+          "appearance_count": 35,
+          "time_info": "[00时46分 ~ 07时54分]"
         }
       ]
     }
