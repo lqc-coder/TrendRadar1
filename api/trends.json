@@ -1,5 +1,5 @@
 {
-  "generated_at": "2025-12-21T22:49:59.400624+08:00",
+  "generated_at": "2025-12-21T22:56:48.973438+08:00",
   "total_titles_processed": 1328,
   "failed_sources": [],
   "trends": [
@@ -15,8 +15,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[19时31分 ~ 22时49分]"
+          "appearance_count": 12,
+          "time_info": "[19时31分 ~ 22时56分]"
         },
         {
           "title": "美司法部副部长否认删掉爱泼斯坦案中提及特朗普的内容",
@@ -66,8 +66,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 35,
-          "time_info": "[12时57分 ~ 22时49分]"
+          "appearance_count": 36,
+          "time_info": "[12时57分 ~ 22时56分]"
         },
         {
           "title": "金十数据整理：特朗普过去24小时都忙了什么？（2025-12-21）",
@@ -82,8 +82,8 @@
             16
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[18时53分 ~ 22时49分]"
+          "appearance_count": 13,
+          "time_info": "[18时53分 ~ 22时56分]"
         },
         {
           "title": "美外交人员协会称特朗普正解雇多名拜登任命的驻外大使",
@@ -200,6 +200,17 @@
           "time_info": "[17时36分 ~ 18时01分]"
         },
         {
+          "title": "美国白宫国家经济委员会主任凯文·哈塞特：目前正在关注核心通胀三个月平均为1.6%。 特朗普在美联储主席候选人中寻求数据依赖型人选。",
+          "url": "https://wallstreetcn.com/livenews/3024440",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[22时40分 ~ 22时56分]"
+        },
+        {
           "title": "美联储主席之争白热化，华尔街和华盛顿“暗流涌动”，特朗普“举棋不定”",
           "url": "https://wallstreetcn.com/livenews/3024367",
           "source": "华尔街见闻-快讯",
@@ -213,17 +224,6 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[11时55分 ~ 15时33分]"
-        },
-        {
-          "title": "美国白宫国家经济委员会主任凯文·哈塞特：目前正在关注核心通胀三个月平均为1.6%。 特朗普在美联储主席候选人中寻求数据依赖型人选。",
-          "url": "https://wallstreetcn.com/livenews/3024440",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[22时40分 ~ 22时49分]"
         },
         {
           "title": "特朗普称身处政坛看美女是死路一条",
@@ -325,8 +325,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[21时21分 ~ 22时49分]"
+          "appearance_count": 7,
+          "time_info": "[21时21分 ~ 22时56分]"
         },
         {
           "title": "a16z年度重磅报告：OpenAI艰难守擂，谷歌火力全开，用户只选一个",
@@ -336,8 +336,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[22时40分 ~ 22时49分]"
+          "appearance_count": 3,
+          "time_info": "[22时40分 ~ 22时56分]"
         }
       ]
     },
@@ -413,8 +413,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[21时54分 ~ 22时49分]"
+          "appearance_count": 5,
+          "time_info": "[21时54分 ~ 22时56分]"
         },
         {
           "title": "OpenAI 被曝正寻求千亿美元融资，单季亏损超 120 美元，公司进入「红色代码」紧急状态，透露哪些信息？",
@@ -443,8 +443,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 35,
-          "time_info": "[12时57分 ~ 22时49分]"
+          "appearance_count": 36,
+          "time_info": "[12时57分 ~ 22时56分]"
         },
         {
           "title": "伊朗外长谴责美国对委内瑞拉动武威胁",
@@ -456,8 +456,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[21时21分 ~ 22时49分]"
+          "appearance_count": 7,
+          "time_info": "[21时21分 ~ 22时56分]"
         },
         {
           "title": "伊朗外长谴责美国对委内瑞拉动武威胁",
@@ -469,8 +469,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[21时21分 ~ 22时49分]"
+          "appearance_count": 7,
+          "time_info": "[21时21分 ~ 22时56分]"
         },
         {
           "title": "以色列拟告知美方或再次打击伊朗",
@@ -498,8 +498,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[21时21分 ~ 22时49分]"
+          "appearance_count": 7,
+          "time_info": "[21时21分 ~ 22时56分]"
         },
         {
           "title": "以色列拟告知美方或再次打击伊朗",
@@ -563,8 +563,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 32,
-          "time_info": "[13时59分 ~ 22时49分]"
+          "appearance_count": 33,
+          "time_info": "[13时59分 ~ 22时56分]"
         },
         {
           "title": "美股收盘：三大指数集体收涨 纳指涨逾1% 英伟达涨约4%",
@@ -650,8 +650,8 @@
             15
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[21时21分 ~ 22时49分]"
+          "appearance_count": 7,
+          "time_info": "[21时21分 ~ 22时56分]"
         }
       ]
     }
