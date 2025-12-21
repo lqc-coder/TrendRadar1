@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-21T22:40:45.942863+08:00",
-  "total_titles_processed": 1311,
+  "generated_at": "2025-12-21T22:49:59.400624+08:00",
+  "total_titles_processed": 1328,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[19时31分 ~ 22时40分]"
+          "appearance_count": 11,
+          "time_info": "[19时31分 ~ 22时49分]"
         },
         {
           "title": "美司法部副部长否认删掉爱泼斯坦案中提及特朗普的内容",
@@ -66,8 +66,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 34,
-          "time_info": "[12时57分 ~ 22时40分]"
+          "appearance_count": 35,
+          "time_info": "[12时57分 ~ 22时49分]"
         },
         {
           "title": "金十数据整理：特朗普过去24小时都忙了什么？（2025-12-21）",
@@ -82,8 +82,8 @@
             16
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[18时53分 ~ 22时40分]"
+          "appearance_count": 12,
+          "time_info": "[18时53分 ~ 22时49分]"
         },
         {
           "title": "美外交人员协会称特朗普正解雇多名拜登任命的驻外大使",
@@ -221,9 +221,9 @@
           "ranks": [
             1
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时40分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时40分 ~ 22时49分]"
         },
         {
           "title": "特朗普称身处政坛看美女是死路一条",
@@ -325,8 +325,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[21时21分 ~ 22时40分]"
+          "appearance_count": 6,
+          "time_info": "[21时21分 ~ 22时49分]"
         },
         {
           "title": "a16z年度重磅报告：OpenAI艰难守擂，谷歌火力全开，用户只选一个",
@@ -335,9 +335,9 @@
           "ranks": [
             9
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时40分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时40分 ~ 22时49分]"
         }
       ]
     },
@@ -413,8 +413,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[21时54分 ~ 22时40分]"
+          "appearance_count": 4,
+          "time_info": "[21时54分 ~ 22时49分]"
         },
         {
           "title": "OpenAI 被曝正寻求千亿美元融资，单季亏损超 120 美元，公司进入「红色代码」紧急状态，透露哪些信息？",
@@ -443,8 +443,34 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 34,
-          "time_info": "[12时57分 ~ 22时40分]"
+          "appearance_count": 35,
+          "time_info": "[12时57分 ~ 22时49分]"
+        },
+        {
+          "title": "伊朗外长谴责美国对委内瑞拉动武威胁",
+          "url": "https://wallstreetcn.com/livenews/3024435",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2,
+            3,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[21时21分 ~ 22时49分]"
+        },
+        {
+          "title": "伊朗外长谴责美国对委内瑞拉动武威胁",
+          "url": "https://flash.jin10.com/detail/20251221203127694800",
+          "source": "金十数据",
+          "ranks": [
+            2,
+            3,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[21时21分 ~ 22时49分]"
         },
         {
           "title": "以色列拟告知美方或再次打击伊朗",
@@ -463,32 +489,6 @@
           "time_info": "[13时42分 ~ 16时50分]"
         },
         {
-          "title": "伊朗外长谴责美国对委内瑞拉动武威胁",
-          "url": "https://wallstreetcn.com/livenews/3024435",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2,
-            3,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[21时21分 ~ 22时40分]"
-        },
-        {
-          "title": "伊朗外长谴责美国对委内瑞拉动武威胁",
-          "url": "https://flash.jin10.com/detail/20251221203127694800",
-          "source": "金十数据",
-          "ranks": [
-            2,
-            3,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[21时21分 ~ 22时40分]"
-        },
-        {
           "title": "以总理访美前伊朗军方最新表态：密切关注相关事态发展",
           "url": "https://flash.jin10.com/detail/20251221195815576800",
           "source": "金十数据",
@@ -498,8 +498,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[21时21分 ~ 22时40分]"
+          "appearance_count": 6,
+          "time_info": "[21时21分 ~ 22时49分]"
         },
         {
           "title": "以色列拟告知美方或再次打击伊朗",
@@ -563,8 +563,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 31,
-          "time_info": "[13时59分 ~ 22时40分]"
+          "appearance_count": 32,
+          "time_info": "[13时59分 ~ 22时49分]"
         },
         {
           "title": "美股收盘：三大指数集体收涨 纳指涨逾1% 英伟达涨约4%",
@@ -650,8 +650,8 @@
             15
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[21时21分 ~ 22时40分]"
+          "appearance_count": 6,
+          "time_info": "[21时21分 ~ 22时49分]"
         }
       ]
     }
