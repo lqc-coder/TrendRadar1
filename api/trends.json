@@ -1,5 +1,5 @@
 {
-  "generated_at": "2025-12-23T05:33:50.145598+08:00",
+  "generated_at": "2025-12-23T05:46:36.379950+08:00",
   "total_titles_processed": 572,
   "failed_sources": [],
   "trends": [
@@ -15,8 +15,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[00时01分 ~ 05时33分]"
+          "appearance_count": 16,
+          "time_info": "[00时01分 ~ 05时46分]"
         },
         {
           "title": "特朗普换大使细节披露：涉及全球近30国，均拜登时期上任",
@@ -26,8 +26,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[00时01分 ~ 05时33分]"
+          "appearance_count": 16,
+          "time_info": "[00时01分 ~ 05时46分]"
         },
         {
           "title": "特朗普自称从政后不再“看脸”：多看美女一眼，就是死路一条",
@@ -39,8 +39,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[00时01分 ~ 05时33分]"
+          "appearance_count": 16,
+          "time_info": "[00时01分 ~ 05时46分]"
         },
         {
           "title": "美国参议院Murphy：将通过法律手段阻止美国总统特朗普针对风电场采取的命令。",
@@ -55,8 +55,19 @@
             29
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[03时31分 ~ 05时33分]"
+          "appearance_count": 8,
+          "time_info": "[03时31分 ~ 05时46分]"
+        },
+        {
+          "title": "美国民主党主导的各州提起诉讼，以阻止特朗普政府削减消费者金融保护局的经费。",
+          "url": "https://flash.jin10.com/detail/20251223045540973800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时33分 ~ 05时46分]"
         },
         {
           "title": "美国联邦贸易委员会（FTC）：为响应美国总统特朗普的人工智能行动计划，已重新启动并搁置对Rytr的最终命令。",
@@ -85,6 +96,19 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[02时56分 ~ 04时42分]"
+        },
+        {
+          "title": "内塔尼亚胡：将与特朗普讨论伊朗问题及加沙计划下阶段行动",
+          "url": "https://flash.jin10.com/detail/20251223034156652800",
+          "source": "金十数据",
+          "ranks": [
+            3,
+            11,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[04时42分 ~ 05时46分]"
         },
         {
           "title": "特朗普可能会在1月第一周任命新的美联储主席。 （CNBC）",
@@ -125,17 +149,6 @@
           "time_info": "[01时40分 ~ 01时58分]"
         },
         {
-          "title": "美国民主党主导的各州提起诉讼，以阻止特朗普政府削减消费者金融保护局的经费。",
-          "url": "https://flash.jin10.com/detail/20251223045540973800",
-          "source": "金十数据",
-          "ranks": [
-            5
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时33分"
-        },
-        {
           "title": "据Politico：特朗普的批评者乔治·康威已提交申请，竞选纽约州众议院席位。",
           "url": "https://flash.jin10.com/detail/20251223005459495800",
           "source": "金十数据",
@@ -146,6 +159,18 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[01时40分 ~ 01时58分]"
+        },
+        {
+          "title": "据华尔街日报：美国新级别军舰将以美国总统特朗普命名。",
+          "url": "https://flash.jin10.com/detail/20251223044243476800",
+          "source": "金十数据",
+          "ranks": [
+            4,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[04时56分 ~ 05时46分]"
         },
         {
           "title": "以色列总理内塔尼亚胡：将与美国总统特朗普讨论伊朗的核活动。",
@@ -161,31 +186,6 @@
           "time_info": "[02时56分 ~ 03时57分]"
         },
         {
-          "title": "内塔尼亚胡：将与特朗普讨论伊朗问题及加沙计划下阶段行动",
-          "url": "https://flash.jin10.com/detail/20251223034156652800",
-          "source": "金十数据",
-          "ranks": [
-            3,
-            11,
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[04时42分 ~ 05时33分]"
-        },
-        {
-          "title": "据华尔街日报：美国新级别军舰将以美国总统特朗普命名。",
-          "url": "https://flash.jin10.com/detail/20251223044243476800",
-          "source": "金十数据",
-          "ranks": [
-            4,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时56分 ~ 05时33分]"
-        },
-        {
           "title": "美国原油期货收涨超2.6%，特朗普试图在封锁委内瑞拉期间截获第三艘油轮",
           "url": "https://wallstreetcn.com/livenews/3025107",
           "source": "华尔街见闻-快讯",
@@ -195,8 +195,8 @@
             22
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[04时42分 ~ 05时33分]"
+          "appearance_count": 4,
+          "time_info": "[04时42分 ~ 05时46分]"
         },
         {
           "title": "特朗普发出干预威胁后 美国在尼日利亚开展侦察飞行",
@@ -282,8 +282,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[00时01分 ~ 05时33分]"
+          "appearance_count": 16,
+          "time_info": "[00时01分 ~ 05时46分]"
         },
         {
           "title": "金十图示：2025年12月22日（周一）美股热门股票行情一览（美股收盘）",
@@ -292,9 +292,9 @@
           "ranks": [
             2
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时33分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时33分 ~ 05时46分]"
         },
         {
           "title": "金十图示：2025年12月22日（周一）热门中概股行情一览（美股收盘）",
@@ -303,9 +303,9 @@
           "ranks": [
             3
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时33分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时33分 ~ 05时46分]"
         },
         {
           "title": "航空业ETF收涨1.6%，和生物科技ETF领跑美股行业ETF",
@@ -314,9 +314,9 @@
           "ranks": [
             3
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时33分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时33分 ~ 05时46分]"
         },
         {
           "title": "美股收盘：三大股指齐升 特朗普旗下公司跌超10%",
@@ -325,9 +325,9 @@
           "ranks": [
             4
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时33分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时33分 ~ 05时46分]"
         },
         {
           "title": "周一（12月22日），彭博电动汽车价格回报指数涨0.82%，报3462.47点，亚太早盘显著上涨——北京时间09:29出现一波跳空上涨行情，后续高位震荡，美股开盘后，随着特斯拉股价创盘中历史最高、逼近500美元。 成分股EVgo、Lucid集团、微宏控股（MVST）涨超3领跑，小马智行涨约2.1%，特斯拉和沃尔沃涨超1%表现靠前。 “特斯拉劲敌”Rivian、禾赛科技、普拉格动力公司则跌超3%。",
@@ -336,9 +336,9 @@
           "ranks": [
             5
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时33分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时33分 ~ 05时46分]"
         },
         {
           "title": "希捷科技回吐美股盘初涨幅，并转而下跌5.5%。",
@@ -415,8 +415,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[00时01分 ~ 05时33分]"
+          "appearance_count": 16,
+          "time_info": "[00时01分 ~ 05时46分]"
         },
         {
           "title": "美情报机构未发现伊朗将发动袭击的迹象",
@@ -429,8 +429,22 @@
             21
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[03时50分 ~ 05时33分]"
+          "appearance_count": 6,
+          "time_info": "[03时50分 ~ 05时46分]"
+        },
+        {
+          "title": "以色列向美通报，伊朗或在筹备对以发动袭击",
+          "url": "https://wallstreetcn.com/livenews/3025108",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3,
+            7,
+            12,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[03时50分 ~ 05时46分]"
         },
         {
           "title": "以色列总理内塔尼亚胡：对伊朗的基本期望没有改变。",
@@ -444,20 +458,6 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[01时52分 ~ 03时44分]"
-        },
-        {
-          "title": "以色列向美通报，伊朗或在筹备对以发动袭击",
-          "url": "https://wallstreetcn.com/livenews/3025108",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3,
-            7,
-            12,
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[03时50分 ~ 05时33分]"
         },
         {
           "title": "以色列总理内塔尼亚胡：伊朗的任何行动都将遭到“强硬回应”。",
@@ -530,8 +530,8 @@
             16
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时56分 ~ 05时33分]"
+          "appearance_count": 3,
+          "time_info": "[04时56分 ~ 05时46分]"
         }
       ]
     },
@@ -565,8 +565,8 @@
             19
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[04时42分 ~ 05时33分]"
+          "appearance_count": 4,
+          "time_info": "[04时42分 ~ 05时46分]"
         },
         {
           "title": "美元指数22日下跌",
@@ -577,8 +577,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时56分 ~ 05时33分]"
+          "appearance_count": 3,
+          "time_info": "[04时56分 ~ 05时46分]"
         }
       ]
     },
@@ -596,8 +596,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[01时40分 ~ 05时33分]"
+          "appearance_count": 14,
+          "time_info": "[01时40分 ~ 05时46分]"
         },
         {
           "title": "第一太阳能涨7.1%，创2024年6月份以来盘中新高，投资者关注谷歌母公司Alphabet达成的清洁能源交易。",
@@ -606,9 +606,9 @@
           "ranks": [
             10
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时33分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时33分 ~ 05时46分]"
         }
       ]
     },
@@ -631,8 +631,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[00时01分 ~ 05时33分]"
+          "appearance_count": 16,
+          "time_info": "[00时01分 ~ 05时46分]"
         },
         {
           "title": "机构：金价创历史新高 降息预期与地缘风险成双引擎",
