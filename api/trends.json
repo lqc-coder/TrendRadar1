@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-22T19:32:39.682363+08:00",
-  "total_titles_processed": 1495,
+  "generated_at": "2025-12-22T19:46:11.696396+08:00",
+  "total_titles_processed": 1534,
   "failed_sources": [],
   "trends": [
     {
@@ -40,8 +40,19 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 20,
-          "time_info": "[12时01分 ~ 19时32分]"
+          "appearance_count": 22,
+          "time_info": "[12时01分 ~ 19时46分]"
+        },
+        {
+          "title": "美国人发愁：特朗普明摆着抢英伟达钱，但一个愿打一个愿挨",
+          "url": "https://news.ifeng.com/c/8pIHsNqm7yO",
+          "source": "凤凰网",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[17时52分 ~ 19时46分]"
         },
         {
           "title": "英国政府发言人：斯塔默和特朗普首先回顾了乌克兰局势，斯塔默还向特朗普通报了新任英国驻美大使克里斯蒂安·特纳的任命情况。",
@@ -86,17 +97,6 @@
           "is_new": false,
           "appearance_count": 9,
           "time_info": "[13时49分 ~ 16时58分]"
-        },
-        {
-          "title": "美国人发愁：特朗普明摆着抢英伟达钱，但一个愿打一个愿挨",
-          "url": "https://news.ifeng.com/c/8pIHsNqm7yO",
-          "source": "凤凰网",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[17时52分 ~ 19时32分]"
         },
         {
           "title": "美国全面加速太空军备：特朗普定调“太空优势”，35亿美元卫星订单紧随其后",
@@ -183,8 +183,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[15时01分 ~ 19时32分]"
+          "appearance_count": 16,
+          "time_info": "[15时01分 ~ 19时46分]"
         },
         {
           "title": "美国白宫国家经济委员会主任哈塞特：目前核心通胀率的三个月平均值为1.6%；特朗普在美联储主席候选人中寻求数据依赖型人选。",
@@ -213,11 +213,12 @@
             19,
             15,
             13,
-            12
+            12,
+            10
           ],
           "is_new": false,
-          "appearance_count": 18,
-          "time_info": "[13时01分 ~ 19时32分]"
+          "appearance_count": 20,
+          "time_info": "[13时01分 ~ 19时46分]"
         },
         {
           "title": "美外交人员协会：特朗普正解雇多名拜登任命的驻外大使",
@@ -263,6 +264,17 @@
           "time_info": "[00时47分 ~ 04时58分]"
         },
         {
+          "title": "特朗普换大使细节披露：涉及全球近30国，均拜登时期上任",
+          "url": "https://news.ifeng.com/c/8pI8Lyv4ZR4",
+          "source": "凤凰网",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[17时52分 ~ 19时46分]"
+        },
+        {
           "title": "飞机闯入特朗普官邸上空被紧急拦截",
           "url": "https://www.toutiao.com/trending/7586445374106796082/",
           "source": "今日头条",
@@ -275,17 +287,6 @@
           "is_new": false,
           "appearance_count": 8,
           "time_info": "[15时53分 ~ 18时49分]"
-        },
-        {
-          "title": "特朗普换大使细节披露：涉及全球近30国，均拜登时期上任",
-          "url": "https://news.ifeng.com/c/8pI8Lyv4ZR4",
-          "source": "凤凰网",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[17时52分 ~ 19时32分]"
         },
         {
           "title": "市场消息：在美国总统特朗普任命格陵兰岛特使后，丹麦外交大臣长将召见美国驻丹麦大使。",
@@ -315,11 +316,12 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             1,
-            13
+            13,
+            16
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时58分 ~ 19时32分]"
+          "appearance_count": 3,
+          "time_info": "[18时58分 ~ 19时46分]"
         },
         {
           "title": "特朗普让克林顿成了主角",
@@ -327,11 +329,12 @@
           "source": "百度热搜",
           "ranks": [
             27,
-            29
+            29,
+            19
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时58分 ~ 19时32分]"
+          "appearance_count": 4,
+          "time_info": "[18时58分 ~ 19时46分]"
         },
         {
           "title": "特朗普任命美国格陵兰岛特使",
@@ -425,11 +428,12 @@
           "ranks": [
             22,
             7,
-            9
+            9,
+            14
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[17时52分 ~ 19时32分]"
+          "appearance_count": 9,
+          "time_info": "[17时52分 ~ 19时46分]"
         },
         {
           "title": "伊朗高级军官：以色列威胁言论暴露其“动荡和软弱”",
@@ -456,6 +460,17 @@
         },
         {
           "title": "伊朗军队司令：伊朗正在密切监视敌人动向",
+          "url": "https://news.ifeng.com/c/8pIUWrKwH7S",
+          "source": "凤凰网",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[19时32分 ~ 19时46分]"
+        },
+        {
+          "title": "伊朗军队司令：伊朗正在密切监视敌人动向",
           "url": "https://flash.jin10.com/detail/20251222182227867800",
           "source": "金十数据",
           "ranks": [
@@ -468,31 +483,21 @@
         },
         {
           "title": "伊朗军队司令：伊朗正在密切监视敌人动向",
-          "url": "https://news.ifeng.com/c/8pIUWrKwH7S",
-          "source": "凤凰网",
-          "ranks": [
-            8
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时32分"
-        },
-        {
-          "title": "伊朗军队司令：伊朗正在密切监视敌人动向",
           "url": "https://wallstreetcn.com/livenews/3024908",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            11
+            11,
+            14
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时32分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时32分 ~ 19时46分]"
         }
       ]
     },
     {
       "keyword_group": "美股",
-      "match_count": 6,
+      "match_count": 7,
       "titles": [
         {
           "title": "押注“圣诞行情”！全球股市普涨，美股期货走高，黄金站上4400，白银续刷新高，油价反弹超1%，日元小幅上涨",
@@ -503,8 +508,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[16时58分 ~ 19时32分]"
+          "appearance_count": 10,
+          "time_info": "[16时58分 ~ 19时46分]"
         },
         {
           "title": "35亿美元大单引爆美股商业航天？SDA加速布局太空防御网 低轨商业卫星成关键",
@@ -535,8 +540,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[15时01分 ~ 19时32分]"
+          "appearance_count": 16,
+          "time_info": "[15时01分 ~ 19时46分]"
         },
         {
           "title": "美银Hartnett：市场聚焦美股大涨“迎新”可能性，唯一风险是“市场过于乐观”",
@@ -575,6 +580,17 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[17时53分 ~ 18时49分]"
+        },
+        {
+          "title": "霍尼韦尔预计全年调整后销售额为375亿-377亿美元，此前预期为407亿-409亿美元。 霍尼韦尔预计全年调整后每股收益为9.70-9.80美元（剔除先进材料业务影响后）。 霍尼韦尔预计第四季度调整后销售额为98亿-100亿美元，此前预期为101亿-103亿美元。 霍尼韦尔预计第四季度调整后每股收益为2.48-2.58美元，此前预期为2.52-2.62美元。 霍尼韦尔美股盘前跌超3%。",
+          "url": "https://wallstreetcn.com/livenews/3024927",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时46分"
         }
       ]
     },
@@ -658,8 +674,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 57,
-          "time_info": "[00时46分 ~ 19时32分]"
+          "appearance_count": 59,
+          "time_info": "[00时46分 ~ 19时46分]"
         },
         {
           "title": "“AI取代搜索”是伪命题？市场发现：谷歌才是对的！",
