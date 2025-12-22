@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-12-22T23:42:08.485320+08:00",
-  "total_titles_processed": 1891,
+  "generated_at": "2025-12-22T23:55:07.366701+08:00",
+  "total_titles_processed": 1912,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 29,
+      "match_count": 30,
       "titles": [
         {
           "title": "爱泼斯坦案16份文档上线不到一天离奇消失，含特朗普照片",
@@ -37,8 +37,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 19,
-          "time_info": "[17时52分 ~ 23时42分]"
+          "appearance_count": 21,
+          "time_info": "[17时52分 ~ 23时55分]"
         },
         {
           "title": "特朗普与爱泼斯坦合影消失又重现？美司法部解释",
@@ -211,8 +211,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 19,
-          "time_info": "[17时52分 ~ 23时42分]"
+          "appearance_count": 21,
+          "time_info": "[17时52分 ~ 23时55分]"
         },
         {
           "title": "特朗普自称从政后不再“看脸”：多看美女一眼，就是死路一条",
@@ -228,8 +228,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 30,
-          "time_info": "[13时01分 ~ 23时42分]"
+          "appearance_count": 32,
+          "time_info": "[13时01分 ~ 23时55分]"
         },
         {
           "title": "美外交人员协会：特朗普正解雇多名拜登任命的驻外大使",
@@ -340,6 +340,30 @@
           "time_info": "[18时58分 ~ 19时59分]"
         },
         {
+          "title": "白宫官员：美国总统特朗普和美国国防部长赫格塞思将于周一就造船业发表声明。",
+          "url": "https://flash.jin10.com/detail/20251222225324934800",
+          "source": "金十数据",
+          "ranks": [
+            12,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[23时42分 ~ 23时55分]"
+        },
+        {
+          "title": "欧美风电概念股普遍下挫，特朗普政府接口国家安全对五家公司暂停海上风电场租赁",
+          "url": "https://wallstreetcn.com/livenews/3025027",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[23时42分 ~ 23时55分]"
+        },
+        {
           "title": "据华盛顿邮报：特朗普召回驻外使馆及代表团的48名美国大使。",
           "url": "https://flash.jin10.com/detail/20251222211021305800",
           "source": "金十数据",
@@ -351,15 +375,15 @@
           "time_info": "21时48分"
         },
         {
-          "title": "白宫官员：美国总统特朗普和美国国防部长赫格塞思将于周一就造船业发表声明。",
-          "url": "https://flash.jin10.com/detail/20251222225324934800",
+          "title": "白宫官员：特朗普周一下午4:30（北京时间周二凌晨5:30）的讲话是关于造船业的。",
+          "url": "https://flash.jin10.com/detail/20251222232441474800",
           "source": "金十数据",
           "ranks": [
-            12
+            9
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "23时42分"
+          "time_info": "23时55分"
         },
         {
           "title": "特朗普任命美国格陵兰岛特使",
@@ -371,17 +395,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "12时02分"
-        },
-        {
-          "title": "欧美风电概念股普遍下挫，特朗普政府接口国家安全对五家公司暂停海上风电场租赁",
-          "url": "https://wallstreetcn.com/livenews/3025027",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            15
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "23时42分"
         },
         {
           "title": "研究显示：特朗普关税政策重创德国汽车出口",
@@ -413,6 +426,17 @@
           "time_info": "[16时58分 ~ 19时59分]"
         },
         {
+          "title": "科技股反弹引领市场！美股期货走高，“Mag7”普涨，英伟达盘前涨2%，甲骨文涨超2%，油价反弹超2%",
+          "url": "https://wallstreetcn.com/articles/3761821",
+          "source": "华尔街见闻",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[21时48分 ~ 23时55分]"
+        },
+        {
           "title": "35亿美元大单引爆美股商业航天？SDA加速布局太空防御网 低轨商业卫星成关键",
           "url": "https://www.cls.cn/detail/2235916",
           "source": "财联社热门",
@@ -428,17 +452,6 @@
           "is_new": false,
           "appearance_count": 17,
           "time_info": "[12时01分 ~ 18时01分]"
-        },
-        {
-          "title": "科技股反弹引领市场！美股期货走高，“Mag7”普涨，英伟达盘前涨2%，甲骨文涨超2%，油价反弹超2%",
-          "url": "https://wallstreetcn.com/articles/3761821",
-          "source": "华尔街见闻",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[21时48分 ~ 23时42分]"
         },
         {
           "title": "2025美股十大震撼事件：从关税风暴到AI狂潮 70万亿市场的盛宴与危机",
@@ -494,15 +507,44 @@
           "time_info": "[07时35分 ~ 08时01分]"
         },
         {
+          "title": "华纳兄弟探索公司（WBD）美股盘初涨3.9%，Paramount SkyDance（派拉蒙天舞）涨3.3%。",
+          "url": "https://wallstreetcn.com/livenews/3025024",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3,
+            9,
+            18,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[22时45分 ~ 23时55分]"
+        },
+        {
+          "title": "行业ETF美股盘初普遍上涨，半导体ETF、能源业ETF至多涨1.53%，全球科技股指数ETF、银行业ETF、科技行业ETF至多涨0.89%，网络股指数ETF涨0.76%。",
+          "url": "https://wallstreetcn.com/livenews/3025022",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5,
+            11,
+            20,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[22时45分 ~ 23时55分]"
+        },
+        {
           "title": "希捷科技回吐美股盘初涨幅，并转而下跌5.5%。",
           "url": "https://wallstreetcn.com/livenews/3025047",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            1
+            1,
+            6
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "23时42分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[23时42分 ~ 23时55分]"
         },
         {
           "title": "周一美股盘前你需要了解的全球要闻",
@@ -516,32 +558,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[22时00分 ~ 22时56分]"
-        },
-        {
-          "title": "华纳兄弟探索公司（WBD）美股盘初涨3.9%，Paramount SkyDance（派拉蒙天舞）涨3.3%。",
-          "url": "https://wallstreetcn.com/livenews/3025024",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3,
-            9,
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[22时45分 ~ 23时42分]"
-        },
-        {
-          "title": "行业ETF美股盘初普遍上涨，半导体ETF、能源业ETF至多涨1.53%，全球科技股指数ETF、银行业ETF、科技行业ETF至多涨0.89%，网络股指数ETF涨0.76%。",
-          "url": "https://wallstreetcn.com/livenews/3025022",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            5,
-            11,
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[22时45分 ~ 23时42分]"
         },
         {
           "title": "霍尼韦尔预计全年调整后销售额为375亿-377亿美元，此前预期为407亿-409亿美元。 霍尼韦尔预计全年调整后每股收益为9.70-9.80美元（剔除先进材料业务影响后）。 霍尼韦尔预计第四季度调整后销售额为98亿-100亿美元，此前预期为101亿-103亿美元。 霍尼韦尔预计第四季度调整后每股收益为2.48-2.58美元，此前预期为2.52-2.62美元。 霍尼韦尔美股盘前跌超3%。",
@@ -640,8 +656,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[19时32分 ~ 23时42分]"
+          "appearance_count": 15,
+          "time_info": "[19时32分 ~ 23时55分]"
         },
         {
           "title": "伊朗要下场帮委内瑞拉了吗",
@@ -773,6 +789,17 @@
           "time_info": "[00时46分 ~ 08时01分]"
         },
         {
+          "title": "金价飙涨 有新人快被“三金”愁哭了",
+          "url": "https://www.toutiao.com/trending/7586259723437064246/",
+          "source": "今日头条",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[23时41分 ~ 23时55分]"
+        },
+        {
           "title": "现货黄金价格再创历史新高",
           "url": "https://www.toutiao.com/trending/7586548209984474650/",
           "source": "今日头条",
@@ -806,17 +833,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[19时52分 ~ 19时59分]"
-        },
-        {
-          "title": "金价飙涨 有新人快被“三金”愁哭了",
-          "url": "https://www.toutiao.com/trending/7586259723437064246/",
-          "source": "今日头条",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[23时41分 ~ 23时42分]"
         },
         {
           "title": "在金价首次突破4400美元/盎司后，美国上市黄金矿业股盘前上涨。Sibanye Stillwater股价上涨3.5%，AngloGold Ashanti上涨4.2%，纽蒙特矿业上涨2.5%。金罗斯黄金上涨2.8%，Gold Fields上涨3.8%，Agnico Eagle上涨2.1%，巴里克黄金上涨2.5%。",
