@@ -1,5 +1,5 @@
 {
-  "generated_at": "2025-12-24T07:48:11.326676+08:00",
+  "generated_at": "2025-12-24T07:54:04.924011+08:00",
   "total_titles_processed": 671,
   "failed_sources": [],
   "trends": [
@@ -17,8 +17,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 27,
-          "time_info": "[00时55分 ~ 07时48分]"
+          "appearance_count": 29,
+          "time_info": "[00时55分 ~ 07时54分]"
         },
         {
           "title": "泰国外长：上次停火谈判太仓促，就为了给特朗普面子",
@@ -28,8 +28,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 27,
-          "time_info": "[00时55分 ~ 07时48分]"
+          "appearance_count": 29,
+          "time_info": "[00时55分 ~ 07时54分]"
         },
         {
           "title": "布林肯为何对特朗普发出严厉警告",
@@ -55,8 +55,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 27,
-          "time_info": "[00时55分 ~ 07时48分]"
+          "appearance_count": 29,
+          "time_info": "[00时55分 ~ 07时54分]"
         },
         {
           "title": "特朗普将建特朗普级新型战舰",
@@ -73,8 +73,8 @@
             30
           ],
           "is_new": false,
-          "appearance_count": 23,
-          "time_info": "[00时55分 ~ 07时48分]"
+          "appearance_count": 25,
+          "time_info": "[00时55分 ~ 07时54分]"
         },
         {
           "title": "“特朗普级”新型战列舰命名打破惯例",
@@ -102,8 +102,8 @@
             17
           ],
           "is_new": false,
-          "appearance_count": 27,
-          "time_info": "[00时55分 ~ 07时48分]"
+          "appearance_count": 29,
+          "time_info": "[00时55分 ~ 07时54分]"
         },
         {
           "title": "美新型战舰被命名为特朗普级你咋看",
@@ -127,8 +127,22 @@
             18
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[03时44分 ~ 07时48分]"
+          "appearance_count": 14,
+          "time_info": "[03时44分 ~ 07时54分]"
+        },
+        {
+          "title": "美国法官驳回了特朗普政府针对纽约州法律的诉讼，特朗普政府称该法律阻碍了移民执法。",
+          "url": "https://flash.jin10.com/detail/20251224053558726800",
+          "source": "金十数据",
+          "ranks": [
+            3,
+            7,
+            12,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[05时59分 ~ 07时54分]"
         },
         {
           "title": "美国最高法院拒绝允许美国总统特朗普向芝加哥地区部署国民警卫队。",
@@ -142,20 +156,6 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[04时41分 ~ 05时53分]"
-        },
-        {
-          "title": "美国法官驳回了特朗普政府针对纽约州法律的诉讼，特朗普政府称该法律阻碍了移民执法。",
-          "url": "https://flash.jin10.com/detail/20251224053558726800",
-          "source": "金十数据",
-          "ranks": [
-            3,
-            7,
-            12,
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[05时59分 ~ 07时48分]"
         },
         {
           "title": "特朗普：和我持不同意见的人将永远无法成为美联储主席",
@@ -271,6 +271,28 @@
           "time_info": "[01时41分 ~ 02时00分]"
         },
         {
+          "title": "特朗普的资本重构：一场万亿美元级别的资金流向大转移",
+          "url": "https://wallstreetcn.com/articles/3761916",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[07时34分 ~ 07时54分]"
+        },
+        {
+          "title": "特朗普回应克林顿大尺度照被公布",
+          "url": "https://www.toutiao.com/trending/7586912730720947748/",
+          "source": "今日头条",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[07时47分 ~ 07时54分]"
+        },
+        {
           "title": "美国议员提起诉讼，指控特朗普擅自变更肯尼迪中心的做法违规",
           "url": "https://wallstreetcn.com/livenews/3025709",
           "source": "华尔街见闻-快讯",
@@ -316,28 +338,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[02时59分 ~ 03时50分]"
-        },
-        {
-          "title": "特朗普的资本重构：一场万亿美元级别的资金流向大转移",
-          "url": "https://wallstreetcn.com/articles/3761916",
-          "source": "华尔街见闻",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[07时34分 ~ 07时48分]"
-        },
-        {
-          "title": "特朗普回应克林顿大尺度照被公布",
-          "url": "https://www.toutiao.com/trending/7586912730720947748/",
-          "source": "今日头条",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[07时47分 ~ 07时48分]"
         },
         {
           "title": "周二（12月23日），降息赢家指数涨0.72%，报99.75点。 “特朗普关税输家”指数跌1.03%，散户抱团概念股指数/迷因股（meme stock）指数跌1.71%。",
@@ -424,6 +424,20 @@
           "time_info": "[00时55分 ~ 05时59分]"
         },
         {
+          "title": "（美股）费城金银指数收涨0.51%，报360.47点，美股早盘出现V形反转。 （全球时段）纽约证交所ARCA金矿开采商指数收涨0.23%，报2555.31点，美股（早盘）时段出现V形反转。",
+          "url": "https://wallstreetcn.com/livenews/3025783",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2,
+            10,
+            19,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[05时59分 ~ 07时54分]"
+        },
+        {
           "title": "半导体ETF收涨超0.9%，领跑美股行业ETF，标普电信、科技板块涨超0.9%",
           "url": "https://wallstreetcn.com/livenews/3025776",
           "source": "华尔街见闻-快讯",
@@ -438,18 +452,17 @@
           "time_info": "[05时35分 ~ 06时59分]"
         },
         {
-          "title": "（美股）费城金银指数收涨0.51%，报360.47点，美股早盘出现V形反转。 （全球时段）纽约证交所ARCA金矿开采商指数收涨0.23%，报2555.31点，美股（早盘）时段出现V形反转。",
-          "url": "https://wallstreetcn.com/livenews/3025783",
+          "title": "UiPath美股盘后涨5.4%。",
+          "url": "https://wallstreetcn.com/livenews/3025791",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            2,
-            10,
-            19,
-            30
+            3,
+            12,
+            23
           ],
           "is_new": false,
           "appearance_count": 6,
-          "time_info": "[05时59分 ~ 07时48分]"
+          "time_info": "[06时41分 ~ 07时54分]"
         },
         {
           "title": "金十图示：2025年12月23日（周二）美股热门股票行情一览（美股收盘）",
@@ -480,17 +493,17 @@
           "time_info": "[05时35分 ~ 06时59分]"
         },
         {
-          "title": "UiPath美股盘后涨5.4%。",
-          "url": "https://wallstreetcn.com/livenews/3025791",
+          "title": "周二（12月23日）纽约尾盘，CME比特币期货BTC主力合约较周一纽约尾盘跌0.75%，报87730美元。 CME以太币期货DCR主力合约跌0.55%，报2970.50美元。 美股加密货币与加密货币关联指数跌2.46%，报62.26点。 最近24小时，MarketVector数字资产100小盘指数跌1.62%，暂报3522.18点。 MarketVector数字资产100指数跌0.79%，暂报17965.86点。",
+          "url": "https://wallstreetcn.com/livenews/3025785",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            3,
-            12,
-            23
+            8,
+            17,
+            28
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[06时41分 ~ 07时48分]"
+          "appearance_count": 6,
+          "time_info": "[06时41分 ~ 07时54分]"
         },
         {
           "title": "美股收盘：三大股指小幅收涨 标普500创收盘新高",
@@ -528,19 +541,6 @@
           "time_info": "02时00分"
         },
         {
-          "title": "周二（12月23日）纽约尾盘，CME比特币期货BTC主力合约较周一纽约尾盘跌0.75%，报87730美元。 CME以太币期货DCR主力合约跌0.55%，报2970.50美元。 美股加密货币与加密货币关联指数跌2.46%，报62.26点。 最近24小时，MarketVector数字资产100小盘指数跌1.62%，暂报3522.18点。 MarketVector数字资产100指数跌0.79%，暂报17965.86点。",
-          "url": "https://wallstreetcn.com/livenews/3025785",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            8,
-            17,
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[06时41分 ~ 07时48分]"
-        },
-        {
           "title": "美股收盘：日线四连涨标普收新高 英伟达升3%领涨七巨头",
           "url": "https://www.cls.cn/detail/2238248",
           "source": "财联社热门",
@@ -549,8 +549,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[07时34分 ~ 07时48分]"
+          "appearance_count": 5,
+          "time_info": "[07时34分 ~ 07时54分]"
         },
         {
           "title": "美股收盘：英伟达涨超3%",
@@ -560,8 +560,8 @@
             15
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[07时47分 ~ 07时48分]"
+          "appearance_count": 4,
+          "time_info": "[07时47分 ~ 07时54分]"
         }
       ]
     },
@@ -639,8 +639,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 27,
-          "time_info": "[00时55分 ~ 07时48分]"
+          "appearance_count": 29,
+          "time_info": "[00时55分 ~ 07时54分]"
         },
         {
           "title": "黄金再创新高, 现货黄金首次站上 4400 美元 / 盎司，今年以来累涨近 68%，金价后续怎么走？",
@@ -650,8 +650,8 @@
             16
           ],
           "is_new": false,
-          "appearance_count": 27,
-          "time_info": "[00时55分 ~ 07时48分]"
+          "appearance_count": 29,
+          "time_info": "[00时55分 ~ 07时54分]"
         },
         {
           "title": "金价",
