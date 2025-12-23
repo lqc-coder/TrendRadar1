@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-12-23T18:59:25.538689+08:00",
-  "total_titles_processed": 1652,
+  "generated_at": "2025-12-23T19:34:22.347326+08:00",
+  "total_titles_processed": 1708,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 87,
+      "match_count": 88,
       "titles": [
         {
           "title": "美国人发愁：特朗普明摆着抢英伟达钱，但一个愿打一个愿挨",
@@ -23,11 +23,12 @@
           "url": "https://wallstreetcn.com/articles/3761868",
           "source": "华尔街见闻",
           "ranks": [
-            5
+            5,
+            6
           ],
           "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[11时55分 ~ 18时59分]"
+          "appearance_count": 18,
+          "time_info": "[11时55分 ~ 19时34分]"
         },
         {
           "title": "特朗普将建特朗普级新型战舰",
@@ -38,8 +39,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[11时55分 ~ 18时59分]"
+          "appearance_count": 18,
+          "time_info": "[11时55分 ~ 19时34分]"
         },
         {
           "title": "如何看特朗普级战列舰计划",
@@ -50,8 +51,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[16时58分 ~ 18时59分]"
+          "appearance_count": 7,
+          "time_info": "[16时58分 ~ 19时34分]"
         },
         {
           "title": "特朗普叫停美国最大海上风电项目",
@@ -479,17 +480,6 @@
           "time_info": "[06时44分 ~ 07时01分]"
         },
         {
-          "title": "金十数据整理：特朗普过去24小时都忙了什么？（2025-12-23）",
-          "url": "https://flash.jin10.com/detail/20251223184540612800",
-          "source": "金十数据",
-          "ranks": [
-            5
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时59分"
-        },
-        {
           "title": "据Politico：特朗普的批评者乔治·康威已提交申请，竞选纽约州众议院席位。",
           "url": "https://flash.jin10.com/detail/20251223005459495800",
           "source": "金十数据",
@@ -500,6 +490,19 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[01时40分 ~ 01时58分]"
+        },
+        {
+          "title": "特朗普又自恋,新战舰用自己名",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28348288&amp;topic_name=%E7%89%B9%E6%9C%97%E6%99%AE%E5%8F%88%E8%87%AA%E6%81%8B%2C%E6%96%B0%E6%88%98%E8%88%B0%E7%94%A8%E8%87%AA%E5%B7%B1%E5%90%8D",
+          "source": "贴吧",
+          "ranks": [
+            27,
+            7,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[17时48分 ~ 19时34分]"
         },
         {
           "title": "美国总统特朗普：将从两艘舰艇开始，将发展到十艘，最终达到20到25艘。",
@@ -527,16 +530,16 @@
           "time_info": "[02时56分 ~ 03时57分]"
         },
         {
-          "title": "特朗普又自恋,新战舰用自己名",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28348288&amp;topic_name=%E7%89%B9%E6%9C%97%E6%99%AE%E5%8F%88%E8%87%AA%E6%81%8B%2C%E6%96%B0%E6%88%98%E8%88%B0%E7%94%A8%E8%87%AA%E5%B7%B1%E5%90%8D",
-          "source": "贴吧",
+          "title": "泰国外长：上次停火谈判太仓促，就为了给特朗普面子",
+          "url": "https://news.ifeng.com/c/8pJycIBu5di",
+          "source": "凤凰网",
           "ranks": [
-            27,
-            7
+            7,
+            9
           ],
           "is_new": false,
           "appearance_count": 4,
-          "time_info": "[17时48分 ~ 18时59分]"
+          "time_info": "[17时58分 ~ 19时34分]"
         },
         {
           "title": "提醒：美国总统特朗普在佛罗里达州棕榈滩住所的讲话结束。",
@@ -548,6 +551,18 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[07时36分 ~ 08时01分]"
+        },
+        {
+          "title": "金十数据整理：特朗普过去24小时都忙了什么？（2025-12-23）",
+          "url": "https://flash.jin10.com/detail/20251223184540612800",
+          "source": "金十数据",
+          "ranks": [
+            5,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时59分 ~ 19时34分]"
         },
         {
           "title": "美国总统特朗普：与保险公司的会议将在（圣诞节）复工后的头几天举行。",
@@ -691,18 +706,6 @@
           "time_info": "[07时36分 ~ 08时01分]"
         },
         {
-          "title": "泰国外长：上次停火谈判太仓促，就为了给特朗普面子",
-          "url": "https://news.ifeng.com/c/8pJycIBu5di",
-          "source": "凤凰网",
-          "ranks": [
-            7,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[17时58分 ~ 18时59分]"
-        },
-        {
           "title": "美国总统特朗普：我们还将增加航空母舰。",
           "url": "https://flash.jin10.com/detail/20251223061427915800",
           "source": "金十数据",
@@ -815,6 +818,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时54分 ~ 07时01分]"
+        },
+        {
+          "title": "美国总统特朗普公布“特朗普级”战舰后，亨廷顿英格尔斯工业股价盘前上涨4.4%。",
+          "url": "https://flash.jin10.com/detail/20251223184036942800",
+          "source": "金十数据",
+          "ranks": [
+            9,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时59分 ~ 19时34分]"
         },
         {
           "title": "特朗普称其目标是迫使马杜罗下台",
@@ -1008,6 +1023,17 @@
           "time_info": "[16时58分 ~ 16时59分]"
         },
         {
+          "title": "据美国哥伦比亚广播公司：特朗普政府寻求撤销数千起庇护案件，申请人可被驱逐至第三国。",
+          "url": "https://flash.jin10.com/detail/20251223190328466800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时34分"
+        },
+        {
           "title": "白宫官员：特朗普周一下午4:30（北京时间周二凌晨5:30）的讲话是关于造船业的。",
           "url": "https://flash.jin10.com/detail/20251222232441474800",
           "source": "金十数据",
@@ -1017,17 +1043,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时01分"
-        },
-        {
-          "title": "美国总统特朗普公布“特朗普级”战舰后，亨廷顿英格尔斯工业股价盘前上涨4.4%。",
-          "url": "https://flash.jin10.com/detail/20251223184036942800",
-          "source": "金十数据",
-          "ranks": [
-            9
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时59分"
         },
         {
           "title": "特朗普宣布：建造特朗普级战列舰",
@@ -1279,6 +1294,118 @@
       ]
     },
     {
+      "keyword_group": "金价",
+      "match_count": 8,
+      "titles": [
+        {
+          "title": "金价突破1400元",
+          "url": "https://s.weibo.com/weibo?q=%23%E9%87%91%E4%BB%B7%E7%AA%81%E7%A0%B41400%E5%85%83%23&t=31&band_rank=8&Refer=top",
+          "source": "微博",
+          "ranks": [
+            8,
+            7,
+            9,
+            10,
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[13时50分 ~ 16时59分]"
+        },
+        {
+          "title": "金价飙涨 有新人快被“三金”愁哭了",
+          "url": "https://www.toutiao.com/trending/7586259723437064246/",
+          "source": "今日头条",
+          "ranks": [
+            7,
+            21,
+            19,
+            20,
+            25,
+            26,
+            16,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 27,
+          "time_info": "[00时01分 ~ 08时01分]"
+        },
+        {
+          "title": "机构：金价创历史新高 降息预期与地缘风险成双引擎",
+          "url": "https://flash.jin10.com/detail/20251223020756394800",
+          "source": "金十数据",
+          "ranks": [
+            9,
+            19,
+            22,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[02时56分 ~ 04时42分]"
+        },
+        {
+          "title": "2025年黄金年终盘点：宏观环境一变再变 却全是金价上涨理由",
+          "url": "https://www.cls.cn/detail/2237629",
+          "source": "财联社热门",
+          "ranks": [
+            13,
+            12,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[17时48分 ~ 19时34分]"
+        },
+        {
+          "title": "金价逐步朝4500美元迈进，分析师：市场逐渐适应金价高涨",
+          "url": "https://flash.jin10.com/detail/20251223175214274800",
+          "source": "金十数据",
+          "ranks": [
+            3,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时58分 ~ 18时51分]"
+        },
+        {
+          "title": "金价银价同日创新高",
+          "url": "https://www.baidu.com/s?wd=%E9%87%91%E4%BB%B7%E9%93%B6%E4%BB%B7%E5%90%8C%E6%97%A5%E5%88%9B%E6%96%B0%E9%AB%98",
+          "source": "百度热搜",
+          "ranks": [
+            26,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[15时44分 ~ 16时01分]"
+        },
+        {
+          "title": "金十图示：2025年12月23日（周二）上海金午盘价为1007.57元/克，较国际金价(1010.96元/克)，低3.39元/克",
+          "url": "https://flash.jin10.com/detail/20251223150220834800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "15时44分"
+        },
+        {
+          "title": "金价彻底爆了 有人拖行李箱抢购",
+          "url": "https://www.baidu.com/s?wd=%E9%87%91%E4%BB%B7%E5%BD%BB%E5%BA%95%E7%88%86%E4%BA%86+%E6%9C%89%E4%BA%BA%E6%8B%96%E8%A1%8C%E6%9D%8E%E7%AE%B1%E6%8A%A2%E8%B4%AD",
+          "source": "百度热搜",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时34分"
+        }
+      ]
+    },
+    {
       "keyword_group": "伊朗",
       "match_count": 8,
       "titles": [
@@ -1388,107 +1515,6 @@
       ]
     },
     {
-      "keyword_group": "金价",
-      "match_count": 7,
-      "titles": [
-        {
-          "title": "金价突破1400元",
-          "url": "https://s.weibo.com/weibo?q=%23%E9%87%91%E4%BB%B7%E7%AA%81%E7%A0%B41400%E5%85%83%23&t=31&band_rank=8&Refer=top",
-          "source": "微博",
-          "ranks": [
-            8,
-            7,
-            9,
-            10,
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[13时50分 ~ 16时59分]"
-        },
-        {
-          "title": "金价飙涨 有新人快被“三金”愁哭了",
-          "url": "https://www.toutiao.com/trending/7586259723437064246/",
-          "source": "今日头条",
-          "ranks": [
-            7,
-            21,
-            19,
-            20,
-            25,
-            26,
-            16,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 27,
-          "time_info": "[00时01分 ~ 08时01分]"
-        },
-        {
-          "title": "机构：金价创历史新高 降息预期与地缘风险成双引擎",
-          "url": "https://flash.jin10.com/detail/20251223020756394800",
-          "source": "金十数据",
-          "ranks": [
-            9,
-            19,
-            22,
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[02时56分 ~ 04时42分]"
-        },
-        {
-          "title": "金价逐步朝4500美元迈进，分析师：市场逐渐适应金价高涨",
-          "url": "https://flash.jin10.com/detail/20251223175214274800",
-          "source": "金十数据",
-          "ranks": [
-            3,
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时58分 ~ 18时51分]"
-        },
-        {
-          "title": "2025年黄金年终盘点：宏观环境一变再变 却全是金价上涨理由",
-          "url": "https://www.cls.cn/detail/2237629",
-          "source": "财联社热门",
-          "ranks": [
-            13,
-            12,
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[17时48分 ~ 18时59分]"
-        },
-        {
-          "title": "金价银价同日创新高",
-          "url": "https://www.baidu.com/s?wd=%E9%87%91%E4%BB%B7%E9%93%B6%E4%BB%B7%E5%90%8C%E6%97%A5%E5%88%9B%E6%96%B0%E9%AB%98",
-          "source": "百度热搜",
-          "ranks": [
-            26,
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[15时44分 ~ 16时01分]"
-        },
-        {
-          "title": "金十图示：2025年12月23日（周二）上海金午盘价为1007.57元/克，较国际金价(1010.96元/克)，低3.39元/克",
-          "url": "https://flash.jin10.com/detail/20251223150220834800",
-          "source": "金十数据",
-          "ranks": [
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "15时44分"
-        }
-      ]
-    },
-    {
       "keyword_group": "美元",
       "match_count": 5,
       "titles": [
@@ -1577,8 +1603,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 42,
-          "time_info": "[01时40分 ~ 18时59分]"
+          "appearance_count": 43,
+          "time_info": "[01时40分 ~ 19时34分]"
         },
         {
           "title": "第一太阳能涨7.1%，创2024年6月份以来盘中新高，投资者关注谷歌母公司Alphabet达成的清洁能源交易。",
