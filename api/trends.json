@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-24T05:59:17.712359+08:00",
-  "total_titles_processed": 580,
+  "generated_at": "2025-12-24T06:41:48.372052+08:00",
+  "total_titles_processed": 601,
   "failed_sources": [],
   "trends": [
     {
@@ -17,8 +17,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 20,
-          "time_info": "[00时55分 ~ 05时59分]"
+          "appearance_count": 21,
+          "time_info": "[00时55分 ~ 06时41分]"
         },
         {
           "title": "泰国外长：上次停火谈判太仓促，就为了给特朗普面子",
@@ -28,8 +28,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 20,
-          "time_info": "[00时55分 ~ 05时59分]"
+          "appearance_count": 21,
+          "time_info": "[00时55分 ~ 06时41分]"
         },
         {
           "title": "布林肯为何对特朗普发出严厉警告",
@@ -39,11 +39,12 @@
             27,
             13,
             9,
-            14
+            14,
+            10
           ],
           "is_new": false,
-          "appearance_count": 20,
-          "time_info": "[00时55分 ~ 05时59分]"
+          "appearance_count": 21,
+          "time_info": "[00时55分 ~ 06时41分]"
         },
         {
           "title": "特朗普又自恋,新战舰用自己名",
@@ -53,8 +54,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 20,
-          "time_info": "[00时55分 ~ 05时59分]"
+          "appearance_count": 21,
+          "time_info": "[00时55分 ~ 06时41分]"
         },
         {
           "title": "特朗普将建特朗普级新型战舰",
@@ -110,8 +111,8 @@
             22
           ],
           "is_new": false,
-          "appearance_count": 20,
-          "time_info": "[00时55分 ~ 05时59分]"
+          "appearance_count": 21,
+          "time_info": "[00时55分 ~ 06时41分]"
         },
         {
           "title": "美国最高法院拒绝允许美国总统特朗普向芝加哥地区部署国民警卫队。",
@@ -162,17 +163,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[01时41分 ~ 01时53分]"
-        },
-        {
-          "title": "美国法官驳回了特朗普政府针对纽约州法律的诉讼，特朗普政府称该法律阻碍了移民执法。",
-          "url": "https://flash.jin10.com/detail/20251224053558726800",
-          "source": "金十数据",
-          "ranks": [
-            3
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时59分"
         },
         {
           "title": "美国财长贝森特谈论所谓的“特朗普主导的”经济“激增”：未来数月，大额支票将与招聘同时出现。",
@@ -255,11 +245,24 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             7,
-            13
+            13,
+            21
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[05时35分 ~ 05时59分]"
+          "appearance_count": 5,
+          "time_info": "[05时35分 ~ 06时41分]"
+        },
+        {
+          "title": "美国法官驳回了特朗普政府针对纽约州法律的诉讼，特朗普政府称该法律阻碍了移民执法。",
+          "url": "https://flash.jin10.com/detail/20251224053558726800",
+          "source": "金十数据",
+          "ranks": [
+            3,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时59分 ~ 06时41分]"
         },
         {
           "title": "美国议员提起诉讼，指控特朗普擅自变更肯尼迪中心的做法违规",
@@ -367,7 +370,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 8,
+      "match_count": 10,
       "titles": [
         {
           "title": "强劲GDP打击降息预期，美股低开，金银铜再创新高，伦铜突破1.2万美元，日元两日反弹",
@@ -387,22 +390,12 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             3,
-            9
+            9,
+            17
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[05时35分 ~ 05时59分]"
-        },
-        {
-          "title": "（美股）费城金银指数收涨0.51%，报360.47点，美股早盘出现V形反转。 （全球时段）纽约证交所ARCA金矿开采商指数收涨0.23%，报2555.31点，美股（早盘）时段出现V形反转。",
-          "url": "https://wallstreetcn.com/livenews/3025783",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时59分"
+          "appearance_count": 5,
+          "time_info": "[05时35分 ~ 06时41分]"
         },
         {
           "title": "金十图示：2025年12月23日（周二）美股热门股票行情一览（美股盘中）",
@@ -414,6 +407,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时00分"
+        },
+        {
+          "title": "UiPath美股盘后涨5.4%。",
+          "url": "https://wallstreetcn.com/livenews/3025791",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时41分"
         },
         {
           "title": "金十图示：2025年12月23日（周二）热门中概股行情一览（美股盘中）",
@@ -432,11 +436,12 @@
           "source": "金十数据",
           "ranks": [
             7,
-            20
+            20,
+            24
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[05时35分 ~ 05时59分]"
+          "appearance_count": 5,
+          "time_info": "[05时35分 ~ 06时41分]"
         },
         {
           "title": "金十图示：2025年12月23日（周二）热门中概股行情一览（美股收盘）",
@@ -444,11 +449,12 @@
           "source": "金十数据",
           "ranks": [
             8,
-            21
+            21,
+            25
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[05时35分 ~ 05时59分]"
+          "appearance_count": 5,
+          "time_info": "[05时35分 ~ 06时41分]"
         },
         {
           "title": "美股收盘：三大股指小幅收涨 标普500创收盘新高",
@@ -456,11 +462,35 @@
           "source": "金十数据",
           "ranks": [
             13,
-            26
+            26,
+            30
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[05时35分 ~ 05时59分]"
+          "appearance_count": 5,
+          "time_info": "[05时35分 ~ 06时41分]"
+        },
+        {
+          "title": "（美股）费城金银指数收涨0.51%，报360.47点，美股早盘出现V形反转。 （全球时段）纽约证交所ARCA金矿开采商指数收涨0.23%，报2555.31点，美股（早盘）时段出现V形反转。",
+          "url": "https://wallstreetcn.com/livenews/3025783",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时59分 ~ 06时41分]"
+        },
+        {
+          "title": "周二（12月23日）纽约尾盘，CME比特币期货BTC主力合约较周一纽约尾盘跌0.75%，报87730美元。 CME以太币期货DCR主力合约跌0.55%，报2970.50美元。 美股加密货币与加密货币关联指数跌2.46%，报62.26点。 最近24小时，MarketVector数字资产100小盘指数跌1.62%，暂报3522.18点。 MarketVector数字资产100指数跌0.79%，暂报17965.86点。",
+          "url": "https://wallstreetcn.com/livenews/3025785",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时41分"
         }
       ]
     },
@@ -536,8 +566,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 20,
-          "time_info": "[00时55分 ~ 05时59分]"
+          "appearance_count": 21,
+          "time_info": "[00时55分 ~ 06时41分]"
         },
         {
           "title": "黄金再创新高, 现货黄金首次站上 4400 美元 / 盎司，今年以来累涨近 68%，金价后续怎么走？",
@@ -547,8 +577,8 @@
             16
           ],
           "is_new": false,
-          "appearance_count": 20,
-          "time_info": "[00时55分 ~ 05时59分]"
+          "appearance_count": 21,
+          "time_info": "[00时55分 ~ 06时41分]"
         },
         {
           "title": "金价",
@@ -558,11 +588,12 @@
             28,
             29,
             22,
-            26
+            26,
+            27
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时55分 ~ 05时59分]"
+          "appearance_count": 10,
+          "time_info": "[00时55分 ~ 06时41分]"
         }
       ]
     },
@@ -576,11 +607,12 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             8,
-            14
+            14,
+            22
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[05时35分 ~ 05时59分]"
+          "appearance_count": 5,
+          "time_info": "[05时35分 ~ 06时41分]"
         },
         {
           "title": "标普500指数初步收涨0.4%，电信板块涨1%，科技板块涨0.9%，能源板块涨0.6%，日用品板块跌0.5%。 纳斯达克100指数初步收涨0.5%，成分股中，迈威尔科技涨3.4%，英伟达涨2.8%，博通涨2.2%，亚马逊、谷歌A、华纳兄弟探索、谷歌A、谷歌C、Ferrovial、核电股CEG等至少涨约1%，星巴克跌2.7%，Idexx跌3.1%，Strategy（MSTR）跌3.9%。 摩根大通初步收涨0.9%，与英伟达、亚马逊领跑道指成分股，沃尔玛、麦当劳跌超1.5%。",
