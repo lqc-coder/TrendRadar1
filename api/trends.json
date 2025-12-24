@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-25T05:53:28.339258+08:00",
-  "total_titles_processed": 502,
+  "generated_at": "2025-12-25T06:00:12.464515+08:00",
+  "total_titles_processed": 503,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 26,
-          "time_info": "[00时52分 ~ 05时53分]"
+          "appearance_count": 28,
+          "time_info": "[00时52分 ~ 06时00分]"
         },
         {
           "title": "特朗普提必要条件：敢降息，“不同意永远不可能成为美联储主席”",
@@ -41,19 +41,8 @@
             27
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[02时56分 ~ 05时53分]"
-        },
-        {
-          "title": "特朗普要建“特朗普级”战列舰，称战力爆棚，专家打出多个问号",
-          "url": "https://news.ifeng.com/c/8pLfVGV6nLv",
-          "source": "凤凰网",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 26,
-          "time_info": "[00时52分 ~ 05时53分]"
+          "appearance_count": 13,
+          "time_info": "[02时56分 ~ 06时00分]"
         },
         {
           "title": "特朗普前政府效率部DOGE顾问马斯克：AI可帮助美国GDP五年实现三位数增长",
@@ -65,8 +54,19 @@
             20
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[03时43分 ~ 05时53分]"
+          "appearance_count": 10,
+          "time_info": "[03时43分 ~ 06时00分]"
+        },
+        {
+          "title": "特朗普要建“特朗普级”战列舰，称战力爆棚，专家打出多个问号",
+          "url": "https://news.ifeng.com/c/8pLfVGV6nLv",
+          "source": "凤凰网",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 28,
+          "time_info": "[00时52分 ~ 06时00分]"
         },
         {
           "title": "特朗普要“确保太空优势”，美国“太空股”会成为下一个“量子科技”吗？",
@@ -78,8 +78,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 26,
-          "time_info": "[00时52分 ~ 05时53分]"
+          "appearance_count": 28,
+          "time_info": "[00时52分 ~ 06时00分]"
         },
         {
           "title": "特朗普回应克林顿大尺度照被公布",
@@ -94,8 +94,8 @@
             15
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[03时30分 ~ 05时53分]"
+          "appearance_count": 17,
+          "time_info": "[03时30分 ~ 06时00分]"
         },
         {
           "title": "特朗普为何强调新战列舰不针对中国",
@@ -165,8 +165,8 @@
             24
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[03时31分 ~ 05时53分]"
+          "appearance_count": 11,
+          "time_info": "[03时31分 ~ 06时00分]"
         },
         {
           "title": "美股七巨头收盘播报｜苹果收涨超0.5%，英伟达跌超0.3%",
@@ -180,8 +180,8 @@
             29
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[02时56分 ~ 05时53分]"
+          "appearance_count": 13,
+          "time_info": "[02时56分 ~ 06时00分]"
         },
         {
           "title": "金十图示：2025年12月24日（周三）美股热门股票行情一览（美股收盘）",
@@ -238,8 +238,8 @@
             14
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[05时34分 ~ 05时53分]"
+          "appearance_count": 4,
+          "time_info": "[05时34分 ~ 06时00分]"
         },
         {
           "title": "中概股金山云美股盘初跌1.3%，世纪互联、名创优品、万国数据、阿里巴巴跌0.81%-0.64%，小鹏跌0.58%，百度跌0.19%。 携程则涨0.61%，小马智行涨0.63%，阿特斯太阳能反弹2.59%，再鼎医药涨6.58%。",
@@ -279,8 +279,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[05时34分 ~ 05时53分]"
+          "appearance_count": 4,
+          "time_info": "[05时34分 ~ 06时00分]"
         },
         {
           "title": "圣诞前夕交易清淡，标普500指数创新高，英特尔跌近4%，金属涨势暂缓，美元连跌三日",
@@ -301,8 +301,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时46分 ~ 05时53分]"
+          "appearance_count": 3,
+          "time_info": "[05时46分 ~ 06时00分]"
         }
       ]
     },
@@ -363,8 +363,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 26,
-          "time_info": "[00时52分 ~ 05时53分]"
+          "appearance_count": 28,
+          "time_info": "[00时52分 ~ 06时00分]"
         },
         {
           "title": "美债收益率跌约3个基点，北美时段打破沉寂并逐步走低",
@@ -374,8 +374,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时46分 ~ 05时53分]"
+          "appearance_count": 3,
+          "time_info": "[05时46分 ~ 06时00分]"
         }
       ]
     }
