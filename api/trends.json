@@ -1,5 +1,5 @@
 {
-  "generated_at": "2025-12-25T07:48:09.364379+08:00",
+  "generated_at": "2025-12-25T07:54:34.837209+08:00",
   "total_titles_processed": 585,
   "failed_sources": [],
   "trends": [
@@ -37,6 +37,19 @@
           "time_info": "[02时56分 ~ 06时00分]"
         },
         {
+          "title": "美股收盘：三大指数连涨五日 道指、标普双双收新高",
+          "url": "https://www.cls.cn/detail/2239383",
+          "source": "财联社热门",
+          "ranks": [
+            11,
+            6,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[06时42分 ~ 07时54分]"
+        },
+        {
           "title": "金十图示：2025年12月24日（周三）美股热门股票行情一览（美股收盘）",
           "url": "https://flash.jin10.com/detail/20251225020922155800",
           "source": "金十数据",
@@ -51,19 +64,6 @@
           "is_new": false,
           "appearance_count": 10,
           "time_info": "[02时56分 ~ 05时34分]"
-        },
-        {
-          "title": "美股收盘：三大指数连涨五日 道指、标普双双收新高",
-          "url": "https://www.cls.cn/detail/2239383",
-          "source": "财联社热门",
-          "ranks": [
-            11,
-            6,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[06时42分 ~ 07时48分]"
         },
         {
           "title": "金十图示：2025年12月24日（周三）热门中概股行情一览（美股收盘）",
@@ -118,8 +118,8 @@
             25
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[06时42分 ~ 07时48分]"
+          "appearance_count": 6,
+          "time_info": "[06时42分 ~ 07时54分]"
         },
         {
           "title": "平安夜美股债汇涨，标普新高，黄金失守4500，人民币三连涨，加密货币疲软",
@@ -129,8 +129,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[07时34分 ~ 07时48分]"
+          "appearance_count": 5,
+          "time_info": "[07时34分 ~ 07时54分]"
         },
         {
           "title": "中概股金山云美股盘初跌1.3%，世纪互联、名创优品、万国数据、阿里巴巴跌0.81%-0.64%，小鹏跌0.58%，百度跌0.19%。 携程则涨0.61%，小马智行涨0.63%，阿特斯太阳能反弹2.59%，再鼎医药涨6.58%。",
@@ -169,8 +169,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 36,
-          "time_info": "[00时52分 ~ 07时48分]"
+          "appearance_count": 37,
+          "time_info": "[00时52分 ~ 07时54分]"
         },
         {
           "title": "特朗普提必要条件：敢降息，“不同意永远不可能成为美联储主席”",
@@ -219,8 +219,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 36,
-          "time_info": "[00时52分 ~ 07时48分]"
+          "appearance_count": 37,
+          "time_info": "[00时52分 ~ 07时54分]"
         },
         {
           "title": "特朗普要“确保太空优势”，美国“太空股”会成为下一个“量子科技”吗？",
@@ -232,8 +232,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 36,
-          "time_info": "[00时52分 ~ 07时48分]"
+          "appearance_count": 37,
+          "time_info": "[00时52分 ~ 07时54分]"
         },
         {
           "title": "特朗普回应克林顿大尺度照被公布",
@@ -323,8 +323,8 @@
             25
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[05时34分 ~ 07时48分]"
+          "appearance_count": 10,
+          "time_info": "[05时34分 ~ 07时54分]"
         },
         {
           "title": "周三（12月24日）纽约尾盘，ICE美元指数涨0.01%，报97.949点，日内交投区间为97.749-98.012点，整体呈现出三波V形走势。 彭博美元指数跌0.10%，报1200.68点，日内交投区间为1201.41-1199.07点。",
@@ -409,8 +409,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 36,
-          "time_info": "[00时52分 ~ 07时48分]"
+          "appearance_count": 37,
+          "time_info": "[00时52分 ~ 07时54分]"
         },
         {
           "title": "美债收益率跌约3个基点，北美时段打破沉寂并逐步走低",
@@ -440,8 +440,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[07时35分 ~ 07时48分]"
+          "appearance_count": 3,
+          "time_info": "[07时35分 ~ 07时54分]"
         }
       ]
     }
