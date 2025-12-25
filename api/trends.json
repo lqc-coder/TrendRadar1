@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-26T05:01:06.101362+08:00",
-  "total_titles_processed": 462,
+  "generated_at": "2025-12-26T05:34:37.953592+08:00",
+  "total_titles_processed": 468,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 21,
-          "time_info": "[00时00分 ~ 05时01分]"
+          "appearance_count": 22,
+          "time_info": "[00时00分 ~ 05时34分]"
         },
         {
           "title": "特朗普政府的移民局：要求阿富汗移民在圣诞节及元旦报到",
@@ -29,8 +29,23 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[01时56分 ~ 05时01分]"
+          "appearance_count": 11,
+          "time_info": "[01时56分 ~ 05时34分]"
+        },
+        {
+          "title": "特朗普政府节假日严查阿富汗移民 要求于圣诞节与元旦报到",
+          "url": "https://flash.jin10.com/detail/20251226025244857800",
+          "source": "金十数据",
+          "ranks": [
+            2,
+            3,
+            5,
+            9,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[03时31分 ~ 05时34分]"
         },
         {
           "title": "乌克兰总统泽连斯基：与美国特使威特科夫和特朗普高级顾问库什纳通话约一小时。",
@@ -42,25 +57,12 @@
             12,
             13,
             15,
-            19
+            19,
+            20
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[01时43分 ~ 05时01分]"
-        },
-        {
-          "title": "特朗普政府节假日严查阿富汗移民 要求于圣诞节与元旦报到",
-          "url": "https://flash.jin10.com/detail/20251226025244857800",
-          "source": "金十数据",
-          "ranks": [
-            2,
-            3,
-            5,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[03时31分 ~ 05时01分]"
+          "appearance_count": 13,
+          "time_info": "[01时43分 ~ 05时34分]"
         },
         {
           "title": "乌克兰总统泽连斯基：今天与美国特使威特科夫、特朗普高级顾问库什纳进行了通话。",
@@ -94,8 +96,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[02时55分 ~ 05时01分]"
+          "appearance_count": 10,
+          "time_info": "[02时55分 ~ 05时34分]"
         },
         {
           "title": "伊朗天然气停供致伊拉克发电量损失约4500兆瓦",
@@ -106,11 +108,12 @@
             3,
             4,
             6,
-            10
+            10,
+            11
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[02时55分 ~ 05时01分]"
+          "appearance_count": 10,
+          "time_info": "[02时55分 ~ 05时34分]"
         },
         {
           "title": "以军称在黎巴嫩打死一名伊朗“圣城旅”关键武装人员",
@@ -157,8 +160,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 21,
-          "time_info": "[00时00分 ~ 05时01分]"
+          "appearance_count": 22,
+          "time_info": "[00时00分 ~ 05时34分]"
         },
         {
           "title": "加拿大皇家银行BlueBay资管公司首席投资官马克·道丁：新任美联储主席不会简单迎合特朗普，金价或难重现2025年强劲涨幅。（每经网）",
@@ -191,8 +194,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 21,
-          "time_info": "[00时00分 ~ 05时01分]"
+          "appearance_count": 22,
+          "time_info": "[00时00分 ~ 05时34分]"
         }
       ]
     },
@@ -209,8 +212,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 21,
-          "time_info": "[00时00分 ~ 05时01分]"
+          "appearance_count": 22,
+          "time_info": "[00时00分 ~ 05时34分]"
         }
       ]
     },
@@ -227,8 +230,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 21,
-          "time_info": "[00时00分 ~ 05时01分]"
+          "appearance_count": 22,
+          "time_info": "[00时00分 ~ 05时34分]"
         }
       ]
     }
