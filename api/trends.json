@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-12-25T15:56:40.685899+08:00",
-  "total_titles_processed": 1191,
+  "generated_at": "2025-12-25T16:55:16.832561+08:00",
+  "total_titles_processed": 1269,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 13,
+      "match_count": 14,
       "titles": [
         {
           "title": "特朗普发小作文称《怦然心动》导演“精神错乱”招批评",
@@ -141,6 +141,17 @@
           "time_info": "[00时52分 ~ 03时02分]"
         },
         {
+          "title": "高市早苗：想尽快与特朗普会晤",
+          "url": "https://news.ifeng.com/c/8pNHf17pGd9",
+          "source": "凤凰网",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时54分 ~ 16时55分]"
+        },
+        {
           "title": "学者：特朗普锚定“第四处战场”",
           "url": "https://www.toutiao.com/trending/7587309584843279899/",
           "source": "今日头条",
@@ -191,8 +202,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 19,
-          "time_info": "[07时34分 ~ 15时56分]"
+          "appearance_count": 21,
+          "time_info": "[07时34分 ~ 16时55分]"
         },
         {
           "title": "美股收盘：三大指数连涨五日 道指、标普双双收新高",
@@ -254,6 +265,17 @@
           "time_info": "[02时56分 ~ 05时34分]"
         },
         {
+          "title": "英特尔美股盘前大跌5%，报道：英伟达暂缓推进测试英特尔18A工艺",
+          "url": "https://wallstreetcn.com/articles/3762016",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[11时55分 ~ 16时55分]"
+        },
+        {
           "title": "金十图示：2025年12月24日（周三）热门中概股行情一览（美股收盘）",
           "url": "https://flash.jin10.com/detail/20251225020759823800",
           "source": "金十数据",
@@ -282,17 +304,6 @@
           "is_new": false,
           "appearance_count": 9,
           "time_info": "[02时56分 ~ 05时00分]"
-        },
-        {
-          "title": "英特尔美股盘前大跌5%，报道：英伟达暂缓推进测试英特尔18A工艺",
-          "url": "https://wallstreetcn.com/articles/3762016",
-          "source": "华尔街见闻",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[11时55分 ~ 15时56分]"
         },
         {
           "title": "（美股）费城金银指数收跌0.68%，报358.01点，脱离收盘历史最高位，连续两个交易日撤离盘中历史最高位。 （全球时段）纽约证交所ARCA金矿开采商指数收跌0.37%，报2545.80点。",
