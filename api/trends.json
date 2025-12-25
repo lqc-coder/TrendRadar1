@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-12-25T22:59:48.907274+08:00",
-  "total_titles_processed": 1747,
+  "generated_at": "2025-12-25T23:45:40.300543+08:00",
+  "total_titles_processed": 1791,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 19,
+      "match_count": 20,
       "titles": [
         {
           "title": "高市早苗：想尽快与特朗普会晤",
@@ -39,8 +39,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[17时45分 ~ 22时59分]"
+          "appearance_count": 14,
+          "time_info": "[17时45分 ~ 23时45分]"
         },
         {
           "title": "特朗普提必要条件：敢降息，“不同意永远不可能成为美联储主席”",
@@ -235,6 +235,17 @@
           "time_info": "[21时50分 ~ 22时02分]"
         },
         {
+          "title": "评论员：特朗普级战舰就是活靶子",
+          "url": "https://www.toutiao.com/trending/7587729668317417014/",
+          "source": "今日头条",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时45分"
+        },
+        {
           "title": "帕劳与特朗普政府签署备忘录，从美国接收75名移民",
           "url": "https://flash.jin10.com/detail/20251225121328471800",
           "source": "金十数据",
@@ -262,8 +273,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 34,
-          "time_info": "[07时34分 ~ 22时59分]"
+          "appearance_count": 35,
+          "time_info": "[07时34分 ~ 23时45分]"
         },
         {
           "title": "美股收盘：三大指数连涨五日 道指、标普双双收新高",
@@ -435,8 +446,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[17时45分 ~ 22时59分]"
+          "appearance_count": 13,
+          "time_info": "[17时45分 ~ 23时45分]"
         },
         {
           "title": "联合国专家谴责美对委的封锁 多家国际机构预计明年金价冲击5000美元 | 环球市场",
@@ -452,17 +463,6 @@
           "time_info": "[11时55分 ~ 13时58分]"
         },
         {
-          "title": "加拿大皇家银行BlueBay资管公司首席投资官马克·道丁：新任美联储主席不会简单迎合特朗普，金价或难重现2025年强劲涨幅。（每经网）",
-          "url": "https://wallstreetcn.com/livenews/3026784",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时59分"
-        },
-        {
           "title": "金十图示：2025年12月25日（周四）上海金午盘价为1002.83元/克，较国际金价(1008.17元/克)，低5.34元/克",
           "url": "https://flash.jin10.com/detail/20251225150449280800",
           "source": "金十数据",
@@ -473,6 +473,18 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[15时39分 ~ 15时56分]"
+        },
+        {
+          "title": "加拿大皇家银行BlueBay资管公司首席投资官马克·道丁：新任美联储主席不会简单迎合特朗普，金价或难重现2025年强劲涨幅。（每经网）",
+          "url": "https://wallstreetcn.com/livenews/3026784",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时59分 ~ 23时45分]"
         },
         {
           "title": "金价狂飙 千元内几乎买不到金饰",
@@ -547,11 +559,52 @@
           "url": "https://flash.jin10.com/detail/20251225221002451800",
           "source": "金十数据",
           "ranks": [
-            6
+            6,
+            16
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[22时47分 ~ 22时59分]"
+          "appearance_count": 3,
+          "time_info": "[22时47分 ~ 23时45分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "谷歌 google gemini",
+      "match_count": 3,
+      "titles": [
+        {
+          "title": "Waymo拟为无人驾驶出租车接入Gemini AI助手",
+          "url": "https://wallstreetcn.com/livenews/3026375",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[07时35分 ~ 08时01分]"
+        },
+        {
+          "title": "英伟达急了？或被谷歌TPU逼到墙角，黄仁勋不惜代价也要“收编”Groq",
+          "url": "https://wallstreetcn.com/articles/3762068",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时45分"
+        },
+        {
+          "title": "微软谷歌开启“抢芯”模式，派员工常驻韩国，拿不到三星、SK海力士芯片就会被解雇",
+          "url": "https://wallstreetcn.com/livenews/3026771",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "22时02分"
         }
       ]
     },
@@ -601,35 +654,6 @@
       ]
     },
     {
-      "keyword_group": "谷歌 google gemini",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "Waymo拟为无人驾驶出租车接入Gemini AI助手",
-          "url": "https://wallstreetcn.com/livenews/3026375",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            5,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[07时35分 ~ 08时01分]"
-        },
-        {
-          "title": "微软谷歌开启“抢芯”模式，派员工常驻韩国，拿不到三星、SK海力士芯片就会被解雇",
-          "url": "https://wallstreetcn.com/livenews/3026771",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "22时02分"
-        }
-      ]
-    },
-    {
       "keyword_group": "美债",
       "match_count": 2,
       "titles": [
@@ -675,8 +699,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[19时36分 ~ 22时59分]"
+          "appearance_count": 8,
+          "time_info": "[19时36分 ~ 23时45分]"
         }
       ]
     }
