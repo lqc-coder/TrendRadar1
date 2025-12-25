@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-25T17:46:14.469945+08:00",
-  "total_titles_processed": 1341,
+  "generated_at": "2025-12-25T17:58:49.262000+08:00",
+  "total_titles_processed": 1370,
   "failed_sources": [],
   "trends": [
     {
@@ -120,8 +120,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[16时54分 ~ 17时46分]"
+          "appearance_count": 5,
+          "time_info": "[16时54分 ~ 17时58分]"
         },
         {
           "title": "美国加州放弃追讨联邦高铁拨款，打算等特朗普下野了再继续推进项目",
@@ -159,8 +159,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时45分 ~ 17时46分]"
+          "appearance_count": 3,
+          "time_info": "[17时45分 ~ 17时58分]"
         },
         {
           "title": "肯尼迪中心冠特朗普名后，年度音乐会取消",
@@ -170,8 +170,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时45分 ~ 17时46分]"
+          "appearance_count": 3,
+          "time_info": "[17时45分 ~ 17时58分]"
         },
         {
           "title": "学者：特朗普锚定“第四处战场”",
@@ -225,8 +225,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 23,
-          "time_info": "[07时34分 ~ 17时46分]"
+          "appearance_count": 24,
+          "time_info": "[07时34分 ~ 17时58分]"
         },
         {
           "title": "美股收盘：三大指数连涨五日 道指、标普双双收新高",
@@ -280,8 +280,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[11时55分 ~ 17时46分]"
+          "appearance_count": 13,
+          "time_info": "[11时55分 ~ 17时58分]"
         },
         {
           "title": "金十图示：2025年12月24日（周三）美股热门股票行情一览（美股收盘）",
@@ -410,6 +410,17 @@
           "time_info": "[15时39分 ~ 15时56分]"
         },
         {
+          "title": "金价、银价、铜价，均创历史新高，发生了什么？后市怎么走？",
+          "url": "https://www.zhihu.com/question/1987171318681068732",
+          "source": "知乎",
+          "ranks": [
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[17时45分 ~ 17时58分]"
+        },
+        {
           "title": "金价狂飙 千元内几乎买不到金饰",
           "url": "https://www.baidu.com/s?wd=%E9%87%91%E4%BB%B7%E7%8B%82%E9%A3%99+%E5%8D%83%E5%85%83%E5%86%85%E5%87%A0%E4%B9%8E%E4%B9%B0%E4%B8%8D%E5%88%B0%E9%87%91%E9%A5%B0",
           "source": "百度热搜",
@@ -420,17 +431,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[11时55分 ~ 13时01分]"
-        },
-        {
-          "title": "金价、银价、铜价，均创历史新高，发生了什么？后市怎么走？",
-          "url": "https://www.zhihu.com/question/1987171318681068732",
-          "source": "知乎",
-          "ranks": [
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时45分 ~ 17时46分]"
         }
       ]
     },
