@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-25T13:50:02.871663+08:00",
-  "total_titles_processed": 975,
+  "generated_at": "2025-12-25T13:58:17.466627+08:00",
+  "total_titles_processed": 985,
   "failed_sources": [],
   "trends": [
     {
@@ -17,8 +17,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[07时34分 ~ 13时50分]"
+          "appearance_count": 13,
+          "time_info": "[07时34分 ~ 13时58分]"
         },
         {
           "title": "美股收盘：三大指数连涨五日 道指、标普双双收新高",
@@ -247,8 +247,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 43,
-          "time_info": "[00时52分 ~ 13时50分]"
+          "appearance_count": 45,
+          "time_info": "[00时52分 ~ 13时58分]"
         },
         {
           "title": "特朗普回应克林顿大尺度照被公布",
@@ -435,8 +435,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[11时55分 ~ 13时50分]"
+          "appearance_count": 7,
+          "time_info": "[11时55分 ~ 13时58分]"
         },
         {
           "title": "金价狂飙 千元内几乎买不到金饰",
