@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-25T18:52:40.169635+08:00",
-  "total_titles_processed": 1451,
+  "generated_at": "2025-12-25T19:01:53.896863+08:00",
+  "total_titles_processed": 1465,
   "failed_sources": [],
   "trends": [
     {
@@ -30,6 +30,18 @@
           "time_info": "[00时52分 ~ 03时57分]"
         },
         {
+          "title": "高市早苗：想尽快与特朗普会晤",
+          "url": "https://news.ifeng.com/c/8pNHf17pGd9",
+          "source": "凤凰网",
+          "ranks": [
+            2,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[16时54分 ~ 19时01分]"
+        },
+        {
           "title": "周三（12月24日），降息赢家指数涨0.60%，报100.35点。 “特朗普关税输家”指数涨0.41%，散户抱团概念股指数/迷因股（meme stock）指数跌0.43%。",
           "url": "https://wallstreetcn.com/livenews/3026317",
           "source": "华尔街见闻-快讯",
@@ -43,18 +55,6 @@
           "is_new": false,
           "appearance_count": 13,
           "time_info": "[02时56分 ~ 06时00分]"
-        },
-        {
-          "title": "高市早苗：想尽快与特朗普会晤",
-          "url": "https://news.ifeng.com/c/8pNHf17pGd9",
-          "source": "凤凰网",
-          "ranks": [
-            2,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[16时54分 ~ 18时52分]"
         },
         {
           "title": "特朗普前政府效率部DOGE顾问马斯克：AI可帮助美国GDP五年实现三位数增长",
@@ -95,6 +95,18 @@
           "time_info": "[00时52分 ~ 13时58分]"
         },
         {
+          "title": "肯尼迪中心冠特朗普名后，年度音乐会取消",
+          "url": "https://v.ifeng.com/c/8pNDMX3vTpu",
+          "source": "凤凰网",
+          "ranks": [
+            4,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[17时45分 ~ 19时01分]"
+        },
+        {
           "title": "特朗普回应克林顿大尺度照被公布",
           "url": "https://www.toutiao.com/trending/7586912730720947748/",
           "source": "今日头条",
@@ -125,16 +137,16 @@
           "time_info": "[01时38分 ~ 07时35分]"
         },
         {
-          "title": "肯尼迪中心冠特朗普名后，年度音乐会取消",
-          "url": "https://v.ifeng.com/c/8pNDMX3vTpu",
-          "source": "凤凰网",
+          "title": "特朗普这一年如何搅乱全球",
+          "url": "https://search.bilibili.com/all?keyword=%E7%89%B9%E6%9C%97%E6%99%AE%E8%BF%99%E4%B8%80%E5%B9%B4%E5%A6%82%E4%BD%95%E6%90%85%E4%B9%B1%E5%85%A8%E7%90%83",
+          "source": "bilibili 热搜",
           "ranks": [
-            4,
-            5
+            3,
+            25
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[17时45分 ~ 18时52分]"
+          "appearance_count": 6,
+          "time_info": "[17时45分 ~ 19时01分]"
         },
         {
           "title": "美国加州放弃追讨联邦高铁拨款，打算等特朗普下野了再继续推进项目",
@@ -165,18 +177,6 @@
           "time_info": "[00时52分 ~ 03时02分]"
         },
         {
-          "title": "特朗普这一年如何搅乱全球",
-          "url": "https://search.bilibili.com/all?keyword=%E7%89%B9%E6%9C%97%E6%99%AE%E8%BF%99%E4%B8%80%E5%B9%B4%E5%A6%82%E4%BD%95%E6%90%85%E4%B9%B1%E5%85%A8%E7%90%83",
-          "source": "bilibili 热搜",
-          "ranks": [
-            3,
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[17时45分 ~ 18时52分]"
-        },
-        {
           "title": "学者：特朗普锚定“第四处战场”",
           "url": "https://www.toutiao.com/trending/7587309584843279899/",
           "source": "今日头条",
@@ -196,8 +196,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时05分 ~ 18时52分]"
+          "appearance_count": 3,
+          "time_info": "[18时05分 ~ 19时01分]"
         },
         {
           "title": "高市早苗为何要赶在特朗普访华前访美",
@@ -240,8 +240,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 26,
-          "time_info": "[07时34分 ~ 18时52分]"
+          "appearance_count": 27,
+          "time_info": "[07时34分 ~ 19时01分]"
         },
         {
           "title": "美股收盘：三大指数连涨五日 道指、标普双双收新高",
@@ -296,8 +296,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[11时55分 ~ 18时52分]"
+          "appearance_count": 16,
+          "time_info": "[11时55分 ~ 19时01分]"
         },
         {
           "title": "金十图示：2025年12月24日（周三）美股热门股票行情一览（美股收盘）",
@@ -434,8 +434,8 @@
             14
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[17时45分 ~ 18时52分]"
+          "appearance_count": 5,
+          "time_info": "[17时45分 ~ 19时01分]"
         },
         {
           "title": "金价狂飙 千元内几乎买不到金饰",
@@ -481,6 +481,17 @@
           "time_info": "[00时52分 ~ 03时02分]"
         },
         {
+          "title": "以色列公民被控为伊朗间谍 曾侦察前总理住所",
+          "url": "https://flash.jin10.com/detail/20251225181314638800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时52分 ~ 19时01分]"
+        },
+        {
           "title": "伊朗在波斯湾查获一艘走私燃料的船只",
           "url": "https://flash.jin10.com/detail/20251225000525824800",
           "source": "金十数据",
@@ -492,17 +503,6 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[00时52分 ~ 02时01分]"
-        },
-        {
-          "title": "以色列公民被控为伊朗间谍 曾侦察前总理住所",
-          "url": "https://flash.jin10.com/detail/20251225181314638800",
-          "source": "金十数据",
-          "ranks": [
-            3
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时52分"
         }
       ]
     },
