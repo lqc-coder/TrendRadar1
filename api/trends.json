@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-25T19:50:55.223893+08:00",
-  "total_titles_processed": 1534,
+  "generated_at": "2025-12-25T19:57:56.579603+08:00",
+  "total_titles_processed": 1541,
   "failed_sources": [],
   "trends": [
     {
@@ -16,8 +16,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[16时54分 ~ 19时50分]"
+          "appearance_count": 11,
+          "time_info": "[16时54分 ~ 19时57分]"
         },
         {
           "title": "特朗普发小作文称《怦然心动》导演“精神错乱”招批评",
@@ -50,8 +50,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[17时45分 ~ 19时50分]"
+          "appearance_count": 9,
+          "time_info": "[17时45分 ~ 19时57分]"
         },
         {
           "title": "周三（12月24日），降息赢家指数涨0.60%，报100.35点。 “特朗普关税输家”指数涨0.41%，散户抱团概念股指数/迷因股（meme stock）指数跌0.43%。",
@@ -240,8 +240,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 29,
-          "time_info": "[07时34分 ~ 19时50分]"
+          "appearance_count": 30,
+          "time_info": "[07时34分 ~ 19时57分]"
         },
         {
           "title": "美股收盘：三大指数连涨五日 道指、标普双双收新高",
@@ -282,8 +282,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 18,
-          "time_info": "[11时55分 ~ 19时50分]"
+          "appearance_count": 19,
+          "time_info": "[11时55分 ~ 19时57分]"
         },
         {
           "title": "美股七巨头收盘播报｜苹果收涨超0.5%，英伟达跌超0.3%",
@@ -402,6 +402,19 @@
       "match_count": 4,
       "titles": [
         {
+          "title": "金价、银价、铜价，均创历史新高，发生了什么？后市怎么走？",
+          "url": "https://www.zhihu.com/question/1987171318681068732",
+          "source": "知乎",
+          "ranks": [
+            17,
+            14,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[17时45分 ~ 19时57分]"
+        },
+        {
           "title": "联合国专家谴责美对委的封锁 多家国际机构预计明年金价冲击5000美元 | 环球市场",
           "url": "https://www.cls.cn/detail/2239423",
           "source": "财联社热门",
@@ -413,19 +426,6 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[11时55分 ~ 13时58分]"
-        },
-        {
-          "title": "金价、银价、铜价，均创历史新高，发生了什么？后市怎么走？",
-          "url": "https://www.zhihu.com/question/1987171318681068732",
-          "source": "知乎",
-          "ranks": [
-            17,
-            14,
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[17时45分 ~ 19时50分]"
         },
         {
           "title": "金十图示：2025年12月25日（周四）上海金午盘价为1002.83元/克，较国际金价(1008.17元/克)，低5.34元/克",
@@ -491,8 +491,8 @@
             17
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[18时52分 ~ 19时50分]"
+          "appearance_count": 5,
+          "time_info": "[18时52分 ~ 19时57分]"
         },
         {
           "title": "伊朗在波斯湾查获一艘走私燃料的船只",
@@ -616,8 +616,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时36分 ~ 19时50分]"
+          "appearance_count": 3,
+          "time_info": "[19时36分 ~ 19时57分]"
         }
       ]
     }
