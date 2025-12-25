@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-12-25T19:57:56.579603+08:00",
-  "total_titles_processed": 1541,
+  "generated_at": "2025-12-25T21:50:35.822278+08:00",
+  "total_titles_processed": 1663,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 17,
+      "match_count": 19,
       "titles": [
         {
           "title": "高市早苗：想尽快与特朗普会晤",
@@ -16,8 +16,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[16时54分 ~ 19时57分]"
+          "appearance_count": 12,
+          "time_info": "[16时54分 ~ 21时50分]"
         },
         {
           "title": "特朗普发小作文称《怦然心动》导演“精神错乱”招批评",
@@ -31,6 +31,18 @@
           "time_info": "[00时52分 ~ 08时01分]"
         },
         {
+          "title": "肯尼迪中心冠特朗普名后，年度音乐会取消",
+          "url": "https://v.ifeng.com/c/8pNDMX3vTpu",
+          "source": "凤凰网",
+          "ranks": [
+            4,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[17时45分 ~ 21时50分]"
+        },
+        {
           "title": "特朗普提必要条件：敢降息，“不同意永远不可能成为美联储主席”",
           "url": "https://wallstreetcn.com/articles/3761946",
           "source": "华尔街见闻",
@@ -40,18 +52,6 @@
           "is_new": false,
           "appearance_count": 17,
           "time_info": "[00时52分 ~ 03时57分]"
-        },
-        {
-          "title": "肯尼迪中心冠特朗普名后，年度音乐会取消",
-          "url": "https://v.ifeng.com/c/8pNDMX3vTpu",
-          "source": "凤凰网",
-          "ranks": [
-            4,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[17时45分 ~ 19时57分]"
         },
         {
           "title": "周三（12月24日），降息赢家指数涨0.60%，报100.35点。 “特朗普关税输家”指数涨0.41%，散户抱团概念股指数/迷因股（meme stock）指数跌0.43%。",
@@ -213,6 +213,28 @@
           "time_info": "[15时39分 ~ 15时56分]"
         },
         {
+          "title": "俄罗斯外交部：我们希望美国总统特朗普的务实与理性有助于在国际法框架内找到解决方案。",
+          "url": "https://flash.jin10.com/detail/20251225202508685800",
+          "source": "金十数据",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时50分"
+        },
+        {
+          "title": "特朗普暴力改建白宫合法吗",
+          "url": "https://search.bilibili.com/all?keyword=%E7%89%B9%E6%9C%97%E6%99%AE%E6%9A%B4%E5%8A%9B%E6%94%B9%E5%BB%BA%E7%99%BD%E5%AE%AB%E5%90%88%E6%B3%95%E5%90%97",
+          "source": "bilibili 热搜",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时50分"
+        },
+        {
           "title": "帕劳与特朗普政府签署备忘录，从美国接收75名移民",
           "url": "https://flash.jin10.com/detail/20251225121328471800",
           "source": "金十数据",
@@ -240,8 +262,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 30,
-          "time_info": "[07时34分 ~ 19时57分]"
+          "appearance_count": 31,
+          "time_info": "[07时34分 ~ 21时50分]"
         },
         {
           "title": "美股收盘：三大指数连涨五日 道指、标普双双收新高",
@@ -408,11 +430,12 @@
           "ranks": [
             17,
             14,
-            13
+            13,
+            11
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[17时45分 ~ 19时57分]"
+          "appearance_count": 9,
+          "time_info": "[17时45分 ~ 21时50分]"
         },
         {
           "title": "联合国专家谴责美对委的封锁 多家国际机构预计明年金价冲击5000美元 | 环球市场",
@@ -613,11 +636,12 @@
           "url": "https://wallstreetcn.com/articles/3762036",
           "source": "华尔街见闻",
           "ranks": [
-            10
+            10,
+            9
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[19时36分 ~ 19时57分]"
+          "appearance_count": 4,
+          "time_info": "[19时36分 ~ 21时50分]"
         }
       ]
     }
