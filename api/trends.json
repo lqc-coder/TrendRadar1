@@ -1,12 +1,24 @@
 {
-  "generated_at": "2025-12-25T19:36:59.137405+08:00",
-  "total_titles_processed": 1512,
+  "generated_at": "2025-12-25T19:50:55.223893+08:00",
+  "total_titles_processed": 1534,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
       "match_count": 17,
       "titles": [
+        {
+          "title": "高市早苗：想尽快与特朗普会晤",
+          "url": "https://news.ifeng.com/c/8pNHf17pGd9",
+          "source": "凤凰网",
+          "ranks": [
+            2,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[16时54分 ~ 19时50分]"
+        },
         {
           "title": "特朗普发小作文称《怦然心动》导演“精神错乱”招批评",
           "url": "https://news.ifeng.com/c/8pLddKy6eAN",
@@ -30,16 +42,16 @@
           "time_info": "[00时52分 ~ 03时57分]"
         },
         {
-          "title": "高市早苗：想尽快与特朗普会晤",
-          "url": "https://news.ifeng.com/c/8pNHf17pGd9",
+          "title": "肯尼迪中心冠特朗普名后，年度音乐会取消",
+          "url": "https://v.ifeng.com/c/8pNDMX3vTpu",
           "source": "凤凰网",
           "ranks": [
-            2,
-            4
+            4,
+            5
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[16时54分 ~ 19时36分]"
+          "appearance_count": 8,
+          "time_info": "[17时45分 ~ 19时50分]"
         },
         {
           "title": "周三（12月24日），降息赢家指数涨0.60%，报100.35点。 “特朗普关税输家”指数涨0.41%，散户抱团概念股指数/迷因股（meme stock）指数跌0.43%。",
@@ -68,18 +80,6 @@
           "is_new": false,
           "appearance_count": 10,
           "time_info": "[03时43分 ~ 06时00分]"
-        },
-        {
-          "title": "肯尼迪中心冠特朗普名后，年度音乐会取消",
-          "url": "https://v.ifeng.com/c/8pNDMX3vTpu",
-          "source": "凤凰网",
-          "ranks": [
-            4,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[17时45分 ~ 19时36分]"
         },
         {
           "title": "特朗普要建“特朗普级”战列舰，称战力爆棚，专家打出多个问号",
@@ -240,8 +240,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 28,
-          "time_info": "[07时34分 ~ 19时36分]"
+          "appearance_count": 29,
+          "time_info": "[07时34分 ~ 19时50分]"
         },
         {
           "title": "美股收盘：三大指数连涨五日 道指、标普双双收新高",
@@ -282,8 +282,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[11时55分 ~ 19时36分]"
+          "appearance_count": 18,
+          "time_info": "[11时55分 ~ 19时50分]"
         },
         {
           "title": "美股七巨头收盘播报｜苹果收涨超0.5%，英伟达跌超0.3%",
@@ -424,8 +424,8 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[17时45分 ~ 19时36分]"
+          "appearance_count": 7,
+          "time_info": "[17时45分 ~ 19时50分]"
         },
         {
           "title": "金十图示：2025年12月25日（周四）上海金午盘价为1002.83元/克，较国际金价(1008.17元/克)，低5.34元/克",
@@ -483,6 +483,18 @@
           "time_info": "[00时52分 ~ 03时02分]"
         },
         {
+          "title": "以色列公民被控为伊朗间谍 曾侦察前总理住所",
+          "url": "https://flash.jin10.com/detail/20251225181314638800",
+          "source": "金十数据",
+          "ranks": [
+            3,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[18时52分 ~ 19时50分]"
+        },
+        {
           "title": "伊朗在波斯湾查获一艘走私燃料的船只",
           "url": "https://flash.jin10.com/detail/20251225000525824800",
           "source": "金十数据",
@@ -494,18 +506,6 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[00时52分 ~ 02时01分]"
-        },
-        {
-          "title": "以色列公民被控为伊朗间谍 曾侦察前总理住所",
-          "url": "https://flash.jin10.com/detail/20251225181314638800",
-          "source": "金十数据",
-          "ranks": [
-            3,
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[18时52分 ~ 19时36分]"
         }
       ]
     },
@@ -615,9 +615,9 @@
           "ranks": [
             10
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时36分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时36分 ~ 19时50分]"
         }
       ]
     }
