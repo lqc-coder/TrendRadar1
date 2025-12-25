@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-25T15:50:04.254963+08:00",
-  "total_titles_processed": 1177,
+  "generated_at": "2025-12-25T15:56:40.685899+08:00",
+  "total_titles_processed": 1191,
   "failed_sources": [],
   "trends": [
     {
@@ -157,11 +157,12 @@
           "source": "今日头条",
           "ranks": [
             25,
-            16
+            16,
+            12
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[15时39分 ~ 15时50分]"
+          "appearance_count": 4,
+          "time_info": "[15时39分 ~ 15时56分]"
         },
         {
           "title": "帕劳与特朗普政府签署备忘录，从美国接收75名移民",
@@ -190,8 +191,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 18,
-          "time_info": "[07时34分 ~ 15时50分]"
+          "appearance_count": 19,
+          "time_info": "[07时34分 ~ 15时56分]"
         },
         {
           "title": "美股收盘：三大指数连涨五日 道指、标普双双收新高",
@@ -283,6 +284,17 @@
           "time_info": "[02时56分 ~ 05时00分]"
         },
         {
+          "title": "英特尔美股盘前大跌5%，报道：英伟达暂缓推进测试英特尔18A工艺",
+          "url": "https://wallstreetcn.com/articles/3762016",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[11时55分 ~ 15时56分]"
+        },
+        {
           "title": "（美股）费城金银指数收跌0.68%，报358.01点，脱离收盘历史最高位，连续两个交易日撤离盘中历史最高位。 （全球时段）纽约证交所ARCA金矿开采商指数收跌0.37%，报2545.80点。",
           "url": "https://wallstreetcn.com/livenews/3026332",
           "source": "华尔街见闻-快讯",
@@ -294,17 +306,6 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[05时34分 ~ 06时59分]"
-        },
-        {
-          "title": "英特尔美股盘前大跌5%，报道：英伟达暂缓推进测试英特尔18A工艺",
-          "url": "https://wallstreetcn.com/articles/3762016",
-          "source": "华尔街见闻",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[11时55分 ~ 15时50分]"
         },
         {
           "title": "周三（12月24日）纽约尾盘，CME比特币期货BTC主力合约较周二纽约尾盘跌0.33%，报87400美元，北京时间22:38曾跌至86380美元刷新日低。 CME以太币期货DCR主力合约跌0.99%，报2942.50美元，22:38也曾刷新日低至2886.50美元。 美股加密货币与加密货币关联指数涨0.14%，报62.35点。 最近24小时，MarketVector数字资产100小盘指数跌0.37%，暂报3509.62点，整体呈现出V形走势。 MarketVector数字资产100小盘指数跌0.24%，暂报17923.99点。",
@@ -370,8 +371,8 @@
             14
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[15时39分 ~ 15时50分]"
+          "appearance_count": 3,
+          "time_info": "[15时39分 ~ 15时56分]"
         },
         {
           "title": "金价狂飙 千元内几乎买不到金饰",
