@@ -1,5 +1,5 @@
 {
-  "generated_at": "2025-12-26T07:54:36.031388+08:00",
+  "generated_at": "2025-12-26T08:01:41.288341+08:00",
   "total_titles_processed": 594,
   "failed_sources": [],
   "trends": [
@@ -97,8 +97,8 @@
             15
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[07时35分 ~ 07时54分]"
+          "appearance_count": 4,
+          "time_info": "[07时35分 ~ 08时01分]"
         },
         {
           "title": "美国总统特朗普：今晚，美国对尼日利亚西北部的ISIS恐怖分子发动了强大而致命的打击。",
@@ -109,8 +109,8 @@
             16
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[07时35分 ~ 07时54分]"
+          "appearance_count": 4,
+          "time_info": "[07时35分 ~ 08时01分]"
         },
         {
           "title": "特朗普：美国对尼日利亚境内的伊斯兰国恐怖分子发动致命打击",
@@ -122,8 +122,8 @@
             16
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[07时35分 ~ 07时54分]"
+          "appearance_count": 4,
+          "time_info": "[07时35分 ~ 08时01分]"
         },
         {
           "title": "美媒：为试图减少对中国供应链依赖，特朗普政府推动补贴电池产业",
@@ -134,8 +134,8 @@
             22
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[07时35分 ~ 07时54分]"
+          "appearance_count": 4,
+          "time_info": "[07时35分 ~ 08时01分]"
         },
         {
           "title": "专家：特朗普或在2026“压榨”美联储",
@@ -144,9 +144,9 @@
           "ranks": [
             23
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "07时54分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[07时54分 ~ 08时01分]"
         }
       ]
     },
@@ -237,8 +237,8 @@
             18
           ],
           "is_new": false,
-          "appearance_count": 34,
-          "time_info": "[00时00分 ~ 07时54分]"
+          "appearance_count": 35,
+          "time_info": "[00时00分 ~ 08时01分]"
         },
         {
           "title": "加拿大皇家银行BlueBay资管公司首席投资官马克·道丁：新任美联储主席不会简单迎合特朗普，金价或难重现2025年强劲涨幅。（每经网）",
@@ -272,8 +272,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 34,
-          "time_info": "[00时00分 ~ 07时54分]"
+          "appearance_count": 35,
+          "time_info": "[00时00分 ~ 08时01分]"
         }
       ]
     },
@@ -290,8 +290,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 34,
-          "time_info": "[00时00分 ~ 07时54分]"
+          "appearance_count": 35,
+          "time_info": "[00时00分 ~ 08时01分]"
         }
       ]
     },
