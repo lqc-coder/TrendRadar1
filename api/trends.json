@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-12-26T12:58:17.508850+08:00",
-  "total_titles_processed": 890,
+  "generated_at": "2025-12-26T13:45:11.658523+08:00",
+  "total_titles_processed": 952,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 13,
+      "match_count": 14,
       "titles": [
         {
           "title": "肯尼迪中心冠特朗普名后，年度音乐会取消",
@@ -89,6 +89,19 @@
           "time_info": "[00时52分 ~ 04时41分]"
         },
         {
+          "title": "特朗普圣诞夜动手！美国空袭尼日利亚，目标直指石油和稀土？",
+          "url": "https://wallstreetcn.com/articles/3762107",
+          "source": "华尔街见闻",
+          "ranks": [
+            6,
+            4,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[11时53分 ~ 13时45分]"
+        },
+        {
           "title": "美国总统特朗普：战争部执行了无数次完美打击。",
           "url": "https://flash.jin10.com/detail/20251226070310001800",
           "source": "金十数据",
@@ -113,16 +126,15 @@
           "time_info": "[07时35分 ~ 08时01分]"
         },
         {
-          "title": "特朗普圣诞夜动手！美国空袭尼日利亚，目标直指石油和稀土？",
-          "url": "https://wallstreetcn.com/articles/3762107",
-          "source": "华尔街见闻",
+          "title": "特朗普官宣“黄金舰队”计划：真不是冲着中国，两国关系可好了",
+          "url": "https://news.ifeng.com/c/8pOSTawSWI3",
+          "source": "凤凰网",
           "ranks": [
-            6,
-            4
+            6
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[11时53分 ~ 12时58分]"
+          "appearance_count": 5,
+          "time_info": "[11时53分 ~ 13时45分]"
         },
         {
           "title": "特朗普：美国对尼日利亚境内的伊斯兰国恐怖分子发动致命打击",
@@ -150,17 +162,6 @@
           "time_info": "[07时35分 ~ 08时01分]"
         },
         {
-          "title": "特朗普官宣“黄金舰队”计划：真不是冲着中国，两国关系可好了",
-          "url": "https://news.ifeng.com/c/8pOSTawSWI3",
-          "source": "凤凰网",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[11时53分 ~ 12时58分]"
-        },
-        {
           "title": "专家：特朗普或在2026“压榨”美联储",
           "url": "https://www.toutiao.com/trending/7587727738132270635/",
           "source": "今日头条",
@@ -170,6 +171,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[07时54分 ~ 08时01分]"
+        },
+        {
+          "title": "欧盟竞争事务专员Teresa Ribera表示，欧洲必须更加有力地捍卫其监管体系，才能保持全球竞争力。她呼吁抵制美国总统特朗普以及那些在欧盟内进行游说要求改革的人所施加的压力。",
+          "url": "https://flash.jin10.com/detail/20251226130524809800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时45分"
         },
         {
           "title": "金银亚盘暴力拉升，现货白银一度上破75美元/盎司；特朗普宣称美军打击尼日利亚ISIS恐怖分子，此前曾警告美国将“火力全开”进入尼日利亚……后市情绪如何？欢迎前往“数据库-嘉盛市场晴雨表”查看并订阅（数据每10分钟更新1次）",
@@ -230,8 +242,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[11时53分 ~ 12时58分]"
+          "appearance_count": 5,
+          "time_info": "[11时53分 ~ 13时45分]"
         },
         {
           "title": "铂金价格飙升至每盎司2390美元以上，创历史新高。",
@@ -252,7 +264,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时58分"
         }
@@ -350,7 +362,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时58分"
         }
@@ -371,8 +383,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 38,
-          "time_info": "[00时00分 ~ 12时58分]"
+          "appearance_count": 40,
+          "time_info": "[00时00分 ~ 13时45分]"
         }
       ]
     },
