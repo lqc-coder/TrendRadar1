@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-26T13:55:22.258043+08:00",
-  "total_titles_processed": 971,
+  "generated_at": "2025-12-26T14:01:43.893395+08:00",
+  "total_titles_processed": 982,
   "failed_sources": [],
   "trends": [
     {
@@ -73,6 +73,19 @@
           "time_info": "[01时43分 ~ 07时00分]"
         },
         {
+          "title": "特朗普圣诞夜动手！美国空袭尼日利亚，目标直指石油和稀土？",
+          "url": "https://wallstreetcn.com/articles/3762107",
+          "source": "华尔街见闻",
+          "ranks": [
+            6,
+            4,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[11时53分 ~ 14时01分]"
+        },
+        {
           "title": "乌克兰总统泽连斯基：今天与美国特使威特科夫、特朗普高级顾问库什纳进行了通话。",
           "url": "https://flash.jin10.com/detail/20251226001306612800",
           "source": "金十数据",
@@ -89,19 +102,6 @@
           "time_info": "[00时52分 ~ 04时41分]"
         },
         {
-          "title": "特朗普圣诞夜动手！美国空袭尼日利亚，目标直指石油和稀土？",
-          "url": "https://wallstreetcn.com/articles/3762107",
-          "source": "华尔街见闻",
-          "ranks": [
-            6,
-            4,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[11时53分 ~ 13时55分]"
-        },
-        {
           "title": "特朗普官宣“黄金舰队”计划：真不是冲着中国，两国关系可好了",
           "url": "https://news.ifeng.com/c/8pOSTawSWI3",
           "source": "凤凰网",
@@ -109,8 +109,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[11时53分 ~ 13时55分]"
+          "appearance_count": 7,
+          "time_info": "[11时53分 ~ 14时01分]"
         },
         {
           "title": "美国总统特朗普：战争部执行了无数次完美打击。",
@@ -170,8 +170,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时45分 ~ 13时55分]"
+          "appearance_count": 3,
+          "time_info": "[13时45分 ~ 14时01分]"
         },
         {
           "title": "专家：特朗普或在2026“压榨”美联储",
@@ -243,8 +243,19 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[11时53分 ~ 13时55分]"
+          "appearance_count": 7,
+          "time_info": "[11时53分 ~ 14时01分]"
+        },
+        {
+          "title": "金价疯涨一年突破4500美元，银行理财相关产品却在大幅收缩，头部公司二元看涨策略全面退场",
+          "url": "https://www.cls.cn/detail/2240558",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时55分 ~ 14时01分]"
         },
         {
           "title": "铂金价格飙升至每盎司2390美元以上，创历史新高。",
@@ -257,17 +268,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[11时53分 ~ 12时58分]"
-        },
-        {
-          "title": "金价疯涨一年突破4500美元，银行理财相关产品却在大幅收缩，头部公司二元看涨策略全面退场",
-          "url": "https://www.cls.cn/detail/2240558",
-          "source": "财联社热门",
-          "ranks": [
-            13
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时55分"
         },
         {
           "title": "铂金价格创纪录新高，因欧盟拟撤销燃油车禁售令",
@@ -395,8 +395,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 41,
-          "time_info": "[00时00分 ~ 13时55分]"
+          "appearance_count": 42,
+          "time_info": "[00时00分 ~ 14时01分]"
         }
       ]
     },
