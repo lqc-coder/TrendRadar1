@@ -1,5 +1,5 @@
 {
-  "generated_at": "2025-12-27T17:55:22.220564+08:00",
+  "generated_at": "2025-12-27T18:01:33.872785+08:00",
   "total_titles_processed": 1139,
   "failed_sources": [],
   "trends": [
@@ -51,8 +51,8 @@
             22
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[11时48分 ~ 17时55分]"
+          "appearance_count": 16,
+          "time_info": "[11时48分 ~ 18时01分]"
         },
         {
           "title": "美国参议员们呼吁特朗普政府暂停提高国家公园门票价格",
@@ -66,8 +66,8 @@
             28
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[14时58分 ~ 17时55分]"
+          "appearance_count": 11,
+          "time_info": "[14时58分 ~ 18时01分]"
         },
         {
           "title": "欧盟委员会主席冯德莱恩将于周六参加与乌克兰总统泽连斯基、美国总统特朗普及其他欧盟领导人举行的通话。",
@@ -142,6 +142,18 @@
           "time_info": "[12时56分 ~ 15时58分]"
         },
         {
+          "title": "日本给特朗普的5500亿“大礼包”第一笔要落地了，财务省拨460亿支持投资及核电",
+          "url": "https://wallstreetcn.com/articles/3762159",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[15时33分 ~ 18时01分]"
+        },
+        {
           "title": "特朗普：未经我批准 泽连斯基一无所有",
           "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE%EF%BC%9A%E6%9C%AA%E7%BB%8F%E6%88%91%E6%89%B9%E5%87%86+%E6%B3%BD%E8%BF%9E%E6%96%AF%E5%9F%BA%E4%B8%80%E6%97%A0%E6%89%80%E6%9C%89",
           "source": "百度热搜",
@@ -153,8 +165,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[14时58分 ~ 17时55分]"
+          "appearance_count": 14,
+          "time_info": "[14时58分 ~ 18时01分]"
         },
         {
           "title": "周五（12月26日），降息赢家指数涨0.03%，报100.38点，本周累计上涨0.45%。 “特朗普关税输家”指数涨0.48%，报112.72点，本周累跌跌0.18%。 散户抱团概念股指数/迷因股（meme stock）指数跌1.85%，报16.03点，本周累跌4.89%。",
@@ -172,16 +184,15 @@
           "time_info": "[05时52分 ~ 08时01分]"
         },
         {
-          "title": "日本给特朗普的5500亿“大礼包”第一笔要落地了，财务省拨460亿支持投资及核电",
-          "url": "https://wallstreetcn.com/articles/3762159",
-          "source": "华尔街见闻",
+          "title": "特朗普回应泽连斯基：没我，你啥都不是",
+          "url": "https://news.ifeng.com/c/8pQGvvrjsvt",
+          "source": "凤凰网",
           "ranks": [
-            10,
-            9
+            6
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[15时33分 ~ 17时55分]"
+          "appearance_count": 8,
+          "time_info": "[16时51分 ~ 18时01分]"
         },
         {
           "title": "特朗普：美国目前没有承认索马里兰的计划",
@@ -196,17 +207,6 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[14时58分 ~ 17时01分]"
-        },
-        {
-          "title": "特朗普回应泽连斯基：没我，你啥都不是",
-          "url": "https://news.ifeng.com/c/8pQGvvrjsvt",
-          "source": "凤凰网",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[16时51分 ~ 17时55分]"
         },
         {
           "title": "根据白宫的指引，特朗普将于当地时间周日下午3点在海湖庄园会见泽连斯基。",
@@ -284,8 +284,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 20,
-          "time_info": "[11时48分 ~ 17时55分]"
+          "appearance_count": 21,
+          "time_info": "[11时48分 ~ 18时01分]"
         },
         {
           "title": "霸王茶姬美股跌超 14%，创上市以来新低，其咖啡因争议影响有多大？现在做什么才能挽回声誉？",
@@ -296,8 +296,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 21,
-          "time_info": "[08时01分 ~ 17时55分]"
+          "appearance_count": 22,
+          "time_info": "[08时01分 ~ 18时01分]"
         },
         {
           "title": "美股指开盘涨跌不一，霸王茶姬股价创新低，金属再度狂飙，金银铜齐创新高，沪铜首次站上十万关口",
@@ -369,8 +369,8 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 40,
-          "time_info": "[00时48分 ~ 14时58分]"
+          "appearance_count": 41,
+          "time_info": "[00时48分 ~ 18时01分]"
         },
         {
           "title": "美股收盘：三大指数集体微跌 金银铜铝板块涨幅居前",
@@ -379,11 +379,12 @@
           "ranks": [
             9,
             10,
-            12
+            12,
+            11
           ],
           "is_new": false,
-          "appearance_count": 20,
-          "time_info": "[11时48分 ~ 17时55分]"
+          "appearance_count": 21,
+          "time_info": "[11时48分 ~ 18时01分]"
         },
         {
           "title": "周五（12月26日），人工智能（AI）赢家指数跌0.19%，报286.82点，本周累计上涨1.91%，整体持续走高。 AI软件先驱指数跌0.08%，报127.02点，本周累涨0.46%，23日美股盘初显著下挫——当时彻底回吐22日的涨幅。",
