@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-27T22:56:20.165131+08:00",
-  "total_titles_processed": 1480,
+  "generated_at": "2025-12-27T23:40:33.464798+08:00",
+  "total_titles_processed": 1508,
   "failed_sources": [],
   "trends": [
     {
@@ -136,8 +136,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 21,
-          "time_info": "[16时51分 ~ 22时56分]"
+          "appearance_count": 22,
+          "time_info": "[16时51分 ~ 23时40分]"
         },
         {
           "title": "加利福尼亚州确认已撤回针对美国总统特朗普政府撤销逾40亿美元高铁资金决定的诉讼。",
@@ -163,8 +163,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 23,
-          "time_info": "[15时33分 ~ 22时56分]"
+          "appearance_count": 24,
+          "time_info": "[15时33分 ~ 23时40分]"
         },
         {
           "title": "特朗普：未经我批准 泽连斯基一无所有",
@@ -287,17 +287,6 @@
           "time_info": "[11时48分 ~ 14时58分]"
         },
         {
-          "title": "美国总统特朗普：关税正在为美国创造巨大财富，并带来前所未有的国家安全保障。贸易逆差已削减60%，实属史无前例。GDP增长率达4.3%，且持续攀升。没有通货膨胀！！！我们国家再次赢得世界尊重。",
-          "url": "https://flash.jin10.com/detail/20251227214522049800",
-          "source": "金十数据",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[22时44分 ~ 22时56分]"
-        },
-        {
           "title": "美国总统特朗普：认为与乌克兰总统泽连斯基的会谈将是“不错的”。 将在周末于海湖庄园接见泽连斯基和以色列总理内塔尼亚胡。 泽连斯基的任何提议都需要我的批准。 预计很快将与俄罗斯总统普京对话。（Politico）",
           "url": "https://wallstreetcn.com/livenews/3027452",
           "source": "华尔街见闻-快讯",
@@ -319,6 +308,18 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "11时48分"
+        },
+        {
+          "title": "美国总统特朗普：关税正在为美国创造巨大财富，并带来前所未有的国家安全保障。贸易逆差已削减60%，实属史无前例。GDP增长率达4.3%，且持续攀升。没有通货膨胀！！！我们国家再次赢得世界尊重。",
+          "url": "https://flash.jin10.com/detail/20251227214522049800",
+          "source": "金十数据",
+          "ranks": [
+            4,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[22时44分 ~ 23时40分]"
         },
         {
           "title": "报道：特朗普声称，在他批准之前，泽连斯基“什么都没有”",
@@ -358,6 +359,18 @@
           "time_info": "[19时43分 ~ 19时56分]"
         },
         {
+          "title": "美国总统特朗普：美国的犯罪率处于历史最低水平。这在很大程度上要归功于历史上最成功的南部边境行动。此外，今天在美国工作的人比以往任何时候都多。",
+          "url": "https://flash.jin10.com/detail/20251227213217547800",
+          "source": "金十数据",
+          "ranks": [
+            7,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[22时44分 ~ 23时40分]"
+        },
+        {
           "title": "乌总统：乌美安全保障协议接近完成，签署取决于与特朗普会晤",
           "url": "https://wallstreetcn.com/livenews/3027395",
           "source": "华尔街见闻-快讯",
@@ -368,17 +381,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[00时48分 ~ 01时36分]"
-        },
-        {
-          "title": "美国总统特朗普：美国的犯罪率处于历史最低水平。这在很大程度上要归功于历史上最成功的南部边境行动。此外，今天在美国工作的人比以往任何时候都多。",
-          "url": "https://flash.jin10.com/detail/20251227213217547800",
-          "source": "金十数据",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[22时44分 ~ 22时56分]"
         }
       ]
     },
@@ -394,8 +396,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 34,
-          "time_info": "[11时48分 ~ 22时56分]"
+          "appearance_count": 35,
+          "time_info": "[11时48分 ~ 23时40分]"
         },
         {
           "title": "美股指开盘涨跌不一，霸王茶姬股价创新低，金属再度狂飙，金银铜齐创新高，沪铜首次站上十万关口",
@@ -616,6 +618,20 @@
       "match_count": 2,
       "titles": [
         {
+          "title": "金饰价格破1400元黄金回收加工却遇冷",
+          "url": "https://www.toutiao.com/trending/7588294573819101226/",
+          "source": "今日头条",
+          "ranks": [
+            27,
+            5,
+            6,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[21时42分 ~ 23时40分]"
+        },
+        {
           "title": "金饰价格突破1400元黄金回收遇冷",
           "url": "https://s.weibo.com/weibo?q=%23%E9%87%91%E9%A5%B0%E4%BB%B7%E6%A0%BC%E7%AA%81%E7%A0%B41400%E5%85%83%E9%BB%84%E9%87%91%E5%9B%9E%E6%94%B6%E9%81%87%E5%86%B7%23&t=31&band_rank=24&Refer=top",
           "source": "微博",
@@ -628,19 +644,6 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[12时55分 ~ 14时01分]"
-        },
-        {
-          "title": "金饰价格破1400元黄金回收加工却遇冷",
-          "url": "https://www.toutiao.com/trending/7588294573819101226/",
-          "source": "今日头条",
-          "ranks": [
-            27,
-            5,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[21时42分 ~ 22时56分]"
         }
       ]
     },
